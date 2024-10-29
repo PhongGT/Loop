@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eeacb95ed5b37fa40b41a5a74354b5eb, type: 3}
+  m_Name: RoadDemo
+  m_EditorClassIdentifier: 
+  useSeed: 0
+  seed: 0
+  moduleObjects:
+  - Module:
+      Display: cement
+      Weight: 10
+      sprite: {fileID: 21300000, guid: 6627c6bdd0a31a64393f5f663ed801d0, type: 3}
+      leftSocket: 0
+      rightSocket: 0
+      topSocket: 0
+      lowSocket: 0
+  - Module:
+      Display: straight horizontal
+      Weight: 1
+      sprite: {fileID: 21300000, guid: 8826db6810029854d8899f3ffc35d6da, type: 3}
+      leftSocket: 1
+      rightSocket: 1
+      topSocket: 0
+      lowSocket: 0
+  - Module:
+      Display: modules_5
+      Weight: 1
+      sprite: {fileID: 21300000, guid: 57dcd659a6cbf8e4e8e102cf5db7982d, type: 3}
+      leftSocket: 0
+      rightSocket: 0
+      topSocket: 1
+      lowSocket: 1
+  - Module:
+      Display: modules_0
+      Weight: 1
+      sprite: {fileID: 21300000, guid: 057f6480dcf34dc41a176e31210bc958, type: 3}
+      leftSocket: 0
+      rightSocket: 1
+      topSocket: 1
+      lowSocket: 0
+  - Module:
+      Display: modules_1
+      Weight: 1
+      sprite: {fileID: 21300000, guid: f2a723a7f4476934f8b2fbc767339e1e, type: 3}
+      leftSocket: 1
+      rightSocket: 0
+      topSocket: 0
+      lowSocket: 1
+  - Module:
+      Display: modules_3
+      Weight: 1
+      sprite: {fileID: 21300000, guid: a37caab5148a33f458972607c6a22979, type: 3}
+      leftSocket: 0
+      rightSocket: 1
+      topSocket: 0
+      lowSocket: 1
+  - Module:
+      Display: modules_4
+      Weight: 1
+      sprite: {fileID: 21300000, guid: 508a3a3023582c04780410096982bd50, type: 3}
+      leftSocket: 1
+      rightSocket: 0
+      topSocket: 1
+      lowSocket: 0
+  Width: 10
+  Height: 10

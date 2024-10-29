@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c7f9e63f3e24f37bba6a10f38a3f086, type: 3}
+  m_Name: WFCReadme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 477a15b7724b94a43b028792af4d45f8, type: 3}
+  iconMaxWidth: 128
+  title: Wave Function Collapser
+  gettingStartedSection:
+    heading: Getting Started
+    text: 'Welcome to the Wave Function Collapser! This is a tool for running the
+      WFC algorithm in Unity. Check out any of the example scenes below to discover
+      what is possible with the Collapser. The "Colors" example uses sprite sheets
+      and neighboring colors to create modules and constraints. The "Sockets" example
+      uses a simple socket system to provide the constraints. Lastly, "Sudoku" is
+      a custom example driven mostly from code. '
+    examples:
+    - icon: {fileID: 2800000, guid: f22aa66db890953438770e31dc073aec, type: 3}
+      title: Colors
+      scenePath: Assets/com.brewedink.wfc/Examples/SimpleWorld/SimpleWorld.unity
+    - icon: {fileID: 2800000, guid: 0ffc87a498c6144458cef23a9b57e82f, type: 3}
+      title: Easier Colors
+      scenePath: Assets/com.brewedink.wfc/Examples/SimpleColors/blueOrangeColors.unity
+    - icon: {fileID: 2800000, guid: 921d152b7b2aeb547be3cf4a74fe57e0, type: 3}
+      title: Sockets
+      scenePath: Assets/com.brewedink.wfc/Examples/RoadsDemo/RoadDemoScene.unity
+    - icon: {fileID: 2800000, guid: 034195716ed3c4c4c9b5371abfd0b4c9, type: 3}
+      title: Sudoku
+      scenePath: Assets/com.brewedink.wfc/Examples/Sudoku/Sudoku.unity
+  docSection:
+    heading: Documentation
+    text: You can always reopen this window in the Unity Help menu. Take a moment
+      to explore the various documentation around the Wave Function Collapse algorithm.
+    links:
+    - linkText: Youtube Videos
+      url: https://www.youtube.com/playlist?list=PLJpZGN1JUQymKsQDGsu6ocYeyKe7hmEMX
+      about: Watch how to use the example scenes, set up your own constraints and
+        modules, and run the WFC through code.
+    - linkText: Code Documentation
+      url: https://github.com/cdhanna/WaveFunctionCollapserDocs
+      about: Reference the details of the code behind the simulation, and how to
+        take full advantage of it.
+    - linkText: Chris Hanna
+      url: https://cdhanna.github.io/brewedink/
+      about: Take a look at my other work, or reach out.

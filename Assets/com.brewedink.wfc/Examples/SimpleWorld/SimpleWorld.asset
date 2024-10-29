@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b6c54768fe89ca45a66ee418b5f251d, type: 3}
+  m_Name: SimpleWorld
+  m_EditorClassIdentifier: 
+  useSeed: 0
+  seed: 0
+  moduleObjects:
+  - Module:
+      Display: simpleWorldTiles_0
+      Weight: 1
+      Sprite: {fileID: -9168926720618266681, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_9
+      Weight: 1
+      Sprite: {fileID: 6998231197406880265, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_10
+      Weight: 1
+      Sprite: {fileID: -5213043770312756801, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_12
+      Weight: 1
+      Sprite: {fileID: -7546158363831125764, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_13
+      Weight: 1
+      Sprite: {fileID: 3183206400712544163, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_17
+      Weight: 1
+      Sprite: {fileID: -4982851314679225438, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_18
+      Weight: 1
+      Sprite: {fileID: 5652482225072851396, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_20
+      Weight: 0
+      Sprite: {fileID: -2604110497132430184, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_21
+      Weight: 0
+      Sprite: {fileID: -1182606947830272871, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_28
+      Weight: 1
+      Sprite: {fileID: -3530547074547073140, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_29
+      Weight: 0
+      Sprite: {fileID: 4241278877225588806, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_30
+      Weight: 1
+      Sprite: {fileID: 3041198844954052317, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_33
+      Weight: 1
+      Sprite: {fileID: -8237799038800715672, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_35
+      Weight: 1
+      Sprite: {fileID: -2639067190988069981, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_41
+      Weight: 1
+      Sprite: {fileID: 1658371671556361728, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_43
+      Weight: 1
+      Sprite: {fileID: -6301216983410998186, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_49
+      Weight: 1
+      Sprite: {fileID: -6886897878321863140, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_51
+      Weight: 1
+      Sprite: {fileID: -9092734835821110244, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_57
+      Weight: 1
+      Sprite: {fileID: 2862552737547673294, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_59
+      Weight: 1
+      Sprite: {fileID: -8429273490928597826, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_44
+      Weight: 0
+      Sprite: {fileID: -7003617856503665649, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  - Module:
+      Display: simpleWorldTiles_45
+      Weight: 0
+      Sprite: {fileID: 2599326137218274059, guid: 41f5dadc9d47b514da53a4267b9a4d66,
+        type: 3}
+  Size: {x: 15, y: 15}
+  LeftSamplePad: 4
+  RightSamplePad: 4
+  LowSamplePad: 7
+  TopSamplePad: 7
+  SampleCount: 4
+  SampleTolerance: 0.3
+  SampleCompressionRatio: 1.275
+  SampleCompressionOffset: 0

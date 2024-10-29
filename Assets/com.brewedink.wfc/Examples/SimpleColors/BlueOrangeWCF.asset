@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b6c54768fe89ca45a66ee418b5f251d, type: 3}
+  m_Name: BlueOrangeWCF
+  m_EditorClassIdentifier: 
+  useSeed: 1
+  seed: 2
+  moduleObjects:
+  - Module:
+      Display: bo
+      Weight: 1
+      Sprite: {fileID: 7867605410140881060, guid: ab73019c24904d54f8f9d9b783af27a4,
+        type: 3}
+  - Module:
+      Display: b
+      Weight: 1
+      Sprite: {fileID: -3082638324614890459, guid: ab73019c24904d54f8f9d9b783af27a4,
+        type: 3}
+  - Module:
+      Display: o
+      Weight: 1
+      Sprite: {fileID: 2740331299927883088, guid: ab73019c24904d54f8f9d9b783af27a4,
+        type: 3}
+  - Module:
+      Display: ob
+      Weight: 1
+      Sprite: {fileID: 5583718258539510252, guid: ab73019c24904d54f8f9d9b783af27a4,
+        type: 3}
+  - Module:
+      Display: ob2
+      Weight: 1
+      Sprite: {fileID: 9221108672284524317, guid: ab73019c24904d54f8f9d9b783af27a4,
+        type: 3}
+  - Module:
+      Display: bo2
+      Weight: 1
+      Sprite: {fileID: 4096018165277268436, guid: ab73019c24904d54f8f9d9b783af27a4,
+        type: 3}
+  Size: {x: 15, y: 15}
+  LeftSamplePad: 7
+  RightSamplePad: 7
+  LowSamplePad: 7
+  TopSamplePad: 7
+  SampleCount: 1
+  SampleTolerance: 0.2
+  SampleCompressionRatio: 1
+  SampleCompressionOffset: 0
