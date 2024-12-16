@@ -53,7 +53,7 @@ public class Map : MonoBehaviour
             for (int j = 0; j < height; j++)
             {
                 Cell cell = state[i, j];
-                tilemap.SetTile(cell.position, GetTile(cell));
+                tilemap.SetTile(cell.position, Empty);
             }
         }
     }

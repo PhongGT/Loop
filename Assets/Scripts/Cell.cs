@@ -1,10 +1,12 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[System.Serializable]
 public class Cell 
 {
-        public enum Type
+        [Serializable]public enum Type
     {
         //Sideroad
         Vampiermansion,
@@ -34,14 +36,14 @@ public class Cell
 
 
     }
-    public enum Placement
+    [Serializable]public enum Placement
     {
         Road,
         Sideroad,
         Landscape,
         Special,
     }
-    public enum Effect
+    [Serializable]public enum Effect
     {
         Adj,
         R1,

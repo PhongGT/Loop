@@ -9,23 +9,22 @@ using UnityEditor.U2D.Animation;
 using System.Linq;
 using Unity.VisualScripting;
 using Newtonsoft.Json;
-
+[System.Serializable]
 public class WFC : MonoBehaviour
 {
-    //public SpriteConfig Config;
-    //public GameObject prefab;
-    public List<RoadsCord> roads = new List<RoadsCord>();
-    public Stack<Cell> roadStack = new Stack<Cell>();
-    public bool[,] visited; 
+
+    [SerializeField] public List<RoadsCord> roads = new List<RoadsCord>();
+    [SerializeField] public Stack<Cell> roadStack = new Stack<Cell>();
+    public bool[,] visited;
     public Slot slot;
-    int width = 25;
-    int height = 20;
+    int width = 21;
+    int height = 12;
     public Cell[,] cells;
 
     public Map map;
     private void Awake()
     {
-        map = GetComponentInChildren<Map>();   
+        map = GetComponentInChildren<Map>();
     }
     void Start()
     {
@@ -37,7 +36,7 @@ public class WFC : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
     public void NewGame()
     {
@@ -49,20 +48,20 @@ public class WFC : MonoBehaviour
         NewGame();
         for (int i = 0; i < width; i++)
         {
-            for(int j = 0; j < height; j++)
+            for (int j = 0; j < height; j++)
             {
                 Cell cell = new Cell();
                 cell.position = new Vector3Int(i, j, 0);
                 cell.type = Cell.Type.Empty;
-                cells[i,j] = cell;
+                cells[i, j] = cell;
             }
         }
     }
     public void GridGen()
     {
-        
-        float centerI = width/2;
-        float centerJ = height/2;
+
+        float centerI = width / 2;
+        float centerJ = height / 2;
         for (int i = 0; i < width; i++)
         {
             for (int j = 0; j < height; j++)
@@ -75,24 +74,24 @@ public class WFC : MonoBehaviour
                     cell.position = new Vector3Int(i, j, 0);
                     cell.type = Cell.Type.Road;
                     cells[i, j] = cell;
-                    roads.Add(new RoadsCord(i,j));
+                    roads.Add(new RoadsCord(i, j));
                 }
-                else if(distance <6.4)
+                else if (distance < 6.4)
                 {
-                   if(Random.Range(0,4) < 3)
-                   {
+                    if (Random.Range(0, 4) < 3)
+                    {
                         Cell cell1 = new Cell();
                         cell1.position = new Vector3Int(i, j, 0);
                         cell1.type = Cell.Type.Road;
                         roads.Add(new RoadsCord(i, j));
                         cells[i, j] = cell1;
-                        
+
                     }
                 }
             }
         }
-        cells[0,0].type = Cell.Type.Beacon;
-        
+        cells[0, 0].type = Cell.Type.Beacon;
+
     }
     public int CountNeighbors(Cell cell)
     {
@@ -102,23 +101,25 @@ public class WFC : MonoBehaviour
             for (int j = -1; j <= 1; j++)
             {
                 if (i == 0 && j == 0) continue;
-                if (cells[cell.position.x+i,cell.position.y+j].type == Cell.Type.Road) {
-                    count++; }
+                if (cells[cell.position.x + i, cell.position.y + j].type == Cell.Type.Road)
+                {
+                    count++;
+                }
             }
         }
         return count;
     }
     public void CellularAutomata(int Neighbors)
     {
-        Debug.Log(roads.Count);
         for (int i = 0; i < roads.Count; i++)
         {
             roads[i].count = CountNeighbors(cells[roads[i].x, roads[i].y]);
         }
         for (int i = 0; i < roads.Count; i++)
         {
-            if (roads[i].count <= Neighbors) {
-                cells[roads[i].x,roads[i].y].type = Cell.Type.Empty;
+            if (roads[i].count <= Neighbors)
+            {
+                cells[roads[i].x, roads[i].y].type = Cell.Type.Empty;
                 roads.Remove(roads[i]);
                 i--;
             }
@@ -127,60 +128,82 @@ public class WFC : MonoBehaviour
     }
     public void CellularAutomata(float a)
     {
-        
-        for (int i = 0; i < roads.Count; i++) 
+
+        for (int i = 0; i < roads.Count; i++)
         {
             roads[i].SetCount(CountNeighbors(cells[roads[i].x, roads[i].y]));
         }
         for (int i = 0; i < roads.Count; i++)
         {
-            if (roads[i].count == a) { 
+            if (roads[i].count == a)
+            {
                 cells[roads[i].x, roads[i].y].type = Cell.Type.Empty;
                 roads.Remove(roads[i]);
                 i--;
             }
         }
-        Debug.Log(roads.Count + " 2");
+
     }
-    public void DFS(bool[,] visited, int yStart, int xStart, Cell[,] cells, int k)
-    {   
-       if(yStart<0 || yStart>= width|| xStart < 0 || xStart >= height || cells[yStart,xStart].type != Cell.Type.Road || visited[yStart,xStart])
-       {
+    public void DFS(bool[,] visited, int yStart, int xStart, Cell[,] cells, int k, int x, int y)
+    {
+        if (yStart < 0 || yStart >= height || xStart < 0 || xStart >= width || cells[yStart, xStart].type != Cell.Type.Road || visited[yStart, xStart])
+        {
             return;
-       }
-        visited[yStart,xStart] = true;
-        roadStack.Push(cells[yStart,xStart]);
-        DFS(visited, yStart-1, xStart, cells, k++);
-        DFS(visited, yStart+1, xStart, cells, k++);
-        DFS(visited, yStart, xStart-1, cells,k++);
-        DFS(visited, yStart, xStart+1, cells,k++);
+        }
+        visited[yStart, xStart] = true;
+        roadStack.Push(cells[yStart, xStart]);
+        Debug.Log(" X: " + xStart + " Y: " + yStart);
+        if (y == yStart && x == xStart && visited[yStart, xStart] && k!=0)
+        {
+            return;
+        }
+        DFS(visited, yStart, xStart - 1, cells, k + 1, x, y);          
+        DFS(visited, yStart - 1, xStart, cells, k + 1, x, y);
+        DFS(visited, yStart + 1, xStart, cells, k + 1, x, y);      
+        DFS(visited, yStart, xStart + 1, cells, k + 1, x, y);
+
+
     }
-    public void EndRoad(
-        )
+    IEnumerator Road()
     {
 
+        RoadsCord start = roads[1];
+        int xStart = start.x;
+        int yStart = start.y;
+        DFS(visited, yStart, xStart, cells, 0, xStart, yStart);
+
+
+        foreach (Cell cell in roadStack)
+        {
+            map.Draw(cell);
+            yield return new WaitForSeconds(0.3f);
+        }
     }
     public void NewMap()
     {
 
         roads.Clear();
+        roadStack.Clear();
+        
         GenerationCell();
         GridGen();
-        
+        map.Draw(cells);
         //Clean Conner 
         CellularAutomata(4);
         CellularAutomata(3);
         CellularAutomata(4);
         CellularAutomata(3);
         CellularAutomata((float)8);
+        StartCoroutine(Road());
+        Debug.Log(JsonConvert.SerializeObject(roadStack, Formatting.Indented));
 
-       
-        map.Draw(cells);
-        Debug.Log(JsonConvert.SerializeObject(cells, Formatting.Indented));
+
         Debug.Log("New");
 
-        
+
     }
+
+    [System.Serializable]
     public class RoadsCord
     {
         public int x;
@@ -195,7 +218,7 @@ public class WFC : MonoBehaviour
         }
         public void SetCount(int count)
         {
-            this.count =count;
+            this.count = count;
         }
 
     }

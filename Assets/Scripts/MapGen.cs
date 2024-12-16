@@ -7,60 +7,39 @@ public class MapGen : MonoBehaviour
     // Start is called before the first frame update
 
 
-    int rows = 10;
-    int cols = 10;
-    int[,] matrix;
+    [SerializeField] int rows = 21;
+    [SerializeField] int cols = 12;
+    Cell[,] nodes;
     System.Random random = new System.Random();
-    public Map map;
-    private void Awake()
-    {
-        map = GetComponentInChildren<Map>();
-    }
-    void Start()
-    {
-        matrix = new int[rows, cols];
+    private Plane plane;
+    [SerializeField] protected Vector3 mousePos;
 
-        // Draw multiple random ellipses
-        for (int k = 0; k < 5; k++) // Drawing 5 random ellipses
+    private void Start()
+    {
+        CreateGrid();
+        plane = new Plane(Vector3.up, transform.position);
+    }
+    void GetMousePosOnGrid()
+    {
+        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+        if(plane.Raycast(ray, out var enter))
         {
-            int centerX = random.Next(0, rows);
-            int centerY = random.Next(0, cols);
-            int radiusX = random.Next(1, rows / 2);
-            int radiusY = random.Next(1, cols / 2);
-
-            DrawEllipse(centerX, centerY, radiusX, radiusY);
+            mousePos = ray.GetPoint(enter);
+            print(mousePos);
         }
-
-        PrintMatrix();
     }
-
-    void DrawEllipse(int centerX, int centerY, int radiusX, int radiusY)
+    private void CreateGrid()
     {
-        for (int i = 0; i < rows; i++)
+        nodes = new Cell[rows, cols];
+        for(int i = 0; i < rows; i++)
         {
             for (int j = 0; j < cols; j++)
             {
-                double dx = (i - centerX) / (double)radiusX;
-                double dy = (j - centerY) / (double)radiusY;
-                if (dx * dx + dy * dy <= 1)
-                {
-                    matrix[i, j] = 1; // Marking the cell as part of the ellipse
-                }
+                Vector3 worldPos = new Vector3(i, j, 0);
             }
         }
     }
 
-    void PrintMatrix()
-    {
-        for (int i = 0; i < rows; i++)
-        {
-            for (int j = 0; j < cols; j++)
-            {
-                Debug.Log(matrix[i, j] == 1 ? "X " : ". ");
-            }
-            Debug.Log("\n");
-        }
-    }
 
 
 
