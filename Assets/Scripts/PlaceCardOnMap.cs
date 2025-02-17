@@ -1,18 +1,51 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class PlaceCardOnMap : MonoBehaviour
+using UnityEngine.EventSystems;
+public class PlaceCardOnMap : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, IEndDragHandler, IDragHandler
 {
-    // Start is called before the first frame update
-    void Start()
+   [SerializeField] private RectTransform m_RectTransform;
+   [SerializeField] private Canvas canvas;
+    GameObject target;
+    Vector2 basePos;
+    
+    private void Awake()
     {
+        m_RectTransform = GetComponent<RectTransform>();
+       
         
+    }
+    private void Start()
+    {
+        basePos = m_RectTransform.anchoredPosition;
+    }
+    public void OnBeginDrag(PointerEventData eventData)
+    {
+        Debug.Log("Drag");
     }
 
-    // Update is called once per frame
-    void Update()
+    public void OnDrag(PointerEventData eventData)
     {
-        
+     
+        Debug.Log("InDrag");
+        m_RectTransform.anchoredPosition += eventData.delta / canvas.scaleFactor ;
     }
+
+    public void OnEndDrag(PointerEventData eventData)
+    {
+        Debug.Log("EndDrag");
+
+
+        if(target == null)
+        {
+            m_RectTransform.anchoredPosition = basePos;
+        }
+    }
+
+    public void OnPointerDown(PointerEventData eventData)
+    {
+        Debug.Log("Click");
+    }
+
+
 }

@@ -17,7 +17,7 @@ public class WFC : MonoBehaviour
     [SerializeField] public Stack<Cell> roadStack = new Stack<Cell>();
     public bool[,] visited;
     public Slot slot;
-    int width = 21;
+    int width = 17;
     int height = 12;
     public Cell[,] cells;
 
@@ -68,7 +68,7 @@ public class WFC : MonoBehaviour
             {
 
                 float distance = Mathf.Sqrt(Mathf.Pow(i - centerI, 2) + Mathf.Pow(j - centerJ, 2));
-                if (distance < 6)
+                if (distance < 5)
                 {
                     Cell cell = new Cell();
                     cell.position = new Vector3Int(i, j, 0);
@@ -76,7 +76,7 @@ public class WFC : MonoBehaviour
                     cells[i, j] = cell;
                     roads.Add(new RoadsCord(i, j));
                 }
-                else if (distance < 6.4)
+                else if (distance < 5.4)
                 {
                     if (Random.Range(0, 4) < 3)
                     {
@@ -101,6 +101,10 @@ public class WFC : MonoBehaviour
             for (int j = -1; j <= 1; j++)
             {
                 if (i == 0 && j == 0) continue;
+                if ((cell.position.x + i) >= width || (cell.position.y + j) >= height || cell.position.x + i < 0 || cell.position.y + j < 0)
+                {
+                    continue;
+                }
                 if (cells[cell.position.x + i, cell.position.y + j].type == Cell.Type.Road)
                 {
                     count++;
@@ -146,12 +150,15 @@ public class WFC : MonoBehaviour
     }
     public void DFS(bool[,] visited, int yStart, int xStart, Cell[,] cells, int k, int x, int y)
     {
-        if (yStart < 0 || yStart >= height || xStart < 0 || xStart >= width || cells[yStart, xStart].type != Cell.Type.Road || visited[yStart, xStart])
+        Debug.Log(yStart + "  " +xStart);
+        if (yStart < 0 || yStart >= height || xStart < 0 || xStart >= width )
         {
             return;
         }
-        visited[yStart, xStart] = true;
-        roadStack.Push(cells[yStart, xStart]);
+        else if(cells[xStart, yStart].type != Cell.Type.Road || visited[xStart, yStart])
+        { return; }
+        visited[xStart, yStart] = true;
+        roadStack.Push(cells[xStart, yStart]);
         Debug.Log(" X: " + xStart + " Y: " + yStart);
         if (y == yStart && x == xStart && visited[yStart, xStart] && k!=0)
         {

@@ -13,6 +13,7 @@ public class MapGen : MonoBehaviour
     System.Random random = new System.Random();
     private Plane plane;
     [SerializeField] protected Vector3 mousePos;
+    [SerializeField] protected 
 
     private void Start()
     {
