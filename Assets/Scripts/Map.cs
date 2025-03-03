@@ -1,40 +1,43 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEditor.Tilemaps;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
 public class Map : MonoBehaviour
 {
-        public Tilemap tilemap {  get; private set; }
+       
     // Start is called before the first frame update
-        public Tile Vampiermansion;
-        public Tile RoadLantern;
-        public Tile Goblincamp;
-        public Tile Spidercocoon;
+        public GameObject Vampiermansion;
+        public GameObject RoadLantern;
+        public GameObject Goblincamp;
+        public GameObject Spidercocoon;
         //Road
-        public Tile Cemetery;
-        public Tile Grove;
-        public Tile Ruins;
-        public Tile Swamp;
-        public Tile Village;
-        //Landscape
-        public Tile Rock;
-        public Tile Mountain;
-        public Tile Mountainpeak;
-        public Tile Thicket;
-        public Tile Forest;
-        public Tile River;
-        public Tile Meadow;
-        //Special
-        public Tile Treasury;
-        public Tile Emptytreasury;
-        public Tile Beacon;
-        public Tile Empty;
-        public Tile Road;
+        public GameObject Cemetery;
+        public GameObject Grove;
+        public GameObject Ruins;
+        public GameObject Swamp;
+        public GameObject Village;
+        //LandsGameObject
+        public GameObject Rock;
+        public GameObject Mountain;
+        public GameObject Mountainpeak;
+        public GameObject Thicket;
+        public GameObject Forest;
+        public GameObject River;
+        public GameObject Meadow;
+        //SpeciGameObject
+        public GameObject Treasury;
+        public GameObject Emptytreasury;
+        public GameObject Beacon;
+        public GameObject Empty;
+        public GameObject Road;
+
+    public float Scalesize = 1.5f;
     private void Awake()
     {
-        tilemap = GetComponent<Tilemap>();
+        
     }
 
 
@@ -43,7 +46,7 @@ public class Map : MonoBehaviour
     {
         
     }
-    public void Draw(Cell[,] state)
+    public void Draw(Tile[,] state)
     {
         int width = state.GetLength(0);
         int height = state.GetLength(1);
@@ -52,40 +55,48 @@ public class Map : MonoBehaviour
         {
             for (int j = 0; j < height; j++)
             {
-                Cell cell = state[i, j];
-                tilemap.SetTile(cell.position, Empty);
+                Tile tile = state[i, j];
+                if (tile.type != Tile.Type.Road) { 
+                    Draw(tile); }
+               
             }
         }
     }
-    public void Draw(Cell cell)
+    public void Draw(Tile tile)
     {
-        tilemap.SetTile(cell.position, GetTile(cell));
+        GameObject draw = GetTile(tile);
+        Vector3 place = this.transform.position + tile.position * Scalesize;
+        if(draw !=null)
+        {
+            GameObject newObj = Instantiate(draw, place, transform.rotation , this.transform);
+            
+        }
     }
-    private Tile GetTile(Cell cell)
+    private GameObject GetTile(Tile cell)
     {
         switch (cell.type)
         {
-            case Cell.Type.Beacon: return Beacon;
-            case Cell.Type.River: return River;
-            case Cell.Type.Mountain: return Mountain;
-            case Cell.Type.Mountainpeak: return Mountainpeak;
-            case Cell.Type.Treasury: return Treasury;
-            case Cell.Type.Emptytreasury: return Emptytreasury;
-            case Cell.Type.Cemetery: return Cemetery;
-            case Cell.Type.Spidercocoon: return Spidercocoon;
-            case Cell.Type.Thicket: return Thicket;
-            case Cell.Type.Rock: return Rock;
-            case Cell.Type.Vampiermansion: return Vampiermansion;
-            case Cell.Type.RoadLantern: return RoadLantern;
-            case Cell.Type.Goblincamp: return Goblincamp;
-            case Cell.Type.Forest: return Forest;
-            case Cell.Type.Grove: return Grove;
-            case Cell.Type.Ruins: return Ruins;
-            case Cell.Type.Swamp: return Swamp;
-            case Cell.Type.Village: return Village;
-            case Cell.Type.Meadow: return Meadow;
-            case Cell.Type.Empty: return Empty;
-            case Cell.Type.Road: return Road;
+            case Tile.Type.Beacon: return Beacon;
+            case Tile.Type.River: return River;
+            case Tile.Type.Mountain: return Mountain;
+            case Tile.Type.Mountainpeak: return Mountainpeak;
+            case Tile.Type.Treasury: return Treasury;
+            case Tile.Type.Emptytreasury: return Emptytreasury;
+            case Tile.Type.Cemetery: return Cemetery;
+            case Tile.Type.Spidercocoon: return Spidercocoon;
+            case Tile.Type.Thicket: return Thicket;
+            case Tile.Type.Rock: return Rock;
+            case Tile.Type.Vampiermansion: return Vampiermansion;
+            case Tile.Type.RoadLantern: return RoadLantern;
+            case Tile.Type.Goblincamp: return Goblincamp;
+            case Tile.Type.Forest: return Forest;
+            case Tile.Type.Grove: return Grove;
+            case Tile.Type.Ruins: return Ruins;
+            case Tile.Type.Swamp: return Swamp;
+            case Tile.Type.Village: return Village;
+            case Tile.Type.Meadow: return Meadow;
+            case Tile.Type.Empty: return Empty;
+            case Tile.Type.Road: return Road;
             default: return null;
         }
     }

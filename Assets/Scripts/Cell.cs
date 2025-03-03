@@ -1,59 +1,56 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
-[System.Serializable]
-public class Cell 
+public class Cell : MonoBehaviour ,IPointerEnterHandler, IPointerExitHandler
 {
-        [Serializable]public enum Type
+    // Start is called before the first frame update
+    protected Tile currentTile;
+    protected GameManager impactRange;
+    protected bool isPreview;
+    void Start()
     {
-        //Sideroad
-        Vampiermansion,
-        RoadLantern,
-        Goblincamp,
-        Spidercocoon,
-        //Road
-        Road,
-        Cemetery,
-        Grove,
-        Ruins,
-        Swamp,
-        Village,
-        //Landscape
-        Rock,
-        Mountain,
-        Mountainpeak,
-        Thicket,
-        Forest,
-        River,
-        Meadow,
-        //Special
-        Treasury,
-        Emptytreasury,
-        Beacon,
-        Empty,
-
-
-    }
-    [Serializable]public enum Placement
-    {
-        Road,
-        Sideroad,
-        Landscape,
-        Special,
-    }
-    [Serializable]public enum Effect
-    {
-        Adj,
-        R1,
-        R2,
+        
     }
 
-    public Vector3Int position;
-    public Type type;
-    public Placement placement;
-    public Effect effect;
-    public Sprite[] sprite;   
 
+    void Update()
+    {
+        
+    }
+    
+    public void SetRoad()
+    {
+
+    }
+    public void PreviewTile()
+    {
+       switch(currentTile.effect)
+        {
+            case Tile.Effect.Adj:
+                break;
+            case Tile.Effect.R1:
+                break;
+            case Tile.Effect.R2:
+                break;
+        }
+    }
+    public void SetTile()
+    {
+
+    }
+    public void RemoveTile()
+    {
+
+    }
+    public void OnPointerEnter(PointerEventData eventData)
+    {
+        throw new System.NotImplementedException();
+    }
+
+    public void OnPointerExit(PointerEventData eventData)
+    {
+        throw new System.NotImplementedException();
+    }
 }
