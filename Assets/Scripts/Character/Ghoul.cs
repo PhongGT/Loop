@@ -11,9 +11,8 @@ public class Ghoul : Enemy, I_CastSkill
     
     public override void CastSkill(Character target)
     {
-        base.name = "Ghoul";
-        Debug.Log("Ghoul Attack");
-        if(R_Helper.CheckRandom(10f))
+        base.CastSkill(target);
+        if (R_Helper.CheckRandom(10f))
         {
             Bite(target);
         }

@@ -12,21 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d1a13acc9bd1df409881ed0cd32eb0e, type: 3}
   m_Name: Player
   m_EditorClassIdentifier: 
-  name: 
-  icon: {fileID: 0}
-  health: 0
-  maxHealth: 0
+  name: Player
+  icon: {fileID: 21300000, guid: f1203b931de1c4d4aa950df5f6846ab8, type: 3}
+  health: 100
+  maxHealth: 100
   healthRegen: 0
-  damage: 0
-  attackSpeed: 0
+  damage: 10
+  attackSpeed: 1
   evasion: 0
-  armor: 0
+  armor: 5
   maxShield: 0
   shield: 0
   counterChance: 0
   critChance: 0
   critDamage: 0
-  vamprirism: 0
+  vamprirism: 5
   pureDamage: 0
-  isPlayer: 0
-  targets: []
+  isPlayer: 1
+  targets:
+  - {fileID: 11400000, guid: 788f99d1ab9097d41bcf82b6d2fa1a3f, type: 2}
+  canAttack: 0
+  animator: {fileID: 0}

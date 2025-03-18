@@ -1,14 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-
+[System.Serializable]
 public class Character : ScriptableObject
 {
     [Header("Stats")]
     public string name;
     public Sprite icon;
+    public Event attack;
    [SerializeField] protected float health;
    [SerializeField] protected float maxHealth;
    [SerializeField] protected int healthRegen; //% health regen per Day;
@@ -27,14 +29,25 @@ public class Character : ScriptableObject
     // Effects Bleed, Slow, 
     public bool isPlayer;
     [Header("Target")]
-    public Character[] targets;
+    public List<Character> targets;
     [Header("Trigger")]
-    bool canAttack = false;
-    float waitBetweenAttack = 0f;
-    Animator animator;
+    public bool canAttack = false;
+    
+    public Animator animator;
+    public bool isDead;
+
+    public void Init()
+    {
+        health = maxHealth;
+        shield = maxShield;
+        isDead = false;
+
+        // Reset Effect on Character
+    }
     public int TakeDamage(float damage)
     {
-        if(R_Helper.CheckRandom(evasion))
+        int lastDamage;
+        if (R_Helper.CheckRandom(evasion))
         {
             //Degub.Log("Evasion");
             return 0;
@@ -51,15 +64,20 @@ public class Character : ScriptableObject
         }
         else if(shield > 0 && shield < damage)
         {
-            int damageAfterShiled = (int)(damage - shield);
-            health -= damageAfterShiled;
-            return damageAfterShiled;
+            lastDamage = (int)(damage - shield);
+            health -= lastDamage;
+            
         }
         else
         {
-            health -= damage;
-            return (int)damage;
+            lastDamage = (int)damage;
+            health -= lastDamage;
         }
+        if (health <= 0)
+        {
+            Die();
+        }
+        return lastDamage;
             
         
     }
@@ -112,7 +130,7 @@ public class Character : ScriptableObject
     {
         // Add Effect to Character
     }
-    protected void Die()
+    protected virtual void Die()
     {
         // If have Blood Groot Status Die when down to 20% max health
 
@@ -125,7 +143,7 @@ public class Character : ScriptableObject
             }
             else
             {
-                //Destroy(gameObject);
+                isDead = true;
             }
         }
 
@@ -134,20 +152,26 @@ public class Character : ScriptableObject
     {
         if(isPlayer)
         {
-            GameObject[] enemies = GameObject.FindGameObjectsWithTag("Enemy");
-            foreach (GameObject enemy in enemies)
-            {
-                targets = new Character[enemies.Length];
-                for (int i = 0; i < enemies.Length; i++)
-                {
-                    targets[i] = enemies[i].GetComponent<Character>();
-                }
-            }
+            targets = BattleManager.instance.enemys;
         }
         else
         {
-            targets[0] = BattleManager.instance.player;
+            targets = BattleManager.instance.player_allys;
         }
+        
+    }
+    public virtual void CastSkill(Character target)
+    {
+        Debug.Log(this.name + " Attack");
+
+    }
+    public IEnumerator WaitToAttack()
+    {
+        canAttack = false;
+        yield return null;
+        //animator.ResetTrigger("Attack");
+        yield return new WaitForSeconds(1/attackSpeed);
+        canAttack = true;
     }
 
 

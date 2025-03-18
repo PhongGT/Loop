@@ -4,7 +4,12 @@ using UnityEngine;
 
 public class HealthBar : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public Transform Transform;
+    public GameObject healthBarPrefab;
+    private void OnEnable()
+    {
+        
+    }
     void Start()
     {
         

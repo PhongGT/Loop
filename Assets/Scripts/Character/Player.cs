@@ -7,11 +7,13 @@ public class Player : Character , I_CastSkill
 {
     bool SunBlazeBladeLearn = false;
     int potionCount = 3;
-    public void CastSkill(Character target)
+
+
+    public override void CastSkill(Character target)
     {
-        base.name = "Player";
-        Debug.Log("Player Attack");
-        if(base.health < base.maxHealth/2 && potionCount > 0 )
+        base.CastSkill(target);
+
+        if (base.health < base.maxHealth/2 && potionCount > 0 )
         {
             HealingPotion(0.15f);
             potionCount--;
@@ -37,7 +39,7 @@ public class Player : Character , I_CastSkill
         {
             Attack(target, base.damage * 1.5f);
         }
-
+        
     }
     protected void ShieldBash(Character target)
     {

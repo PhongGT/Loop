@@ -6,7 +6,10 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
 
-  
+    [Header("Resource")]
+    public int gold;
+
+
 
     private void Awake()
     {
@@ -30,6 +33,7 @@ public class GameManager : MonoBehaviour
     public void GameOver()
     {
         // Show Game Over Screen
+        Debug.Log("Game Over");
     }
 
 }

@@ -12,21 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80e6e426b42c8d346b0c0c45a0da74ae, type: 3}
   m_Name: Basic_Ghoul
   m_EditorClassIdentifier: 
-  name: 
+  name: Ghoul
   icon: {fileID: 0}
-  health: 0
-  maxHealth: 0
-  healthRegen: 0
-  damage: 0
-  attackSpeed: 0
+  health: 40
+  maxHealth: 40
+  healthRegen: 10
+  damage: 10
+  attackSpeed: 0.3
   evasion: 0
-  armor: 0
+  armor: 5
   maxShield: 0
   shield: 0
   counterChance: 0
   critChance: 0
   critDamage: 0
-  vamprirism: 0
+  vamprirism: 5
   pureDamage: 0
   isPlayer: 0
-  targets: []
+  targets:
+  - {fileID: 11400000, guid: 9c61aaad6811f16439012af956db6a7f, type: 2}
+  canAttack: 1
+  animator: {fileID: 0}
