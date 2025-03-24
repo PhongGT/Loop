@@ -2,11 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class Battle : MonoBehaviour
 {
     public Character currentChar;
     public LoadCharacter loadCharacter;
-
     private void Start()
     {
         loadCharacter = GetComponent<LoadCharacter>();
@@ -17,18 +17,20 @@ public class Battle : MonoBehaviour
         //if(currentChar.animator == null) {
         //    return;
         //}
-        if (BattleManager.instance.startBattle)
+        
+        if (BattleManager.instance.startBattle && !Dead())
         {
-            Debug.Log("Battle Start");
+           
             Attack();
         }
+        
     }
     public void Attack()
     {
         if (!currentChar.canAttack)
             return;
 
-        currentChar.CastSkill(ReturnRandomTarget(currentChar.targets));
+        currentChar.CastSkill(BattleManager.instance.ReturnCharacter(this.currentChar.isPlayer));
         StartCoroutine(currentChar.WaitToAttack());
         Debug.Log("In Attack");
 
@@ -38,23 +40,24 @@ public class Battle : MonoBehaviour
         
     }
 
-    public void Dead()
+    public bool  Dead()
     {
         if (currentChar.isDead)
         {
             //currentChar.animator.SetTrigger("Dead");
             currentChar.canAttack = false;
-            currentChar.targets.Clear();
+          
             currentChar = null;
             //BattleManager.instance.CheckBattle();
+            this.gameObject.SetActive(false);
+            BattleManager.instance.LoadTarget(this.currentChar.isPlayer);
+            return true;
         }
-        this.gameObject.SetActive(false);
+        return false;
+        
+
     }
-    public Character ReturnRandomTarget(List<Character> targets)
-    {
-        int index = UnityEngine.Random.Range(0, targets.Count);
-        return targets[index];
-    }
+
 
 
 }

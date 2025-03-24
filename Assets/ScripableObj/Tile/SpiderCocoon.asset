@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c6eb1f9a6d9c4294f91ec418c786ddea, type: 3}
-  m_Name: New Cell
+  m_Name: SpiderCocoon
   m_EditorClassIdentifier: 
   position: {x: 0, y: 0, z: 0}
-  type: 0
+  type: 3
   placement: 0
   effect: 0
   sprite: {fileID: 0}
-  spriteOnDrag: {fileID: 0}
-  cellDescription: 
+  spritePreview: {fileID: 0}
+  cellDescription: 'Spider Nest '
   cellEffectDescription: 

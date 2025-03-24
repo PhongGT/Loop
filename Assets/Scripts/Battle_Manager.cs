@@ -8,6 +8,8 @@ public class BattleManager : MonoBehaviour
 {
     [SerializeField] public List<Character> enemys;
     [SerializeField] public List<Character> player_allys;
+    
+
     [SerializeField] protected List<LoadCharacter> player_allys_Load;
     [SerializeField] protected List<LoadCharacter> enemys_Load;
     [SerializeField] protected GameObject characterPrefab;
@@ -17,6 +19,7 @@ public class BattleManager : MonoBehaviour
     public int loopCount = 1;
     public bool isNewDay = false;
     public Player player;
+    public Ghoul ghoul; 
     public bool startBattle = false;
 
 
@@ -46,7 +49,7 @@ public class BattleManager : MonoBehaviour
             enemy.SetActive(false);
         }
 
-        LoadNewCharacter(player_allys_Load[0], player);
+        
 
         StartBattle();
     }
@@ -54,22 +57,24 @@ public class BattleManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(isNewDay)
+        {
 
+        }
     }
     public void StartBattle()
     {
         // Every time Player Collider with Cell Collider have Enemy Battle Start
-        PreperBattle(ref player_allys, ref enemys);
+        LoadNewCharacter(player_allys_Load[0], player);
+        LoadNewCharacter(enemys_Load[0], ghoul);
         LoadTarget();
-        player_allys_Load[0].UpdateEnemys(enemys);
+        //PreperBattle(ref player_allys, ref enemys);
         startBattle = true;
         //StartCoroutine(StartBattleCoroutine());
     }
 
     public void PreperBattle(ref List<Character> player_ally, ref List<Character> enemys)
     {
-
-
         foreach (var Char in enemys)
         {
             LoadCharacter l = returnInactiveCharacter(enemys_Load);
@@ -86,11 +91,8 @@ public class BattleManager : MonoBehaviour
         Character Char = character;
         Char.canAttack = true;
         Char.Init();
-
-
         loadSlot.Load(Char);
         loadSlot.gameObject.SetActive(true);
-
     }    
     public void LoadNewCharacter(LoadCharacter loadSlot, Character character)
     {
@@ -100,15 +102,77 @@ public class BattleManager : MonoBehaviour
         loadSlot.Load(Char);
         loadSlot.gameObject.SetActive(true);
     }
+    public void LoadTarget(bool isPlayer)
+    {
+        if(isPlayer)
+        {
+            player_allys.Clear();
+            foreach (var load in player_allys_Load)
+            {
+                if (load.isLoaded)
+                {
+                    player_allys.Add(load.ReturnCharacter);
+                }
+                
+
+            }
+        }
+        else
+        {
+            enemys.Clear();
+            foreach (var load in enemys_Load)
+            {
+                if (load.isLoaded)
+                {
+                    enemys.Add(load.ReturnCharacter);
+                }
+                
+            }
+        }
+        
+
+    }    
     public void LoadTarget()
     {
-        foreach (var load in player_allys_Load)
+
+            player_allys.Clear();
+            foreach (var load in player_allys_Load)
+            {
+                if (load.isLoaded)
+                {
+                    player_allys.Add(load.ReturnCharacter);
+                }
+                
+
+            }
+        
+   
+            enemys.Clear();
+            foreach (var load in enemys_Load)
+            {
+                if (load.isLoaded)
+                {
+                    enemys.Add(load.ReturnCharacter);
+                }
+                
+            }
+        
+    }    
+
+    
+
+    public Character ReturnCharacter(bool isPlayer)
+    {
+        int index;
+        if (!isPlayer)
         {
-            player_allys.Add( load.ReturnCharacter);
+            index = UnityEngine.Random.Range(0, player_allys_Load.Count);
+            return player_allys[index-1];
         }
-        foreach (var load in enemys_Load)
+        else
         {
-            enemys.Add(load.ReturnCharacter);
+            index = UnityEngine.Random.Range(0, enemys_Load.Count);
+            return enemys[index-1];
         }
     }
 

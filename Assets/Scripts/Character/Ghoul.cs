@@ -7,8 +7,9 @@ using UnityEngine;
 
 public class Ghoul : Enemy, I_CastSkill
 {
-    Character target ;
     
+
+
     public override void CastSkill(Character target)
     {
         base.CastSkill(target);

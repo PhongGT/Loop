@@ -18,10 +18,10 @@ public class LoadCharacter : MonoBehaviour
     public void Load(Character character)
     {
         battle = GetComponent<Battle>();
-        battle.currentChar = character;
+        battle.currentChar =  character;
         battle.currentChar.animator = GetComponent<Animator>();
-        spriteRenderer.sprite = character.icon;
-        this.name = character.name + " (Clone)";
+        spriteRenderer.sprite = character.baseStats.icon;
+        this.name = character.baseStats.name + " (Clone)";
         SpawnHealthBar();
         isLoaded = true;   
         
@@ -48,11 +48,6 @@ public class LoadCharacter : MonoBehaviour
             float healthPercent = currentHealth / maxHealth;
             healthSlider.value = healthPercent;
         }
-    }
-    public void UpdateEnemys(List<Character> targets)
-    {
-        battle.currentChar.targets = targets;
-        
     }
 
     public Character ReturnCharacter => battle.currentChar;

@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices.WindowsRuntime;
 using UnityEngine;
 
 [CreateAssetMenu]
@@ -46,9 +47,10 @@ public class Tile : ScriptableObject
     }
     [Serializable]public enum Effect
     {
-        Adj,
-        R1, // 3*3
-        R2, // 5*5
+        None,
+        UDLR,
+        Ef_3x3, // 3*3
+        
     }
    
     public Vector3 position;
@@ -57,6 +59,9 @@ public class Tile : ScriptableObject
     public Effect effect;
     public Sprite sprite;
     public Sprite spritePreview;
+    public string nameMob;
+    public float chanceToSpawn;
+    public float dayNeedToSpawn;
     public string cellDescription;
     public string cellEffectDescription;
 

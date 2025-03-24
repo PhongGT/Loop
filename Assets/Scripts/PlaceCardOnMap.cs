@@ -27,7 +27,7 @@ public class PlaceCardOnMap : MonoBehaviour, IPointerDownHandler, IBeginDragHand
     {
         m_RectTransform = GetComponent<RectTransform>();
         Debug.Log(m_RectTransform.position.x + "" + m_RectTransform.position.y  );
-
+        
       
     }
     private void Start()
@@ -52,9 +52,7 @@ public class PlaceCardOnMap : MonoBehaviour, IPointerDownHandler, IBeginDragHand
             target = ray.collider.gameObject;
             Debug.Log("Hit");
             //Set preview card
-            cardUI.SetActive(false);
-
-
+            //cardUI.SetActive(false);
         }
         else
         {
@@ -99,6 +97,6 @@ public class PlaceCardOnMap : MonoBehaviour, IPointerDownHandler, IBeginDragHand
 
     public void OnPointerExit(PointerEventData eventData)
     {
-        throw new System.NotImplementedException();
+        
     }
 }

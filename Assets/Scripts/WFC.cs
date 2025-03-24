@@ -150,7 +150,7 @@ public class WFC : MonoBehaviour
     }
     public void DFS(bool[,] visited, int yStart, int xStart, Tile[,] cells, int k, int x, int y)
     {
-        Debug.Log(yStart + "  " +xStart);
+        
         if (yStart < 0 || yStart >= height || xStart < 0 || xStart >= width )
         {
             return;
@@ -159,7 +159,7 @@ public class WFC : MonoBehaviour
         { return; }
         visited[xStart, yStart] = true;
         roadStack.Push(tiles[xStart, yStart]);
-        Debug.Log(" X: " + xStart + " Y: " + yStart);
+        
         if (y == yStart && x == xStart && visited[yStart, xStart] && k!=0)
         {
             return;
@@ -194,20 +194,21 @@ public class WFC : MonoBehaviour
         
         GenerationCell();
         GridGen();
-        map.Draw(tiles);
+        
         //Clean Conner 
         CellularAutomata(4);
         CellularAutomata(3);
         CellularAutomata(4);
         CellularAutomata(3);
         CellularAutomata((float)8);
+        map.Draw(tiles);
         StartCoroutine(Road());
 
         
         //Debug.Log(JsonConvert.SerializeObject(roadStack, Formatting.Indented));
 
 
-        Debug.Log("New");
+       
 
 
     }

@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
     [Header("Resource")]
     public int gold;
 
+    
 
 
     private void Awake()
@@ -26,7 +27,7 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
       
-
+        
     }
 
 

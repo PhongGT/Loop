@@ -9,11 +9,12 @@ public class Player : Character , I_CastSkill
     int potionCount = 3;
 
 
+
     public override void CastSkill(Character target)
     {
         base.CastSkill(target);
 
-        if (base.health < base.maxHealth/2 && potionCount > 0 )
+        if (base.health < base.baseStats.maxHealth / 2 && potionCount > 0 )
         {
             HealingPotion(0.15f);
             potionCount--;
@@ -28,23 +29,23 @@ public class Player : Character , I_CastSkill
     protected void HealingPotion(float healPercent)
     {
         Debug.Log("Heal");
-        Heal((int)(base.maxHealth * healPercent));
+        Heal((int)(base.baseStats.maxHealth * healPercent));
     }
     protected void SunBlazeBlade()
     {
         Debug.Log("SunBlazeBlade");
         
-        float dame = 1.25f* (BattleManager.instance.loopCount+ base.damage);
-        foreach (var target in base.targets)
+        float dame = 1.25f* (BattleManager.instance.loopCount+ base.baseStats.damage);
+        foreach (var target in BattleManager.instance.enemys)
         {
-            Attack(target, base.damage * 1.5f);
+            Attack(target, base.baseStats.damage * 1.5f);
         }
         
     }
     protected void ShieldBash(Character target)
     {
         Debug.Log("ShieldBash");
-        float dame = 2.5f * (base.armor + 5 * BattleManager.instance.loopCount);
+        float dame = 2.5f * (base.baseStats.armor + 5 * BattleManager.instance.loopCount);
         Attack(target, dame);
         // Add Effect Stun to target
 
@@ -53,7 +54,7 @@ public class Player : Character , I_CastSkill
     {
         Debug.Log("New Day");
 
-        base.Heal(healthRegen);
+        base.Heal(baseStats.healthRegen);
         if (SunBlazeBladeLearn)
         {
             SunBlazeBlade();
