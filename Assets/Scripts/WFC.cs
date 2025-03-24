@@ -15,11 +15,16 @@ public class WFC : MonoBehaviour
 
     [SerializeField] public List<RoadsCord> roads = new List<RoadsCord>();
     [SerializeField] public Stack<Tile> roadStack = new Stack<Tile>();
+
+    [SerializeField] protected Tile road;
+    [SerializeField] protected Tile empty;
     public bool[,] visited;
     public Slot slot;
     int width = 17;
     int height = 12;
     public Tile[,] tiles;
+
+    
 
     public Map map;
     private void Awake()
@@ -70,7 +75,7 @@ public class WFC : MonoBehaviour
                 float distance = Mathf.Sqrt(Mathf.Pow(i - centerI, 2) + Mathf.Pow(j - centerJ, 2));
                 if (distance < 5)
                 {
-                    Tile tile = new Tile();
+                    Tile tile = new Tile(road);
                     tile.position = new Vector2(i, j);
                     tile.type = Tile.Type.Road;
                     tiles[i, j] = tile;
@@ -80,7 +85,7 @@ public class WFC : MonoBehaviour
                 {
                     if (Random.Range(0, 4) < 3)
                     {
-                        Tile tile1 = new Tile();
+                        Tile tile1 = new Tile(road);
                         tile1.position = new Vector3(i, j, 0);
                         tile1.type = Tile.Type.Road;
                         roads.Add(new RoadsCord(i, j));
@@ -123,7 +128,7 @@ public class WFC : MonoBehaviour
         {
             if (roads[i].count <= Neighbors)
             {
-                tiles[roads[i].x, roads[i].y].type = Tile.Type.Empty;
+                tiles[roads[i].x, roads[i].y] = new Tile(empty);
                 roads.Remove(roads[i]);
                 i--;
             }
@@ -141,7 +146,7 @@ public class WFC : MonoBehaviour
         {
             if (roads[i].count == a)
             {
-                tiles[roads[i].x, roads[i].y].type = Tile.Type.Empty;
+                tiles[roads[i].x, roads[i].y] = new Tile(empty);
                 roads.Remove(roads[i]);
                 i--;
             }
@@ -201,6 +206,8 @@ public class WFC : MonoBehaviour
         CellularAutomata(4);
         CellularAutomata(3);
         CellularAutomata((float)8);
+
+
         map.Draw(tiles);
         StartCoroutine(Road());
 

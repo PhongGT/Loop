@@ -69,6 +69,7 @@ public class Cell : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     public void SetTile(Tile tile)
     {
         currentTile = tile;
+        spriteRenderer.sprite = currentTile.sprite;
         GetTileEffectedBy();
     }
     public void AddEffect()

@@ -46,12 +46,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12147563f969a1944ac87d88ac03ed2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemys:
-  - baseStats: {fileID: 0}
-    isPlayer: 0
-    canAttack: 0
-    animator: {fileID: 0}
-    isDead: 0
+  enemys: []
   player_allys: []
   player_allys_Load: []
   enemys_Load: []
@@ -62,13 +57,13 @@ MonoBehaviour:
   loopCount: 1
   isNewDay: 0
   player:
-    baseStats: {fileID: 0}
-    isPlayer: 0
+    baseStats: {fileID: 11400000, guid: 6ff85a3b908d22d46a2e95084b43a6ee, type: 2}
+    isPlayer: 1
     canAttack: 0
     animator: {fileID: 0}
     isDead: 0
   ghoul:
-    baseStats: {fileID: 0}
+    baseStats: {fileID: 11400000, guid: 2d47aed5de1da804cb5a1025bbcfb8d8, type: 2}
     isPlayer: 0
     canAttack: 0
     animator: {fileID: 0}

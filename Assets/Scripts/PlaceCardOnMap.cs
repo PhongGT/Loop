@@ -26,9 +26,10 @@ public class PlaceCardOnMap : MonoBehaviour, IPointerDownHandler, IBeginDragHand
     private void Awake()
     {
         m_RectTransform = GetComponent<RectTransform>();
-        Debug.Log(m_RectTransform.position.x + "" + m_RectTransform.position.y  );
-        
-      
+        canvas = GetComponentInParent<Canvas>();  
+        image = cardUI.GetComponent<Image>();
+
+
     }
     private void Start()
     {
@@ -45,12 +46,14 @@ public class PlaceCardOnMap : MonoBehaviour, IPointerDownHandler, IBeginDragHand
 
     public void OnDrag(PointerEventData eventData)
     {
+        
         m_RectTransform.anchoredPosition += eventData.delta / canvas.scaleFactor;
         RaycastHit2D ray = Physics2D.GetRayIntersection(Camera.main.ScreenPointToRay(Input.mousePosition));
         if (ray.collider != null)
         {
             target = ray.collider.gameObject;
-            Debug.Log("Hit");
+            Debug.Log(target.name);
+            cardUI.SetActive(false);
             //Set preview card
             //cardUI.SetActive(false);
         }
@@ -73,7 +76,8 @@ public class PlaceCardOnMap : MonoBehaviour, IPointerDownHandler, IBeginDragHand
         }
         else
         {
-
+            target.GetComponent<Cell>().SetTile(currentTile);
+            this.gameObject.SetActive(false);
             return;
         }
     }

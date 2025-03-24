@@ -2,30 +2,30 @@ using JetBrains.Annotations;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+[CreateAssetMenu(fileName = "New BaseStats", menuName = "BaseStats")]
+[System.Serializable]
 public class BaseStats : ScriptableObject
 {
     public string name;
 
     public Sprite icon;
-    public float maxHealth { get; private set; }
-    public int healthRegen { get; private set; } //% health regen per Day;
-    public float damage { get; private set; }
-
-    public float attackSpeed { get; private set; }
-    public float evasion { get; private set; }
-    public float armor { get; private set; }
-    public float baseShield { get; private set; }
-    public float vamprirism { get; private set; } // % of damage dealt that is returned as health
-    public float counterChance { get; private set; } // % of ignore damege and dealt back to attacker
-    public float critChance { get; private set; }
-    public float critDamage { get; private set; } // % of damage dealt that is returned as health
-    public float pureDamage { get; private set; }
+    public float maxHealth ;
+    public int healthRegen ; //% health regen per Day;
+    public float damage ;
+    public float attackSpeed ;
+    public float evasion ;
+    public float armor ;
+    public float baseShield ;
+    public float vamprirism ; // % of damage dealt that is returned as health
+    public float counterChance ; // % of ignore damege and dealt back to attacker
+    public float critChance ;
+    public float critDamage ; // % of damage dealt that is returned as health
+    public float pureDamage ;
 
 
     public BaseStats (BaseStats input)
     {
-        
+        this.name = input.name;
         this.maxHealth = input.maxHealth;
         this.healthRegen = input.healthRegen;
         this.damage = input.damage;
