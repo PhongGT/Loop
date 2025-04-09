@@ -1,0 +1,2374 @@
+fileFormatVersion: 2
+guid: 77145df9279fc174d93d00d475d283bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TreasureIcon_30019
+  - first:
+      213: 21300002
+    second: TreasureIcon_10006
+  - first:
+      213: 21300004
+    second: Empty_Frame
+  - first:
+      213: 21300006
+    second: TreasureIcon_30015
+  - first:
+      213: 21300008
+    second: TreasureIcon_20003
+  - first:
+      213: 21300010
+    second: TreasureIcon_30000
+  - first:
+      213: 21300012
+    second: Treasure_Frame_Hexa_Empty
+  - first:
+      213: 21300014
+    second: TreasureIcon_20002
+  - first:
+      213: 21300016
+    second: TreasureIcon_20004
+  - first:
+      213: 21300018
+    second: TreasureIcon_20001
+  - first:
+      213: 21300020
+    second: TreasureIcon_30005
+  - first:
+      213: 21300022
+    second: TreasureIcon_10000
+  - first:
+      213: 21300024
+    second: TreasureIcon_30013
+  - first:
+      213: 21300026
+    second: TreasureIcon_30012
+  - first:
+      213: 21300028
+    second: Treasure_Frame_Hexa_White
+  - first:
+      213: 21300030
+    second: TreasureIcon_30006
+  - first:
+      213: 21300032
+    second: TreasureIcon_30008
+  - first:
+      213: 21300034
+    second: TreasureIcon_30014
+  - first:
+      213: 21300036
+    second: TreasureIcon_30007
+  - first:
+      213: 21300038
+    second: Treasure_Frame_Hexa_2
+  - first:
+      213: 21300040
+    second: TreasureIcon_30002
+  - first:
+      213: 21300042
+    second: Treasure_Frame_Hexa_3
+  - first:
+      213: 21300044
+    second: TreasureIcon_20000
+  - first:
+      213: 21300046
+    second: TreasureIcon_30018
+  - first:
+      213: 21300048
+    second: TreasureIcon_10004
+  - first:
+      213: 21300050
+    second: TreasureIcon_10005
+  - first:
+      213: 21300052
+    second: TreasureIcon_30017
+  - first:
+      213: 21300054
+    second: Treasure_Frame_Hexa_White_Glow
+  - first:
+      213: 21300056
+    second: TreasureIcon_30003
+  - first:
+      213: 21300058
+    second: TreasureIcon_30009
+  - first:
+      213: 21300060
+    second: TreasureIcon_30011
+  - first:
+      213: 21300062
+    second: TreasureIcon_30001
+  - first:
+      213: 21300064
+    second: TreasureIcon_30010
+  - first:
+      213: 21300066
+    second: Treasure_Frame_Hexa_0
+  - first:
+      213: 21300068
+    second: TreasureIcon_20005
+  - first:
+      213: 21300070
+    second: TreasureIcon_20006
+  - first:
+      213: 21300072
+    second: TreasureIcon_30004
+  - first:
+      213: 21300074
+    second: Treasure_Frame_Hexa_1
+  - first:
+      213: 21300076
+    second: TreasureIcon_20007
+  - first:
+      213: 21300078
+    second: TreasureIcon_99999
+  - first:
+      213: 21300080
+    second: TreasureIcon_10001
+  - first:
+      213: 21300082
+    second: TreasureIcon_10003
+  - first:
+      213: 21300084
+    second: TreasureIcon_10002
+  - first:
+      213: 21300086
+    second: TreasureIcon_30016
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TreasureIcon_30019
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf254a8388a4c69ba0c383e9397b550
+      internalID: 21300000
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_10006
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47f5446f70a4b63b861226099a80fde
+      internalID: 21300002
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty_Frame
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 64
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 25, z: 0, w: 25}
+      outline:
+      - - {x: 5, y: -30.000002}
+        - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      - - {x: -22, y: -13}
+        - {x: 0, y: 25}
+        - {x: 22, y: 13}
+        - {x: 0, y: -25}
+        - {x: 0, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757800f00b7d4a96a923abc7173c76fd
+      internalID: 21300004
+      vertices:
+      - {x: 27, y: 6}
+      - {x: 22, y: -0.0000019073486}
+      - {x: 27, y: 5}
+      - {x: 5, y: 17}
+      - {x: -0.0000019073486, y: 11}
+      - {x: -0.0000019073486, y: 49}
+      - {x: 54, y: 49}
+      - {x: 49, y: 43}
+      - {x: 54, y: 11}
+      - {x: 32, y: 60}
+      - {x: 27, y: 55}
+      - {x: 22, y: 60}
+      - {x: 32, y: -0.0000019073486}
+      indices: 01000000020000000c000000070000000c00000002000000080000000c00000007000000050000000b000000030000000a000000030000000b000000090000000a0000000b000000070000000a00000009000000060000000700000009000000080000000700000006000000050000000300000004000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30015
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 64
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851be741eba244e3baf3c3c2ed94fe71
+      internalID: 21300006
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_20003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b492597c124c6c92c5d246850cf8bc
+      internalID: 21300008
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7d41e132784783a4a0cfda53acb3d1
+      internalID: 21300010
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treasure_Frame_Hexa_Empty
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 78
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 50, z: 0, w: 50}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5786158c6c4b108933d3c7ce9a1f74
+      internalID: 21300012
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_20002
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 128
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2905181315e94db7ba2cf872844ad37e
+      internalID: 21300014
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_20004
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 128
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1287e6a6534ba48e3b12191c46979b
+      internalID: 21300016
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_20001
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 142
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9733fa86b0734eb19d2f4ee8aaa2e5ba
+      internalID: 21300018
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30005
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 192
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6884ef066ca489ca39bf66b49016c27
+      internalID: 21300020
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_10000
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 192
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35305da4d2e4bf9acca9fa47e61fd34
+      internalID: 21300022
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30013
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79c68ee4a874a508751892101ded480
+      internalID: 21300024
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30012
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc82e6f710154933924519d94c726881
+      internalID: 21300026
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treasure_Frame_Hexa_White
+      rect:
+        serializedVersion: 2
+        x: 72.07612
+        y: 0.026750982
+        width: 63.847755
+        height: 69.9465
+      alignment: 9
+      pivot: {x: 0.49880785, y: 0.4996175}
+      border: {x: 0, y: 49.946495, z: 0, w: 50.000008}
+      outline:
+      - - {x: -11.076117, y: -35.026756}
+        - {x: -32.07612, y: -21.026756}
+        - {x: -32.07612, y: 20.973244}
+        - {x: -12.076117, y: 34.973244}
+        - {x: 6.9238834, y: 34.973244}
+        - {x: 31.923883, y: 24.973244}
+        - {x: 31.923883, y: -23.026756}
+        - {x: 3.9238834, y: -35.026756}
+      physicsShape:
+      - - {x: -16.076117, y: 31.973244}
+        - {x: -30.076115, y: 18.973244}
+        - {x: -30.076115, y: -25.026756}
+        - {x: -11.076117, y: -32.026756}
+        - {x: 10.923883, y: -32.026756}
+        - {x: 29.923882, y: -18.026756}
+        - {x: 29.923882, y: 21.973244}
+        - {x: 12.923883, y: 31.973244}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e71f5edf8247049f27729a1f22ab3a
+      internalID: 21300028
+      vertices:
+      - {x: 38.923878, y: 69.97325}
+      - {x: 63.923878, y: 11.973251}
+      - {x: 63.923878, y: 59.97325}
+      - {x: 35.923878, y: -0.026748657}
+      - {x: 20.923878, y: -0.026748657}
+      - {x: 19.923878, y: 69.97325}
+      - {x: -0.076122284, y: 55.97325}
+      - {x: -0.076122284, y: 13.973251}
+      indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30006
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5f1f80d7f7423db44585c3afdcec1b
+      internalID: 21300030
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30008
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e4e17bde7a41aca37df0bc8fd8a87b
+      internalID: 21300032
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30014
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 128
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d783753e5cf146e397162155699b0d09
+      internalID: 21300034
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30007
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 64
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fac9fa0df141078c08dfdf8b454804
+      internalID: 21300036
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treasure_Frame_Hexa_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 64
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 25, z: 0, w: 25}
+      outline:
+      - - {x: 5, y: -30.000002}
+        - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      - - {x: -18, y: -9.999999}
+        - {x: 0, y: 19.999998}
+        - {x: 18, y: 9.999999}
+        - {x: 0, y: -19.999998}
+        - {x: 0, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71416db3921042e58009f24bed5bf98b
+      internalID: 21300038
+      vertices:
+      - {x: 27, y: 11}
+      - {x: 22, y: -0.0000019073486}
+      - {x: 27, y: 10}
+      - {x: 9, y: 20}
+      - {x: -0.0000019073486, y: 11}
+      - {x: -0.0000019073486, y: 49}
+      - {x: 54, y: 49}
+      - {x: 45, y: 40}
+      - {x: 54, y: 11}
+      - {x: 32, y: 60}
+      - {x: 27, y: 50}
+      - {x: 22, y: 60}
+      - {x: 32, y: -0.0000019073486}
+      indices: 01000000020000000c000000070000000c00000002000000080000000c00000007000000050000000b000000030000000a000000030000000b000000090000000a0000000b000000070000000a00000009000000060000000700000009000000080000000700000006000000050000000300000004000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30002
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 128
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249d82817f4c4d8685d0ce6b1f051d4e
+      internalID: 21300040
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treasure_Frame_Hexa_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 25, z: 0, w: 25}
+      outline:
+      - - {x: 5, y: -30.000002}
+        - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      - - {x: -18, y: -9.999999}
+        - {x: 0, y: 19.999998}
+        - {x: 18, y: 9.999999}
+        - {x: 0, y: -19.999998}
+        - {x: 0, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc03b3a70c54da29225c23420395aba
+      internalID: 21300042
+      vertices:
+      - {x: 27, y: 11}
+      - {x: 22, y: -0.0000019073486}
+      - {x: 27, y: 10}
+      - {x: 9, y: 20}
+      - {x: -0.0000019073486, y: 11}
+      - {x: -0.0000019073486, y: 49}
+      - {x: 54, y: 49}
+      - {x: 45, y: 40}
+      - {x: 54, y: 11}
+      - {x: 32, y: 60}
+      - {x: 27, y: 50}
+      - {x: 22, y: 60}
+      - {x: 32, y: -0.0000019073486}
+      indices: 01000000020000000c000000070000000c00000002000000080000000c00000007000000050000000b000000030000000a000000030000000b000000090000000a0000000b000000070000000a00000009000000060000000700000009000000080000000700000006000000050000000300000004000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_20000
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 128
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28dc75a42df46bca7439873515314ae
+      internalID: 21300044
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30018
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 64
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bae8da9dba74d109138b20770f2c063
+      internalID: 21300046
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_10004
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 128
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54507b65f9654de59049bc90b49cc2ed
+      internalID: 21300048
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_10005
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 192
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b32f7db40e9442da9de9f184b588e8d
+      internalID: 21300050
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30017
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 192
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e71aa4148954c21b731f5707c6ad8f1
+      internalID: 21300052
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treasure_Frame_Hexa_White_Glow
+      rect:
+        serializedVersion: 2
+        x: 0.076120496
+        y: 0.026751041
+        width: 67.84776
+        height: 73.9465
+      alignment: 9
+      pivot: {x: 0.49887797, y: 0.4861149}
+      border: {x: 0, y: 22.946499, z: 0, w: 25.000004}
+      outline:
+      - - {x: -13.076126, y: -38.026756}
+        - {x: -34.076126, y: -24.026756}
+        - {x: -34.076126, y: 25.973246}
+        - {x: -9.076126, y: 35.973244}
+        - {x: 14.923875, y: 35.973244}
+        - {x: 33.923874, y: 21.973244}
+        - {x: 33.923874, y: -22.026756}
+        - {x: 32.923874, y: -27.026756}
+        - {x: 4.923874, y: -38.026756}
+      physicsShape:
+      - - {x: -8.076126, y: 30.973244}
+        - {x: -30.076124, y: 17.973244}
+        - {x: -30.076124, y: -19.026756}
+        - {x: -6.076126, y: -33.026756}
+        - {x: 4.9238734, y: -33.026756}
+        - {x: 29.923872, y: -21.026754}
+        - {x: 29.923872, y: 18.973242}
+        - {x: 4.9238734, y: 30.973244}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbebced9d5d147c781122c3e24f15768
+      internalID: 21300054
+      vertices:
+      - {x: 67.92388, y: 59.97325}
+      - {x: 66.92388, y: 10.973251}
+      - {x: 67.92388, y: 15.973251}
+      - {x: 48.92388, y: 73.97325}
+      - {x: 38.92388, y: -0.026748657}
+      - {x: 24.923882, y: 73.97325}
+      - {x: 20.923882, y: -0.026748657}
+      - {x: -0.07611847, y: 63.97325}
+      - {x: -0.07611847, y: 13.973251}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30003
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 192
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76d93e0743a49ea8cfd2cc901d402d7
+      internalID: 21300056
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30009
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 192
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911634ab6ce64c8a9c8f03f6184d8e26
+      internalID: 21300058
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f421dfc78b04e7c9d198f15c04b1184
+      internalID: 21300060
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30001
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 206
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7720e526c143f7b6ed9c4f0983a457
+      internalID: 21300062
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c67280ce4304de19fc5de12f75f94b6
+      internalID: 21300064
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treasure_Frame_Hexa_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 270
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 25, z: 0, w: 25}
+      outline:
+      - - {x: 5, y: -30.000002}
+        - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      - - {x: -18, y: -9.999999}
+        - {x: 0, y: 19.999998}
+        - {x: 18, y: 9.999999}
+        - {x: 0, y: -19.999998}
+        - {x: 0, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8706f1271f81437d815959cb485f29ae
+      internalID: 21300066
+      vertices:
+      - {x: 27, y: 11}
+      - {x: 22, y: -0.0000019073486}
+      - {x: 27, y: 10}
+      - {x: 9, y: 20}
+      - {x: -0.0000019073486, y: 11}
+      - {x: -0.0000019073486, y: 49}
+      - {x: 54, y: 49}
+      - {x: 45, y: 40}
+      - {x: 54, y: 11}
+      - {x: 32, y: 60}
+      - {x: 27, y: 50}
+      - {x: 22, y: 60}
+      - {x: 32, y: -0.0000019073486}
+      indices: 01000000020000000c000000070000000c00000002000000080000000c00000007000000050000000b000000030000000a000000030000000b000000090000000a0000000b000000070000000a00000009000000060000000700000009000000080000000700000006000000050000000300000004000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_20005
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 256
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1197030507e45b786632db796a29b6b
+      internalID: 21300068
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_20006
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 256
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149d5987c7104d8d9c013a49626de998
+      internalID: 21300070
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa9d73913c344598f6fd8b5a838ae8f
+      internalID: 21300072
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treasure_Frame_Hexa_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 256
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 25, z: 0, w: 25}
+      outline:
+      - - {x: 5, y: -30.000002}
+        - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      - - {x: -18, y: -9.999999}
+        - {x: 0, y: 19.999998}
+        - {x: 18, y: 9.999999}
+        - {x: 0, y: -19.999998}
+        - {x: 0, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5937ea406b424c43a32f76cc72b8630d
+      internalID: 21300074
+      vertices:
+      - {x: 27, y: 11}
+      - {x: 22, y: -0.0000019073486}
+      - {x: 27, y: 10}
+      - {x: 9, y: 20}
+      - {x: -0.0000019073486, y: 11}
+      - {x: -0.0000019073486, y: 49}
+      - {x: 54, y: 49}
+      - {x: 45, y: 40}
+      - {x: 54, y: 11}
+      - {x: 32, y: 60}
+      - {x: 27, y: 50}
+      - {x: 22, y: 60}
+      - {x: 32, y: -0.0000019073486}
+      indices: 01000000020000000c000000070000000c00000002000000080000000c00000007000000050000000b000000030000000a000000030000000b000000090000000a0000000b000000070000000a00000009000000060000000700000009000000080000000700000006000000050000000300000004000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_20007
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 334
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156c94883104448da18d1f9ac132dae3
+      internalID: 21300076
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_99999
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 320
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946e52b6f5f74e03addf500a1c69e2d3
+      internalID: 21300078
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_10001
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 320
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dfa82b20124a3ab61d9f09191f844f
+      internalID: 21300080
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_10003
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 320
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d090642cdc4d2f962a4ae0f9debd19
+      internalID: 21300082
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_10002
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 256
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b5a5b937884f888445d5cee8764cf2
+      internalID: 21300084
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureIcon_30016
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 256
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -30.000002}
+        - {x: -27.000002, y: -19}
+        - {x: -27.000002, y: 19}
+        - {x: -5, y: 30.000002}
+        - {x: 5, y: 30.000002}
+        - {x: 27.000002, y: 19}
+        - {x: 27.000002, y: -19}
+        - {x: 5, y: -30.000002}
+      physicsShape:
+      - - {x: -4.9999995, y: 29.999998}
+        - {x: -26.999998, y: 19}
+        - {x: -26.999998, y: -19}
+        - {x: -4.9999995, y: -29.999998}
+        - {x: 4.9999995, y: -29.999998}
+        - {x: 26.999998, y: -19}
+        - {x: 26.999998, y: 19}
+        - {x: 4.9999995, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8ff46da9c944d0aaf3c01a5592ea46
+      internalID: 21300086
+      vertices:
+      - {x: 32, y: 60}
+      - {x: 54, y: 11}
+      - {x: 54, y: 49}
+      - {x: 32, y: -0.0000019073486}
+      - {x: 22, y: 60}
+      - {x: 22, y: -0.0000019073486}
+      - {x: -0.0000019073486, y: 49}
+      - {x: -0.0000019073486, y: 11}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Empty_Frame: 21300004
+      TreasureIcon_10000: 21300022
+      TreasureIcon_10001: 21300080
+      TreasureIcon_10002: 21300084
+      TreasureIcon_10003: 21300082
+      TreasureIcon_10004: 21300048
+      TreasureIcon_10005: 21300050
+      TreasureIcon_10006: 21300002
+      TreasureIcon_20000: 21300044
+      TreasureIcon_20001: 21300018
+      TreasureIcon_20002: 21300014
+      TreasureIcon_20003: 21300008
+      TreasureIcon_20004: 21300016
+      TreasureIcon_20005: 21300068
+      TreasureIcon_20006: 21300070
+      TreasureIcon_20007: 21300076
+      TreasureIcon_30000: 21300010
+      TreasureIcon_30001: 21300062
+      TreasureIcon_30002: 21300040
+      TreasureIcon_30003: 21300056
+      TreasureIcon_30004: 21300072
+      TreasureIcon_30005: 21300020
+      TreasureIcon_30006: 21300030
+      TreasureIcon_30007: 21300036
+      TreasureIcon_30008: 21300032
+      TreasureIcon_30009: 21300058
+      TreasureIcon_30010: 21300064
+      TreasureIcon_30011: 21300060
+      TreasureIcon_30012: 21300026
+      TreasureIcon_30013: 21300024
+      TreasureIcon_30014: 21300034
+      TreasureIcon_30015: 21300006
+      TreasureIcon_30016: 21300086
+      TreasureIcon_30017: 21300052
+      TreasureIcon_30018: 21300046
+      TreasureIcon_30019: 21300000
+      TreasureIcon_99999: 21300078
+      Treasure_Frame_Hexa_0: 21300066
+      Treasure_Frame_Hexa_1: 21300074
+      Treasure_Frame_Hexa_2: 21300038
+      Treasure_Frame_Hexa_3: 21300042
+      Treasure_Frame_Hexa_Empty: 21300012
+      Treasure_Frame_Hexa_White: 21300028
+      Treasure_Frame_Hexa_White_Glow: 21300054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

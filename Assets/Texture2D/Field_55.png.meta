@@ -1,0 +1,5832 @@
+fileFormatVersion: 2
+guid: 7395aa831f4922f4da45713e545b35dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Field_55_35
+  - first:
+      213: 21300002
+    second: Field_55_42
+  - first:
+      213: 21300004
+    second: Field_55_13
+  - first:
+      213: 21300006
+    second: Field_55_40
+  - first:
+      213: 21300008
+    second: Field_55_44
+  - first:
+      213: 21300010
+    second: Field_55_57
+  - first:
+      213: 21300012
+    second: Field_55_8
+  - first:
+      213: 21300014
+    second: Field_55_61
+  - first:
+      213: 21300016
+    second: Field_55_88
+  - first:
+      213: 21300018
+    second: Field_55_89
+  - first:
+      213: 21300020
+    second: Field_55_129
+  - first:
+      213: 21300022
+    second: Field_55_3
+  - first:
+      213: 21300024
+    second: Field_55_134
+  - first:
+      213: 21300026
+    second: Field_55_79
+  - first:
+      213: 21300028
+    second: Field_55_93
+  - first:
+      213: 21300030
+    second: Field_55_68
+  - first:
+      213: 21300032
+    second: Field_55_25
+  - first:
+      213: 21300034
+    second: Field_55_101
+  - first:
+      213: 21300036
+    second: Field_55_85
+  - first:
+      213: 21300038
+    second: Field_55_84
+  - first:
+      213: 21300040
+    second: Field_55_27
+  - first:
+      213: 21300042
+    second: Field_55_54
+  - first:
+      213: 21300044
+    second: Field_55_62
+  - first:
+      213: 21300046
+    second: Field_55_53
+  - first:
+      213: 21300048
+    second: Field_55_132
+  - first:
+      213: 21300050
+    second: Field_55_50
+  - first:
+      213: 21300052
+    second: Field_55_37
+  - first:
+      213: 21300054
+    second: Field_55_17
+  - first:
+      213: 21300056
+    second: Field_55_18
+  - first:
+      213: 21300058
+    second: Field_55_72
+  - first:
+      213: 21300060
+    second: Field_55_16
+  - first:
+      213: 21300062
+    second: Field_55_58
+  - first:
+      213: 21300064
+    second: Field_55_124
+  - first:
+      213: 21300066
+    second: Field_55_87
+  - first:
+      213: 21300068
+    second: Field_55_0
+  - first:
+      213: 21300070
+    second: Field_55_106
+  - first:
+      213: 21300072
+    second: Field_55_59
+  - first:
+      213: 21300074
+    second: Field_55_113
+  - first:
+      213: 21300076
+    second: Field_55_96
+  - first:
+      213: 21300078
+    second: Field_55_94
+  - first:
+      213: 21300080
+    second: Field_55_28
+  - first:
+      213: 21300082
+    second: Field_55_90
+  - first:
+      213: 21300084
+    second: Field_55_41
+  - first:
+      213: 21300086
+    second: Field_55_127
+  - first:
+      213: 21300088
+    second: Field_55_107
+  - first:
+      213: 21300090
+    second: Field_55_14
+  - first:
+      213: 21300092
+    second: Field_55_91
+  - first:
+      213: 21300094
+    second: Field_55_33
+  - first:
+      213: 21300096
+    second: Field_55_104
+  - first:
+      213: 21300098
+    second: Field_55_117
+  - first:
+      213: 21300100
+    second: Field_55_1
+  - first:
+      213: 21300102
+    second: Field_55_45
+  - first:
+      213: 21300104
+    second: Field_55_110
+  - first:
+      213: 21300106
+    second: Field_55_147
+  - first:
+      213: 21300108
+    second: Field_55_66
+  - first:
+      213: 21300110
+    second: Field_55_30
+  - first:
+      213: 21300112
+    second: Field_55_105
+  - first:
+      213: 21300114
+    second: Field_55_10
+  - first:
+      213: 21300116
+    second: Field_55_52
+  - first:
+      213: 21300118
+    second: Field_55_32
+  - first:
+      213: 21300120
+    second: Field_55_76
+  - first:
+      213: 21300122
+    second: Field_55_100
+  - first:
+      213: 21300124
+    second: Field_55_43
+  - first:
+      213: 21300126
+    second: Field_55_103
+  - first:
+      213: 21300128
+    second: Field_55_24
+  - first:
+      213: 21300130
+    second: Field_55_119
+  - first:
+      213: 21300132
+    second: Field_55_65
+  - first:
+      213: 21300134
+    second: Field_55_21
+  - first:
+      213: 21300136
+    second: Field_55_92
+  - first:
+      213: 21300138
+    second: Field_55_125
+  - first:
+      213: 21300140
+    second: Field_55_114
+  - first:
+      213: 21300142
+    second: Field_55_67
+  - first:
+      213: 21300144
+    second: Field_55_140
+  - first:
+      213: 21300146
+    second: Field_55_123
+  - first:
+      213: 21300148
+    second: Field_55_139
+  - first:
+      213: 21300150
+    second: Field_55_95
+  - first:
+      213: 21300152
+    second: Field_55_135
+  - first:
+      213: 21300154
+    second: Field_55_74
+  - first:
+      213: 21300156
+    second: Field_55_7
+  - first:
+      213: 21300158
+    second: Field_55_64
+  - first:
+      213: 21300160
+    second: Field_55_73
+  - first:
+      213: 21300162
+    second: Field_55_145
+  - first:
+      213: 21300164
+    second: Field_55_97
+  - first:
+      213: 21300166
+    second: Field_55_98
+  - first:
+      213: 21300168
+    second: Field_55_46
+  - first:
+      213: 21300170
+    second: Field_55_22
+  - first:
+      213: 21300172
+    second: Field_55_60
+  - first:
+      213: 21300174
+    second: Field_55_138
+  - first:
+      213: 21300176
+    second: Field_55_70
+  - first:
+      213: 21300178
+    second: Field_55_36
+  - first:
+      213: 21300180
+    second: Field_55_47
+  - first:
+      213: 21300182
+    second: Field_55_6
+  - first:
+      213: 21300184
+    second: Field_55_12
+  - first:
+      213: 21300186
+    second: Field_55_34
+  - first:
+      213: 21300188
+    second: Field_55_29
+  - first:
+      213: 21300190
+    second: Field_55_115
+  - first:
+      213: 21300192
+    second: Field_55_2
+  - first:
+      213: 21300194
+    second: Field_55_109
+  - first:
+      213: 21300196
+    second: Field_55_31
+  - first:
+      213: 21300198
+    second: Field_55_99
+  - first:
+      213: 21300200
+    second: Field_55_11
+  - first:
+      213: 21300202
+    second: Field_55_102
+  - first:
+      213: 21300204
+    second: Field_55_128
+  - first:
+      213: 21300206
+    second: Field_55_82
+  - first:
+      213: 21300208
+    second: Field_55_122
+  - first:
+      213: 21300210
+    second: Field_55_141
+  - first:
+      213: 21300212
+    second: Field_55_120
+  - first:
+      213: 21300214
+    second: Field_55_149
+  - first:
+      213: 21300216
+    second: Field_55_55
+  - first:
+      213: 21300218
+    second: Field_55_63
+  - first:
+      213: 21300220
+    second: Field_55_121
+  - first:
+      213: 21300222
+    second: Field_55_39
+  - first:
+      213: 21300224
+    second: Field_55_49
+  - first:
+      213: 21300226
+    second: Field_55_116
+  - first:
+      213: 21300228
+    second: Field_55_108
+  - first:
+      213: 21300230
+    second: Field_55_133
+  - first:
+      213: 21300232
+    second: Field_55_48
+  - first:
+      213: 21300234
+    second: Field_55_142
+  - first:
+      213: 21300236
+    second: Field_55_78
+  - first:
+      213: 21300238
+    second: Field_55_56
+  - first:
+      213: 21300240
+    second: Field_55_146
+  - first:
+      213: 21300242
+    second: Field_55_118
+  - first:
+      213: 21300244
+    second: Field_55_19
+  - first:
+      213: 21300246
+    second: Field_55_71
+  - first:
+      213: 21300248
+    second: Field_55_112
+  - first:
+      213: 21300250
+    second: Field_55_51
+  - first:
+      213: 21300252
+    second: Field_55_15
+  - first:
+      213: 21300254
+    second: Field_55_83
+  - first:
+      213: 21300256
+    second: Field_55_26
+  - first:
+      213: 21300258
+    second: Field_55_143
+  - first:
+      213: 21300260
+    second: Field_55_75
+  - first:
+      213: 21300262
+    second: Field_55_81
+  - first:
+      213: 21300264
+    second: Field_55_137
+  - first:
+      213: 21300266
+    second: Field_55_86
+  - first:
+      213: 21300268
+    second: Field_55_4
+  - first:
+      213: 21300270
+    second: Field_55_77
+  - first:
+      213: 21300272
+    second: Field_55_20
+  - first:
+      213: 21300274
+    second: Field_55_111
+  - first:
+      213: 21300276
+    second: Field_55_131
+  - first:
+      213: 21300278
+    second: Field_55_136
+  - first:
+      213: 21300280
+    second: Field_55_126
+  - first:
+      213: 21300282
+    second: Field_55_9
+  - first:
+      213: 21300284
+    second: Field_55_38
+  - first:
+      213: 21300286
+    second: Field_55_23
+  - first:
+      213: 21300288
+    second: Field_55_144
+  - first:
+      213: 21300290
+    second: Field_55_69
+  - first:
+      213: 21300292
+    second: Field_55_5
+  - first:
+      213: 21300294
+    second: Field_55_80
+  - first:
+      213: 21300296
+    second: Field_55_130
+  - first:
+      213: 21300298
+    second: Field_55_148
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Field_55_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da506ba4e1445b7af121386095a1e66
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 510
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a77fec8e6243488634c79e474bee79
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6241a66bff4a482c943647c408780ea3
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd20acf389436da19f4a6294b0b1d8
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_44
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 510
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2bab5d4eee495781a021f1cb977d1e
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_57
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198f2d4b633044b29502a588b730b9d3
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7650b6a8cb3c416eb5d9b0fe1adc04f0
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d259f56bb2364dc3a825f304cab3a3a2
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_88
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae9bf7baed4032ab04610d69de6ef3
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_89
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32917f6ab5cf4ce3aa72e2563f07f6e9
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_129
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9778def34b4624a619cf03d65f1cdb
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccb1c6ce2514a618b7586a043243fc8
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_134
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea37c277123943bd949a96d9fb2dc04d
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_79
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fca5ffda9d74380a5e2ae6807ad27f0
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_93
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab5bfee7e1b46ca893f8a1a9a1a710c
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_68
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1051d26e2a4794adc47a0bccbcac67
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd62ffe6578d4a67a2440f8d17e4ae88
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_101
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526e8d6f28284f8e801577c794e4503b
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_85
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6133cb17ca484620a43a2e62f2f2f6a0
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_84
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bdd9e0c3d64413b782bad80da68feb
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b337b2f3514f1f9ff0f5d282020107
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8863386fe8749fbaa8619afe1c2b874
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb6d22826b042f3b7ab9cfcc47ac592
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_53
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf6d860a3474d878d10c1d118b37747
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_132
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3715712c3a90433b978d22eecb2ba24a
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4c88e342f3440dacbab9df4e8a2197
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_37
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16862fa38264aa4a00d0e61f4a4a615
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7397b0a388074730b1961ee8ae1329df
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6b2a6a213c49ed87cdf93345cccad5
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d87e70c29c4233b4366fcf6ff59c57
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fdf31acfb241bbb51ae39ab598f54b
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b25cae745841e8b522d15af0fcb795
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_124
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e879d237e145ac8fb9a7f1afd4f1e3
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_87
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aab63a81a574b09ae4255cca21078be
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be563c5cbc154a1f926fc92e352f3c00
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_106
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934704d38ed14fda99e7f298963855dd
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_59
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af06c1d47be14983b4d868c44f565538
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_113
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 30.92388
+        height: 34.923878
+      alignment: 9
+      pivot: {x: 0.82460546, y: 0.73015946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.53806, y: -17.461939}
+        - {x: -15.46194, y: -17.461939}
+        - {x: -15.46194, y: 17.538061}
+        - {x: -7.46194, y: 17.538061}
+        - {x: 15.53806, y: -6.461939}
+        - {x: 15.53806, y: -16.461939}
+      physicsShape:
+      - - {x: -15.46194, y: 17.538061}
+        - {x: -15.46194, y: -17.461939}
+        - {x: 14.53806, y: -17.461939}
+        - {x: 15.53806, y: -16.461939}
+        - {x: 15.53806, y: -6.461939}
+        - {x: -7.46194, y: 17.538061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef6cde13a12477787f06d32fee9330d
+      internalID: 21300074
+      vertices:
+      - {x: 20.96194, y: 2.9619389}
+      - {x: 19.96194, y: -8.038061}
+      - {x: 20.96194, y: -7.038061}
+      - {x: -2.0380602, y: 26.961939}
+      - {x: -10.03806, y: 26.961939}
+      - {x: -10.03806, y: -8.038061}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_96
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948941934622429481e9857c7520daf6
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_94
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7522895c9d144d59ab89ac734712238d
+      internalID: 21300078
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849948da866f41cfa3222099ce13e240
+      internalID: 21300080
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e3947328c9434baeb959947b06f0e5
+      internalID: 21300082
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 510
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b388ce66204499b893a311933262a8c
+      internalID: 21300084
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_127
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1c1f36b7dd4fdda386183aa300ae0d
+      internalID: 21300086
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_107
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1f96e81fbd4a499db4142cc1fe91a0
+      internalID: 21300088
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9b898671ec4750870dd789fbe2ae4e
+      internalID: 21300090
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_91
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46616abe27214aff840863835cecc220
+      internalID: 21300092
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0edc83851d040b4bfdc0508d62b6f16
+      internalID: 21300094
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_104
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565e64fa414640b4a5a16b4d822933cc
+      internalID: 21300096
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_117
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 153
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9df76574e4844838dfb39f35fb53526
+      internalID: 21300098
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef27ed39ed04bc194ba8f4814959c52
+      internalID: 21300100
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 510
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6668a9542c4908823ca983848b8a06
+      internalID: 21300102
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_110
+      rect:
+        serializedVersion: 2
+        x: 19.1298
+        y: 153
+        width: 31.8702
+        height: 36.923878
+      alignment: 9
+      pivot: {x: 0.1998795, y: 0.69061005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.9351, y: -18.461937}
+        - {x: -16.0649, y: -18.461937}
+        - {x: -16.0649, y: -11.461937}
+        - {x: -4.0649004, y: 9.538063}
+        - {x: 10.9351, y: 18.538063}
+        - {x: 15.9351, y: 18.538063}
+      physicsShape:
+      - - {x: 10.9351, y: 18.538063}
+        - {x: -4.0649004, y: 9.538063}
+        - {x: -16.0649, y: -11.461937}
+        - {x: -16.0649, y: -18.461937}
+        - {x: 15.9351, y: -18.461937}
+        - {x: 15.9351, y: 18.538063}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613fcae591d242f9b57cca867af7517e
+      internalID: 21300104
+      vertices:
+      - {x: 36.4351, y: 29.961939}
+      - {x: 41.4351, y: -7.038061}
+      - {x: 41.4351, y: 29.961939}
+      - {x: 21.4351, y: 20.961939}
+      - {x: 9.4351, y: -0.038061142}
+      - {x: 9.4351, y: -7.038061}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_147
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a12cbddde54b63a71ae9db225515ec
+      internalID: 21300106
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_66
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4d4d168f2d42ed9f897bb157a96bff
+      internalID: 21300108
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de44be12f30c4aa28f0276cecd6a4873
+      internalID: 21300110
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_105
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008375707b494195a7625092223bb149
+      internalID: 21300112
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1de67215354eafad184e6b67d1b028
+      internalID: 21300114
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dc6c637d85407596bf4367fc97fc11
+      internalID: 21300116
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf55b6f7cf34f6994fa1e67b71fc730
+      internalID: 21300118
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_76
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e7e5f9ad5341b89cad330b5ce2a9b4
+      internalID: 21300120
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463db4e6195d4830b254cd9a52dd57f9
+      internalID: 21300122
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 510
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8709e106e9b4f789eeee0bf0e676b2b
+      internalID: 21300124
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_103
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a731bfdc4ad24570a38d2dcb973a4f28
+      internalID: 21300126
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b8758f1974a299d3a844b9dc441f7
+      internalID: 21300128
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_119
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 153
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6981a55b37241a7a4437c415f5146eb
+      internalID: 21300130
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cfd1a202c04fda8e5749d5c6e15cca
+      internalID: 21300132
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa60de32727d4170bafa4e88d6f5dfb9
+      internalID: 21300134
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_92
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43d87813afe4d45a16208b00886af11
+      internalID: 21300136
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_125
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48384a0ed0e4a6ab1a344c27a7a3935
+      internalID: 21300138
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_114
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 153
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4234953e7b314b21b504a77fc2294738
+      internalID: 21300140
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_67
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2e98ac241f41649298d05c6f98bb4c
+      internalID: 21300142
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_140
+      rect:
+        serializedVersion: 2
+        x: 24.14935
+        y: 8.098697
+        width: 26.85065
+        height: 42.901302
+      alignment: 9
+      pivot: {x: 0.05030235, y: 0.40561244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.574675, y: -21.549349}
+        - {x: -13.574675, y: -10.549349}
+        - {x: -13.574675, y: 21.450651}
+        - {x: 13.425325, y: 21.450651}
+        - {x: 13.425325, y: -21.549349}
+      physicsShape:
+      - - {x: -13.574675, y: 21.450651}
+        - {x: -12.574675, y: 18.450651}
+        - {x: -11.574675, y: -14.549349}
+        - {x: -3.5746746, y: -21.549349}
+        - {x: 13.425325, y: -21.549349}
+        - {x: 13.425325, y: 21.450651}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c49601a403478aaa64c0b792e9451f
+      internalID: 21300144
+      vertices:
+      - {x: 38.925323, y: 46.950653}
+      - {x: 15.925325, y: 3.9506512}
+      - {x: 38.925323, y: 3.9506512}
+      - {x: 11.925325, y: 46.950653}
+      - {x: 11.925325, y: 14.950651}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_123
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 102
+        width: 42.943626
+        height: 51
+      alignment: 9
+      pivot: {x: 0.59380174, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.528187, y: -25.5}
+        - {x: -21.471813, y: -25.5}
+        - {x: -21.471813, y: 25.5}
+        - {x: 15.528187, y: 25.5}
+        - {x: 21.528187, y: 11.5}
+        - {x: 21.528187, y: -20.5}
+      physicsShape:
+      - - {x: 9.528187, y: 25.5}
+        - {x: -21.471813, y: 25.5}
+        - {x: -21.471813, y: -25.5}
+        - {x: 9.528187, y: -25.5}
+        - {x: 21.528187, y: -15.5}
+        - {x: 21.528187, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dd4b52ef894c57940e0e00ec1a046c
+      internalID: 21300146
+      vertices:
+      - {x: 32.971813, y: 51}
+      - {x: 38.971813, y: 5}
+      - {x: 38.971813, y: 37}
+      - {x: 28.971813, y: 0}
+      - {x: -4.028187, y: 51}
+      - {x: -4.028187, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_139
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a911592c61b42859d619edc8c043936
+      internalID: 21300148
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_95
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c9487805aa4283a70568f108732bb4
+      internalID: 21300150
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_135
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ca62ad84744db8aefc88fe41f56bfb
+      internalID: 21300152
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_74
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8e4eaf350b40d28f4692d62d8abc45
+      internalID: 21300154
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40322ccac5ba46f1bc978bc2d01becaf
+      internalID: 21300156
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb2322d47284f8891407f022240b39d
+      internalID: 21300158
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_73
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e4796c36f64552a2b1dc5d42e97d73
+      internalID: 21300160
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_145
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f95f3ceb608414085a69895b43de55a
+      internalID: 21300162
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_97
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac711b45b674595947ca49f28922ccf
+      internalID: 21300164
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_98
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ddc0f954254ecf8252788440283159
+      internalID: 21300166
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 510
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e7be20c8a94505b494a63b157c1ae4
+      internalID: 21300168
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ab47efa2a74df3bcc410a8d8912710
+      internalID: 21300170
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ce7840ac934e90a8c22105ac625b64
+      internalID: 21300172
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_138
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f5ac7f28004153963dba563a659306
+      internalID: 21300174
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31aa26801bc43faa7e4fa60bc1a232c
+      internalID: 21300176
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb56d894da54a5b8df498d4470562a4
+      internalID: 21300178
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_47
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 510
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee4b8f4b57d44afa01e7c23a4f1022c
+      internalID: 21300180
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1f44bd778e465fba4659f4655afca3
+      internalID: 21300182
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: faedb0c891ce47d6b9050efe295186e0
+      internalID: 21300184
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67827751e9a2437bbc6038e10bdba7d7
+      internalID: 21300186
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_29
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cb9fde91be4365818651b8a2d82cd1
+      internalID: 21300188
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_115
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 153
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c42e072b8ae440998c93b734b89048f
+      internalID: 21300190
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb911a292ed466bb5922b98ed2533e3
+      internalID: 21300192
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_109
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8ee5fd65fa4f57b84b205c146b3030
+      internalID: 21300194
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47db0114d8d44e5dbe5e719114e3428a
+      internalID: 21300196
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_99
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dc5bf359f842e39483bbcae42aec9f
+      internalID: 21300198
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe77d7dcaa9439d87ef9f54f1bfafc4
+      internalID: 21300200
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_102
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c35d432f2b45f5838857f818817bc5
+      internalID: 21300202
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_128
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6498d4aee3804ac9b07b4681f6798a2d
+      internalID: 21300204
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_82
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a020876122c4b988819d55d4e197a15
+      internalID: 21300206
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_122
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033e5409eeee43c9a685acc29b584315
+      internalID: 21300208
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_141
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 8.098697
+        width: 51
+        height: 42.901302
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40561244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: -21.549349}
+        - {x: -1.5, y: -10.549349}
+        - {x: -1.5, y: -17.549349}
+        - {x: -5.5, y: -19.549349}
+        - {x: -24.5, y: -19.549349}
+        - {x: -25.5, y: -18.549349}
+        - {x: -25.5, y: 21.450651}
+        - {x: -1.5, y: 21.450651}
+        - {x: 25.5, y: 21.450651}
+        - {x: 25.5, y: -21.549349}
+      physicsShape:
+      - - {x: -1.5, y: 21.450651}
+        - {x: -0.5, y: 18.450651}
+        - {x: 0.5, y: -14.549349}
+        - {x: 8.5, y: -21.549349}
+        - {x: 25.5, y: -21.549349}
+        - {x: 25.5, y: 21.450651}
+      - - {x: -25.5, y: 21.450651}
+        - {x: -25.5, y: -18.549349}
+        - {x: -24.5, y: -19.549349}
+        - {x: -5.5, y: -19.549349}
+        - {x: -1.5, y: -17.549349}
+        - {x: -1.5, y: 21.450651}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf2fe0d5e3c40ca897c2312aea54798
+      internalID: 21300210
+      vertices:
+      - {x: 24, y: 46.950653}
+      - {x: 24, y: 7.950651}
+      - {x: 24, y: 14.950651}
+      - {x: 20, y: 5.950651}
+      - {x: 1, y: 5.950651}
+      - {x: 0, y: 46.950653}
+      - {x: 0, y: 6.950651}
+      - {x: 51, y: 46.950653}
+      - {x: 28, y: 3.9506512}
+      - {x: 51, y: 3.9506512}
+      indices: 020000000000000008000000070000000800000000000000090000000800000007000000060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_120
+      rect:
+        serializedVersion: 2
+        x: 8.07612
+        y: 102
+        width: 42.92388
+        height: 51
+      alignment: 9
+      pivot: {x: 0.40592507, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.538061, y: -25.5}
+        - {x: -21.538061, y: -18.5}
+        - {x: -21.538061, y: 8.5}
+        - {x: -11.538061, y: 25.5}
+        - {x: 21.461939, y: 25.5}
+        - {x: 21.461939, y: -25.5}
+      physicsShape:
+      - - {x: -11.538061, y: 25.5}
+        - {x: -21.538061, y: 8.5}
+        - {x: -21.538061, y: -18.5}
+        - {x: -13.538061, y: -25.5}
+        - {x: 21.461939, y: -25.5}
+        - {x: 21.461939, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa36a7802c4c496d984c63ff47b54876
+      internalID: 21300212
+      vertices:
+      - {x: 13.961941, y: 51}
+      - {x: 46.96194, y: 0}
+      - {x: 46.96194, y: 51}
+      - {x: 11.961941, y: 0}
+      - {x: 3.9619408, y: 34}
+      - {x: 3.9619408, y: 7}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_149
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e67ca08e6da486996dd0e7b95c0555b
+      internalID: 21300214
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b607de38e3043a19c4850a60d9e7aec
+      internalID: 21300216
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cfa62d25a34af3960e2bda06b188b6
+      internalID: 21300218
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_121
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de55e251c20450c9f54863b24ab3835
+      internalID: 21300220
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_39
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d97c556a1d4179a529f0cf8297530e
+      internalID: 21300222
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_49
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 510
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceb253b208c4d048fa554ea4d4749bb
+      internalID: 21300224
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_116
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 153
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942809d3df13427d842325eac88f1250
+      internalID: 21300226
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_108
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb417c778d0945e7975148fdc734d716
+      internalID: 21300228
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_133
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 51
+        width: 42.943626
+        height: 51
+      alignment: 9
+      pivot: {x: 0.59380174, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.528187, y: -25.5}
+        - {x: -21.471813, y: -25.5}
+        - {x: -21.471813, y: 25.5}
+        - {x: 15.528187, y: 25.5}
+        - {x: 21.528187, y: 11.5}
+        - {x: 21.528187, y: -20.5}
+      physicsShape:
+      - - {x: 9.528187, y: 25.5}
+        - {x: -21.471813, y: 25.5}
+        - {x: -21.471813, y: -25.5}
+        - {x: 9.528187, y: -25.5}
+        - {x: 21.528187, y: -15.5}
+        - {x: 21.528187, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2f4473555e4205990c9c3010e82ba8
+      internalID: 21300230
+      vertices:
+      - {x: 32.971813, y: 51}
+      - {x: 38.971813, y: 5}
+      - {x: 38.971813, y: 37}
+      - {x: 28.971813, y: 0}
+      - {x: -4.028187, y: 51}
+      - {x: -4.028187, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 510
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b03a9f12fc242d8bf9431559cd880b8
+      internalID: 21300232
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_142
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8.098697
+        width: 51
+        height: 42.901302
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40561244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: -21.549349}
+        - {x: -1.5, y: -10.549349}
+        - {x: -1.5, y: -17.549349}
+        - {x: -5.5, y: -19.549349}
+        - {x: -24.5, y: -19.549349}
+        - {x: -25.5, y: -18.549349}
+        - {x: -25.5, y: 21.450651}
+        - {x: -1.5, y: 21.450651}
+        - {x: 25.5, y: 21.450651}
+        - {x: 25.5, y: -21.549349}
+      physicsShape:
+      - - {x: -1.5, y: 21.450651}
+        - {x: -0.5, y: 18.450651}
+        - {x: 0.5, y: -14.549349}
+        - {x: 8.5, y: -21.549349}
+        - {x: 25.5, y: -21.549349}
+        - {x: 25.5, y: 21.450651}
+      - - {x: -25.5, y: 21.450651}
+        - {x: -25.5, y: -18.549349}
+        - {x: -24.5, y: -19.549349}
+        - {x: -5.5, y: -19.549349}
+        - {x: -1.5, y: -17.549349}
+        - {x: -1.5, y: 21.450651}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635f13967d9947c8ad8f404b8991f469
+      internalID: 21300234
+      vertices:
+      - {x: 24, y: 46.950653}
+      - {x: 24, y: 7.950651}
+      - {x: 24, y: 14.950651}
+      - {x: 20, y: 5.950651}
+      - {x: 1, y: 5.950651}
+      - {x: 0, y: 46.950653}
+      - {x: 0, y: 6.950651}
+      - {x: 51, y: 46.950653}
+      - {x: 28, y: 3.9506512}
+      - {x: 51, y: 3.9506512}
+      indices: 020000000000000008000000070000000800000000000000090000000800000007000000060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_78
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882daa63f7e441f8b2308ea0c761d8fa
+      internalID: 21300236
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_56
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41cdb572fb64571965e5d7a5e50f210
+      internalID: 21300238
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_146
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc6fceb2b6043bf943a5a20ae508945
+      internalID: 21300240
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_118
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 153
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0c5d006b2949f698064f0fdc355ed2
+      internalID: 21300242
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36d68986baf45b49551da4e69932c14
+      internalID: 21300244
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_71
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: df12757f68e44725b89b12d99d33a877
+      internalID: 21300246
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_112
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 153
+        width: 51
+        height: 36.923878
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69061005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -18.461937}
+        - {x: -25.5, y: -18.461937}
+        - {x: -25.5, y: 16.538063}
+        - {x: -20.5, y: 18.538063}
+        - {x: -5.5, y: 7.538063}
+        - {x: 2.5, y: 0.53806305}
+        - {x: 7.5, y: 7.538063}
+        - {x: 20.5, y: 18.538063}
+        - {x: 25.5, y: 18.538063}
+      physicsShape:
+      - - {x: 20.5, y: 18.538063}
+        - {x: 7.5, y: 7.538063}
+        - {x: 2.5, y: 0.53806305}
+        - {x: -5.5, y: 7.538063}
+        - {x: -20.5, y: 18.538063}
+        - {x: -25.5, y: 16.538063}
+        - {x: -25.5, y: -18.461937}
+        - {x: 25.5, y: -18.461937}
+        - {x: 25.5, y: 18.538063}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c81f7f10444c21840e914cc6aca439
+      internalID: 21300248
+      vertices:
+      - {x: 46, y: 29.961939}
+      - {x: 51, y: -7.038061}
+      - {x: 51, y: 29.961939}
+      - {x: 33, y: 18.961939}
+      - {x: 28, y: 11.961939}
+      - {x: 5, y: 29.961939}
+      - {x: 20, y: 18.961939}
+      - {x: 0, y: 27.961939}
+      - {x: 0, y: -7.038061}
+      indices: 080000000700000001000000050000000100000007000000040000000100000005000000060000000400000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7414ee40563c4d05b5c0c9aa78eef191
+      internalID: 21300250
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc479e94e8c40218cde658272f9eb9d
+      internalID: 21300252
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd3cf47ceae40da90cc1a4132b35e05
+      internalID: 21300254
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a9c4bb88ec44c4aa70d123e56f1f1c
+      internalID: 21300256
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_143
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 10.07612
+        width: 23.92388
+        height: 40.92388
+      alignment: 9
+      pivot: {x: 1.0658807, y: 0.3768919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.96194, y: -20.538061}
+        - {x: -11.96194, y: -19.538061}
+        - {x: -11.96194, y: 20.461939}
+        - {x: 12.03806, y: 20.461939}
+        - {x: 12.03806, y: -18.538061}
+        - {x: 8.03806, y: -20.538061}
+      physicsShape:
+      - - {x: -11.96194, y: 20.461939}
+        - {x: -11.96194, y: -19.538061}
+        - {x: -10.96194, y: -20.538061}
+        - {x: 8.03806, y: -20.538061}
+        - {x: 12.03806, y: -18.538061}
+        - {x: 12.03806, y: 20.461939}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439f62a0374740819f1693f3d0c12b95
+      internalID: 21300258
+      vertices:
+      - {x: 10.46194, y: 45.96194}
+      - {x: 6.46194, y: 4.961941}
+      - {x: 10.46194, y: 6.961941}
+      - {x: -12.53806, y: 4.961941}
+      - {x: -13.53806, y: 45.96194}
+      - {x: -13.53806, y: 5.961941}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_75
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1437376b25415c8638b55e62f727bb
+      internalID: 21300260
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_81
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dbfefede9048ef9f4bf7c1fd00bdc3
+      internalID: 21300262
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_137
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee78936236647ad8a425fa5eab2db70
+      internalID: 21300264
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_86
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd7e6ed1a9c42e787fc2212f9c08e57
+      internalID: 21300266
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad463fdd2cad45148ed3629ce8020926
+      internalID: 21300268
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_77
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105244a6b519450b9c2b5e54162dc3cb
+      internalID: 21300270
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae90a77deab84d8ca1dea230b506ddcd
+      internalID: 21300272
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_111
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 153
+        width: 51
+        height: 36.923878
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69061005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -18.461937}
+        - {x: -25.5, y: -18.461937}
+        - {x: -25.5, y: 16.538063}
+        - {x: -20.5, y: 18.538063}
+        - {x: -5.5, y: 7.538063}
+        - {x: 2.5, y: 0.53806305}
+        - {x: 7.5, y: 7.538063}
+        - {x: 20.5, y: 18.538063}
+        - {x: 25.5, y: 18.538063}
+      physicsShape:
+      - - {x: 20.5, y: 18.538063}
+        - {x: 7.5, y: 7.538063}
+        - {x: 2.5, y: 0.53806305}
+        - {x: -5.5, y: 7.538063}
+        - {x: -20.5, y: 18.538063}
+        - {x: -25.5, y: 16.538063}
+        - {x: -25.5, y: -18.461937}
+        - {x: 25.5, y: -18.461937}
+        - {x: 25.5, y: 18.538063}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbb694368c5454a95e722b1bc8cbbd4
+      internalID: 21300274
+      vertices:
+      - {x: 46, y: 29.961939}
+      - {x: 51, y: -7.038061}
+      - {x: 51, y: 29.961939}
+      - {x: 33, y: 18.961939}
+      - {x: 28, y: 11.961939}
+      - {x: 5, y: 29.961939}
+      - {x: 20, y: 18.961939}
+      - {x: 0, y: 27.961939}
+      - {x: 0, y: -7.038061}
+      indices: 080000000700000001000000050000000100000007000000040000000100000005000000060000000400000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_131
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cacdfac5f6249c483fc4d6f0371f779
+      internalID: 21300276
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_136
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6749980119464596def7a2073296d5
+      internalID: 21300278
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_126
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1c30a4db6b41cbb637362feb74cd26
+      internalID: 21300280
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a81723ba4d4cf09e03d30b98b0e110
+      internalID: 21300282
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ee6e038f154c179108511a49a191e7
+      internalID: 21300284
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc6d6faf42c45659abc2202f2ca8ccd
+      internalID: 21300286
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_144
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d9e0ec2c1444c7b30fdac89a51f714
+      internalID: 21300288
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_69
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c1c104d4b244bc9c36d0aa02db93b3
+      internalID: 21300290
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16706198c6804bef99c555b65d448ef3
+      internalID: 21300292
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff7f2a487ae4d2ebc5e2cdc7c9c17fb
+      internalID: 21300294
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_130
+      rect:
+        serializedVersion: 2
+        x: 8.07612
+        y: 51
+        width: 42.92388
+        height: 51
+      alignment: 9
+      pivot: {x: 0.40592507, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.538061, y: -25.5}
+        - {x: -21.538061, y: -17.5}
+        - {x: -21.538061, y: 8.5}
+        - {x: -11.538061, y: 25.5}
+        - {x: 21.461939, y: 25.5}
+        - {x: 21.461939, y: -25.5}
+      physicsShape:
+      - - {x: -11.538061, y: 25.5}
+        - {x: -21.538061, y: 8.5}
+        - {x: -21.538061, y: -17.5}
+        - {x: -13.538061, y: -25.5}
+        - {x: 21.461939, y: -25.5}
+        - {x: 21.461939, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95250d06d8a94557800001a5cb5409ad
+      internalID: 21300296
+      vertices:
+      - {x: 13.961941, y: 51}
+      - {x: 46.96194, y: 0}
+      - {x: 46.96194, y: 51}
+      - {x: 11.961941, y: 0}
+      - {x: 3.9619408, y: 34}
+      - {x: 3.9619408, y: 8}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Field_55_148
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82065b6d0c954df39e78caa45c4def25
+      internalID: 21300298
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Field_55_0: 21300068
+      Field_55_1: 21300100
+      Field_55_10: 21300114
+      Field_55_100: 21300122
+      Field_55_101: 21300034
+      Field_55_102: 21300202
+      Field_55_103: 21300126
+      Field_55_104: 21300096
+      Field_55_105: 21300112
+      Field_55_106: 21300070
+      Field_55_107: 21300088
+      Field_55_108: 21300228
+      Field_55_109: 21300194
+      Field_55_11: 21300200
+      Field_55_110: 21300104
+      Field_55_111: 21300274
+      Field_55_112: 21300248
+      Field_55_113: 21300074
+      Field_55_114: 21300140
+      Field_55_115: 21300190
+      Field_55_116: 21300226
+      Field_55_117: 21300098
+      Field_55_118: 21300242
+      Field_55_119: 21300130
+      Field_55_12: 21300184
+      Field_55_120: 21300212
+      Field_55_121: 21300220
+      Field_55_122: 21300208
+      Field_55_123: 21300146
+      Field_55_124: 21300064
+      Field_55_125: 21300138
+      Field_55_126: 21300280
+      Field_55_127: 21300086
+      Field_55_128: 21300204
+      Field_55_129: 21300020
+      Field_55_13: 21300004
+      Field_55_130: 21300296
+      Field_55_131: 21300276
+      Field_55_132: 21300048
+      Field_55_133: 21300230
+      Field_55_134: 21300024
+      Field_55_135: 21300152
+      Field_55_136: 21300278
+      Field_55_137: 21300264
+      Field_55_138: 21300174
+      Field_55_139: 21300148
+      Field_55_14: 21300090
+      Field_55_140: 21300144
+      Field_55_141: 21300210
+      Field_55_142: 21300234
+      Field_55_143: 21300258
+      Field_55_144: 21300288
+      Field_55_145: 21300162
+      Field_55_146: 21300240
+      Field_55_147: 21300106
+      Field_55_148: 21300298
+      Field_55_149: 21300214
+      Field_55_15: 21300252
+      Field_55_16: 21300060
+      Field_55_17: 21300054
+      Field_55_18: 21300056
+      Field_55_19: 21300244
+      Field_55_2: 21300192
+      Field_55_20: 21300272
+      Field_55_21: 21300134
+      Field_55_22: 21300170
+      Field_55_23: 21300286
+      Field_55_24: 21300128
+      Field_55_25: 21300032
+      Field_55_26: 21300256
+      Field_55_27: 21300040
+      Field_55_28: 21300080
+      Field_55_29: 21300188
+      Field_55_3: 21300022
+      Field_55_30: 21300110
+      Field_55_31: 21300196
+      Field_55_32: 21300118
+      Field_55_33: 21300094
+      Field_55_34: 21300186
+      Field_55_35: 21300000
+      Field_55_36: 21300178
+      Field_55_37: 21300052
+      Field_55_38: 21300284
+      Field_55_39: 21300222
+      Field_55_4: 21300268
+      Field_55_40: 21300006
+      Field_55_41: 21300084
+      Field_55_42: 21300002
+      Field_55_43: 21300124
+      Field_55_44: 21300008
+      Field_55_45: 21300102
+      Field_55_46: 21300168
+      Field_55_47: 21300180
+      Field_55_48: 21300232
+      Field_55_49: 21300224
+      Field_55_5: 21300292
+      Field_55_50: 21300050
+      Field_55_51: 21300250
+      Field_55_52: 21300116
+      Field_55_53: 21300046
+      Field_55_54: 21300042
+      Field_55_55: 21300216
+      Field_55_56: 21300238
+      Field_55_57: 21300010
+      Field_55_58: 21300062
+      Field_55_59: 21300072
+      Field_55_6: 21300182
+      Field_55_60: 21300172
+      Field_55_61: 21300014
+      Field_55_62: 21300044
+      Field_55_63: 21300218
+      Field_55_64: 21300158
+      Field_55_65: 21300132
+      Field_55_66: 21300108
+      Field_55_67: 21300142
+      Field_55_68: 21300030
+      Field_55_69: 21300290
+      Field_55_7: 21300156
+      Field_55_70: 21300176
+      Field_55_71: 21300246
+      Field_55_72: 21300058
+      Field_55_73: 21300160
+      Field_55_74: 21300154
+      Field_55_75: 21300260
+      Field_55_76: 21300120
+      Field_55_77: 21300270
+      Field_55_78: 21300236
+      Field_55_79: 21300026
+      Field_55_8: 21300012
+      Field_55_80: 21300294
+      Field_55_81: 21300262
+      Field_55_82: 21300206
+      Field_55_83: 21300254
+      Field_55_84: 21300038
+      Field_55_85: 21300036
+      Field_55_86: 21300266
+      Field_55_87: 21300066
+      Field_55_88: 21300016
+      Field_55_89: 21300018
+      Field_55_9: 21300282
+      Field_55_90: 21300082
+      Field_55_91: 21300092
+      Field_55_92: 21300136
+      Field_55_93: 21300028
+      Field_55_94: 21300078
+      Field_55_95: 21300150
+      Field_55_96: 21300076
+      Field_55_97: 21300164
+      Field_55_98: 21300166
+      Field_55_99: 21300198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

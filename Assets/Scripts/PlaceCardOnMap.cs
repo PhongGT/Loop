@@ -6,19 +6,13 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using TMPro;
 using UnityEngine.UI;
-public class PlaceCardOnMap : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, IEndDragHandler, IDragHandler, IPointerEnterHandler, IPointerExitHandler
+public class PlaceCardOnMap : Basic_Drag_Drop
 {
-   [SerializeField] private RectTransform m_RectTransform;
    [SerializeField] private Canvas canvas;
-   [SerializeField] Vector3 basePos;
-   [SerializeField] private GameObject target;
    [SerializeField] Tile currentTile;
-    [SerializeField] GameObject cardUI;
-    
-
-
+   [SerializeField] GameObject cardUI;
+   
     [Header("CardUI")]
-
     protected TMP_Text cardName;
     protected Image image;
     
@@ -28,25 +22,15 @@ public class PlaceCardOnMap : MonoBehaviour, IPointerDownHandler, IBeginDragHand
         m_RectTransform = GetComponent<RectTransform>();
         canvas = GetComponentInParent<Canvas>();  
         image = cardUI.GetComponent<Image>();
-
-
     }
     private void Start()
     {
         basePos = m_RectTransform.position;
     }
     
-        
-    public void OnBeginDrag(PointerEventData eventData)
+    public override void OnDrag(PointerEventData eventData)
     {
-        
-        Debug.Log("Drag");
-    }
-    
 
-    public void OnDrag(PointerEventData eventData)
-    {
-        
         m_RectTransform.anchoredPosition += eventData.delta / canvas.scaleFactor;
         RaycastHit2D ray = Physics2D.GetRayIntersection(Camera.main.ScreenPointToRay(Input.mousePosition));
         if (ray.collider != null)
@@ -64,17 +48,10 @@ public class PlaceCardOnMap : MonoBehaviour, IPointerDownHandler, IBeginDragHand
            
         
     }
-
-    public void OnEndDrag(PointerEventData eventData)
+    public override void OnEndDrag (PointerEventData eventData)
     {
-        Debug.Log("EndDrag");
-
-
-        if(target == null)
-        {
-            m_RectTransform.position = basePos;
-        }
-        else
+        base.OnEndDrag(eventData);
+        if( target!= null)
         {
             target.GetComponent<Cell>().SetTile(currentTile);
             this.gameObject.SetActive(false);
@@ -82,25 +59,9 @@ public class PlaceCardOnMap : MonoBehaviour, IPointerDownHandler, IBeginDragHand
         }
     }
 
-    public void OnPointerDown(PointerEventData eventData)
-    {
-        Debug.Log("Click");
-    }
-
     public void SetCard(Tile tile)
     {
         currentTile = tile;
     }
 
-
-    // Hover UI
-    public void OnPointerEnter(PointerEventData eventData)
-    {
-        
-    }
-
-    public void OnPointerExit(PointerEventData eventData)
-    {
-        
-    }
 }

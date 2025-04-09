@@ -5,8 +5,6 @@ using UnityEngine.UI;
 
 public class LoadCharacter : MonoBehaviour
 {
-    
-    [SerializeField] protected SpriteRenderer spriteRenderer;
     [SerializeField] protected Transform healthBar;
     [SerializeField] private Transform healthPosition;
     Slider healthSlider;
@@ -15,13 +13,14 @@ public class LoadCharacter : MonoBehaviour
     public bool isLoaded = false;
     protected Battle battle;
 
+    // Load HealthBar
     public void Load(Character character)
     {
-        battle = GetComponent<Battle>();
+        GameObject a =  Instantiate(character.baseStats.charPrefab, this.transform.position, Quaternion.identity, this.transform);
+        a.name = character.baseStats.charPrefab.name;   
+        battle = GetComponentInChildren<Battle>();
         battle.currentChar =  character;
-        battle.currentChar.animator = GetComponent<Animator>();
-        spriteRenderer.sprite = character.baseStats.icon;
-        this.name = character.baseStats.name + " (Clone)";
+        battle.currentChar.animator = GetComponentInChildren<Animator>();
         SpawnHealthBar();
         isLoaded = true;   
         
@@ -29,9 +28,19 @@ public class LoadCharacter : MonoBehaviour
 
     protected void SpawnHealthBar()
     {
-        Canvas canvas = FindObjectOfType<Canvas>();
-        healthBar = Instantiate(healthBarPrefab, canvas.transform).transform;
+        Canvas[] canvas = FindObjectsOfType<Canvas>();
+        foreach (var item in canvas)
+        {
+            if (item.renderMode == RenderMode.WorldSpace)
+            {
+                canvas = new Canvas[1];
+                canvas[0] = item;
+                break;
+            }
+        }
+        healthBar = Instantiate(healthBarPrefab, canvas[0].transform).transform;
         healthSlider = healthBar.gameObject.GetComponent<Slider>();
+        healthBar.gameObject.SetActive(false);
 
     }
     private void LateUpdate()
@@ -52,5 +61,22 @@ public class LoadCharacter : MonoBehaviour
 
     public Character ReturnCharacter => battle.currentChar;
 
-    
+    private void OnEnable()
+    {
+        if (healthBar != null)
+        {
+            healthBar.gameObject.SetActive(true);
+        }
+        else return;
+    }
+    private void OnDisable()
+    {
+        if (healthBar != null)
+        {
+            healthBar.gameObject.SetActive(false);
+        }
+        else return;
+
+    }
+
 }

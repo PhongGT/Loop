@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6eb1f9a6d9c4294f91ec418c786ddea, type: 3}
+  m_Name: Cemetery
+  m_EditorClassIdentifier: 
+  position: {x: 0, y: 0, z: 0}
+  type: 5
+  placement: 0
+  effect: 0
+  sprite: {fileID: 1399408087, guid: 6ffad07b461c82246bc63ccca8090fb8, type: 3}
+  spritePreview: {fileID: 0}
+  mobSprite: {fileID: 0}
+  mobName: Skeleton
+  chanceToSpawn: 100
+  dayNeedToSpawn: 3
+  cellDescription: 'Spider Nest '
+  cellEffectDescription: 'Evil Spider Nest '

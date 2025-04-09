@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: bf8db08960c985940ab78dc5800945be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Match_Select_Altar_06a
+  - first:
+      213: 21300002
+    second: Match_Select_Altar_03b
+  - first:
+      213: 21300004
+    second: Match_Select_Altar_06b
+  - first:
+      213: 21300006
+    second: Match_Select_Altar_05a
+  - first:
+      213: 21300008
+    second: Match_Select_Altar_02a
+  - first:
+      213: 21300010
+    second: Match_Select_Altar_02b
+  - first:
+      213: 21300012
+    second: Match_Select_Altar_07a
+  - first:
+      213: 21300014
+    second: Match_Select_Altar_07b
+  - first:
+      213: 21300016
+    second: Match_Select_Altar_05b
+  - first:
+      213: 21300018
+    second: Match_Select_Altar_03a
+  - first:
+      213: 21300020
+    second: Match_Select_Altar_04b
+  - first:
+      213: 21300022
+    second: Match_Select_Altar_04a
+  - first:
+      213: 21300024
+    second: Match_Select_Altar_01a
+  - first:
+      213: 21300026
+    second: Match_Select_Altar_01b
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Match_Select_Altar_06a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -40}
+        - {x: -40, y: -40}
+        - {x: -40, y: 40}
+        - {x: 37, y: 40}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape:
+      - - {x: -39.999996, y: 39.999996}
+        - {x: -39.999996, y: -39.999996}
+        - {x: 37, y: -39.999996}
+        - {x: 39.999996, y: -37}
+        - {x: 39.999996, y: 37}
+        - {x: 37, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8815de5ed69145fe92831b1a65cf9695
+      internalID: 21300000
+      vertices:
+      - {x: 77, y: 80}
+      - {x: 80, y: 3}
+      - {x: 80, y: 77}
+      - {x: 77, y: 0}
+      - {x: 0, y: 80}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Match_Select_Altar_03b
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -40}
+        - {x: -40, y: -40}
+        - {x: -40, y: 40}
+        - {x: 37, y: 40}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape:
+      - - {x: -39.999996, y: 39.999996}
+        - {x: -39.999996, y: -39.999996}
+        - {x: 37, y: -39.999996}
+        - {x: 39.999996, y: -37}
+        - {x: 39.999996, y: 37}
+        - {x: 37, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2574d5a306cc44baa8e7ec155f8ddf02
+      internalID: 21300002
+      vertices:
+      - {x: 77, y: 80}
+      - {x: 80, y: 3}
+      - {x: 80, y: 77}
+      - {x: 77, y: 0}
+      - {x: 0, y: 80}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Match_Select_Altar_06b
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -40}
+        - {x: -40, y: -40}
+        - {x: -40, y: 40}
+        - {x: 37, y: 40}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape:
+      - - {x: -39.999996, y: 39.999996}
+        - {x: -39.999996, y: -39.999996}
+        - {x: 37, y: -39.999996}
+        - {x: 39.999996, y: -37}
+        - {x: 39.999996, y: 37}
+        - {x: 37, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaea176bd6b4c61ad1d6d4b150f26c5
+      internalID: 21300004
+      vertices:
+      - {x: 77, y: 80}
+      - {x: 80, y: 3}
+      - {x: 80, y: 77}
+      - {x: 77, y: 0}
+      - {x: 0, y: 80}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Match_Select_Altar_05a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -40}
+        - {x: -40, y: -40}
+        - {x: -40, y: 40}
+        - {x: 37, y: 40}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape:
+      - - {x: -39.999996, y: 39.999996}
+        - {x: -39.999996, y: -39.999996}
+        - {x: 37, y: -39.999996}
+        - {x: 39.999996, y: -37}
+        - {x: 39.999996, y: 37}
+        - {x: 37, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edf64cd220140ef8bb46a759d5e5672
+      internalID: 21300006
+      vertices:
+      - {x: 77, y: 80}
+      - {x: 80, y: 3}
+      - {x: 80, y: 77}
+      - {x: 77, y: 0}
+      - {x: 0, y: 80}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Match_Select_Altar_02a
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -40}
+        - {x: -40, y: -40}
+        - {x: -40, y: 40}
+        - {x: 37, y: 40}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape:
+      - - {x: -39.999996, y: 39.999996}
+        - {x: -39.999996, y: -39.999996}
+        - {x: 37, y: -39.999996}
+        - {x: 39.999996, y: -37}
+        - {x: 39.999996, y: 37}
+        - {x: 37, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3f2b9883b54137ba720422fc5db4af
+      internalID: 21300008
+      vertices:
+      - {x: 77, y: 80}
+      - {x: 80, y: 3}
+      - {x: 80, y: 77}
+      - {x: 77, y: 0}
+      - {x: 0, y: 80}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Match_Select_Altar_02b
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 84
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -40}
+        - {x: -40, y: -40}
+        - {x: -40, y: 40}
+        - {x: 37, y: 40}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape:
+      - - {x: -39.999996, y: 39.999996}
+        - {x: -39.999996, y: -39.999996}
+        - {x: 37, y: -39.999996}
+        - {x: 39.999996, y: -37}
+        - {x: 39.999996, y: 37}
+        - {x: 37, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13554f2df104880942ab5b04ffef299
+      internalID: 21300010
+      vertices:
+      - {x: 77, y: 80}
+      - {x: 80, y: 3}
+      - {x: 80, y: 77}
+      - {x: 77, y: 0}
+      - {x: 0, y: 80}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Match_Select_Altar_07a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -40}
+        - {x: -40, y: -40}
+        - {x: -40, y: 40}
+        - {x: 37, y: 40}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape:
+      - - {x: -39.999996, y: 39.999996}
+        - {x: -39.999996, y: -39.999996}
+        - {x: 37, y: -39.999996}
+        - {x: 39.999996, y: -37}
+        - {x: 39.999996, y: 37}
+        - {x: 37, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946d7cd011de44f28a374805f1f80d33
+      internalID: 21300012
+      vertices:
+      - {x: 77, y: 80}
+      - {x: 80, y: 3}
+      - {x: 80, y: 77}
+      - {x: 77, y: 0}
+      - {x: 0, y: 80}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Match_Select_Altar_07b
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 168
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -40}
+        - {x: -40, y: -40}
+        - {x: -40, y: 40}
+        - {x: 37, y: 40}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape:
+      - - {x: -39.999996, y: 39.999996}
+        - {x: -39.999996, y: -39.999996}
+        - {x: 37, y: -39.999996}
+        - {x: 39.999996, y: -37}
+        - {x: 39.999996, y: 37}
+        - {x: 37, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aabb0e77999450bba74d4817eaf1d81
+      internalID: 21300014
+      vertices:
+      - {x: 77, y: 80}
+      - {x: 80, y: 3}
+      - {x: 80, y: 77}
+      - {x: 77, y: 0}
+      - {x: 0, y: 80}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Match_Select_Altar_05b
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -40}
+        - {x: -40, y: -40}
+        - {x: -40, y: 40}
+        - {x: 37, y: 40}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape:
+      - - {x: -39.999996, y: 39.999996}
+        - {x: -39.999996, y: -39.999996}
+        - {x: 37, y: -39.999996}
+        - {x: 39.999996, y: -37}
+        - {x: 39.999996, y: 37}
+        - {x: 37, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ca66c8a83e4d4c94396f49268da206
+      internalID: 21300016
+      vertices:
+      - {x: 77, y: 80}
+      - {x: 80, y: 3}
+      - {x: 80, y: 77}
+      - {x: 77, y: 0}
+      - {x: 0, y: 80}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Match_Select_Altar_03a
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -40}
+        - {x: -40, y: -40}
+        - {x: -40, y: 40}
+        - {x: 37, y: 40}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape:
+      - - {x: -39.999996, y: 39.999996}
+        - {x: -39.999996, y: -39.999996}
+        - {x: 37, y: -39.999996}
+        - {x: 39.999996, y: -37}
+        - {x: 39.999996, y: 37}
+        - {x: 37, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfa4312b081479d988b4e5310ed0401
+      internalID: 21300018
+      vertices:
+      - {x: 77, y: 80}
+      - {x: 80, y: 3}
+      - {x: 80, y: 77}
+      - {x: 77, y: 0}
+      - {x: 0, y: 80}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Match_Select_Altar_04b
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -40}
+        - {x: -40, y: -40}
+        - {x: -40, y: 40}
+        - {x: 37, y: 40}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape:
+      - - {x: -39.999996, y: 39.999996}
+        - {x: -39.999996, y: -39.999996}
+        - {x: 37, y: -39.999996}
+        - {x: 39.999996, y: -37}
+        - {x: 39.999996, y: 37}
+        - {x: 37, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddecaa6554641d7aeee780a1f563371
+      internalID: 21300020
+      vertices:
+      - {x: 77, y: 80}
+      - {x: 80, y: 3}
+      - {x: 80, y: 77}
+      - {x: 77, y: 0}
+      - {x: 0, y: 80}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Match_Select_Altar_04a
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 84
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -40}
+        - {x: -40, y: -40}
+        - {x: -40, y: 40}
+        - {x: 37, y: 40}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape:
+      - - {x: -39.999996, y: 39.999996}
+        - {x: -39.999996, y: -39.999996}
+        - {x: 37, y: -39.999996}
+        - {x: 39.999996, y: -37}
+        - {x: 39.999996, y: 37}
+        - {x: 37, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84a29216b724916af0311b2a0c03d93
+      internalID: 21300022
+      vertices:
+      - {x: 77, y: 80}
+      - {x: 80, y: 3}
+      - {x: 80, y: 77}
+      - {x: 77, y: 0}
+      - {x: 0, y: 80}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Match_Select_Altar_01a
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 84
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -40}
+        - {x: -40, y: -40}
+        - {x: -40, y: 40}
+        - {x: 37, y: 40}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape:
+      - - {x: -39.999996, y: 39.999996}
+        - {x: -39.999996, y: -39.999996}
+        - {x: 37, y: -39.999996}
+        - {x: 39.999996, y: -37}
+        - {x: 39.999996, y: 37}
+        - {x: 37, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e638b2ff5b40e3bef7782d427da9e6
+      internalID: 21300024
+      vertices:
+      - {x: 77, y: 80}
+      - {x: 80, y: 3}
+      - {x: 80, y: 77}
+      - {x: 77, y: 0}
+      - {x: 0, y: 80}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Match_Select_Altar_01b
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 168
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -40}
+        - {x: -40, y: -40}
+        - {x: -40, y: 40}
+        - {x: 37, y: 40}
+        - {x: 40, y: 37}
+        - {x: 40, y: -37}
+      physicsShape:
+      - - {x: -39.999996, y: 39.999996}
+        - {x: -39.999996, y: -39.999996}
+        - {x: 37, y: -39.999996}
+        - {x: 39.999996, y: -37}
+        - {x: 39.999996, y: 37}
+        - {x: 37, y: 39.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f227ec667f44b28a097081d7ef2d9be
+      internalID: 21300026
+      vertices:
+      - {x: 77, y: 80}
+      - {x: 80, y: 3}
+      - {x: 80, y: 77}
+      - {x: 77, y: 0}
+      - {x: 0, y: 80}
+      - {x: 0, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Match_Select_Altar_01a: 21300024
+      Match_Select_Altar_01b: 21300026
+      Match_Select_Altar_02a: 21300008
+      Match_Select_Altar_02b: 21300010
+      Match_Select_Altar_03a: 21300018
+      Match_Select_Altar_03b: 21300002
+      Match_Select_Altar_04a: 21300022
+      Match_Select_Altar_04b: 21300020
+      Match_Select_Altar_05a: 21300006
+      Match_Select_Altar_05b: 21300016
+      Match_Select_Altar_06a: 21300000
+      Match_Select_Altar_06b: 21300004
+      Match_Select_Altar_07a: 21300012
+      Match_Select_Altar_07b: 21300014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

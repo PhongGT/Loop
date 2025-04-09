@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2673257238582852795}
   - component: {fileID: 4182824239089530514}
   - component: {fileID: -7459966172008381932}
-  - component: {fileID: 7330045951484342758}
+  - component: {fileID: 6458305634506756658}
   m_Layer: 0
   m_Name: Cell
   m_TagString: Untagged
@@ -72,10 +72,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1801397909
+  m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1532384528, guid: 6ffad07b461c82246bc63ccca8090fb8, type: 3}
+  m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -83,7 +83,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!114 &-7459966172008381932
@@ -107,7 +107,7 @@ MonoBehaviour:
   mobPrefab: {fileID: 0}
   mobList: []
   spriteRenderer: {fileID: 0}
---- !u!61 &7330045951484342758
+--- !u!61 &6458305634506756658
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -142,13 +142,13 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.5238096, y: 1.5238096}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.5238096, y: 1.5238096}
+  m_Size: {x: 0.0001, y: 0.0001}
   m_EdgeRadius: 0

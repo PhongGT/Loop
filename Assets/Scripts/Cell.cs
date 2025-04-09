@@ -13,9 +13,9 @@ public class Cell : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     [SerializeField] protected Tile roadDefault;
     [SerializeField] public List<string> effectedBy;
     [SerializeField] public List<Cell> effecting;
-    [SerializeField] public List<string> mob;
+    [SerializeField] public List<GameObject> mobObject;
     [SerializeField] protected GameObject mobPrefab;
-    [SerializeField] protected List<GameObject> mobList;
+    [SerializeField] protected List<string> mobList;
     public SpriteRenderer spriteRenderer;
     protected int mobCount;
     
@@ -26,16 +26,8 @@ public class Cell : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
-    void Start()
-    {
-
-    }
-    private void Update()
-    {
-        //Check if tile can spawn => spawn mob 
 
 
-    }
 
     public void PreviewTile()
     {
@@ -45,32 +37,46 @@ public class Cell : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     {
 
     }
-    protected void SpawnMob()
+
+
+
+    protected void SpawnMob(int a)
     {
-        List<Cell> shuffledList = R_Helper.shuffle(effecting);
-
-        foreach (var cell in shuffledList)
+        if (a % currentTile.dayNeedToSpawn == 0 || a == 0)
         {
-            if (cell.mobCount < 3)
+            if (R_Helper.CheckRandom(currentTile.chanceToSpawn))
             {
-                
-                cell.mob.Add(currentTile.nameMob);
-                GameObject mob =  Instantiate(mobPrefab, cell.transform.position, Quaternion.identity);
-                mobList.Add(mob);
-                cell.mobCount++;
-                break;
+                List<Cell> shuffledList = R_Helper.shuffle(effecting);
+
+                foreach (var cell in shuffledList)
+                {
+                    if (cell.mobCount < 3 || cell.currentTile.type == Tile.Type.Road)
+                    {
+                        Debug.Log("Spawn Mob " + currentTile.mobName);
+                        
+                        GameObject mob = Instantiate(mobPrefab, cell.transform.position, Quaternion.identity, cell.transform);
+                        cell.mobObject.Add(mob);
+                        mob.GetComponent<SpriteRenderer>().sprite = currentTile.mobSprite;
+                        cell.mobList.Add(currentTile.mobName);
+                        cell.mobCount++;
+                        break;
+                    }
+                }
             }
+
         }
-
-
-
-
+        return;
     }
     public void SetTile(Tile tile)
     {
         currentTile = tile;
         spriteRenderer.sprite = currentTile.sprite;
+        if(currentTile.chanceToSpawn != 0)
+        {
+            Actions.SpawnMob += SpawnMob;
+        }
         GetTileEffectedBy();
+        AddEffect();
     }
     public void AddEffect()
     {
@@ -82,7 +88,7 @@ public class Cell : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     public void LoadCell()
     {
         spriteRenderer.sprite = currentTile.sprite;
-        mob.Clear();
+        mobObject.Clear();
         mobCount = 0;
 
     }
@@ -98,11 +104,22 @@ public class Cell : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
             }
         }
         this.currentTile = defaultTile;
+        LoadCell();
+    }
+    public void ClearMob()
+    {
+        foreach (var mob in mobObject)
+        {
+            Destroy(mob);
+        }
+        mobList.Clear();
+        mobObject.Clear();
+        mobCount = 0;
     }
 
     protected void GetTileEffectedBy()
     {
-        effecting = new List<Cell>();
+        effecting.Clear();
         if (currentTile.effect == Tile.Effect.None)
         {
             effecting.Add(this);
@@ -112,26 +129,26 @@ public class Cell : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
         {
             if (CheckValidCell(currentTile.position.x - 1, currentTile.position.y))
             {
-                effecting.Add(Map.instance.ReturnCell(ReturnPos(currentTile.position.x - 1, currentTile.position.y)));
+                effecting.Add(Map.instance.ReturnCell((int)currentTile.position.x - 1, (int)currentTile.position.y));
             }
             if (CheckValidCell(currentTile.position.x + 1, currentTile.position.y))
             {
-                effecting.Add(Map.instance.ReturnCell(ReturnPos(currentTile.position.x + 1, currentTile.position.y)));
+                effecting.Add(Map.instance.ReturnCell((int)currentTile.position.x + 1, (int)currentTile.position.y));
             }
             if (CheckValidCell(currentTile.position.x, currentTile.position.y - 1))
             {
-                effecting.Add(Map.instance.ReturnCell(ReturnPos(currentTile.position.x, currentTile.position.y - 1)));
+                effecting.Add(Map.instance.ReturnCell((int)currentTile.position.x, (int)currentTile.position.y - 1));
             }
             if (CheckValidCell(currentTile.position.x, currentTile.position.y + 1))
             {
-                effecting.Add(Map.instance.ReturnCell(ReturnPos(currentTile.position.x, currentTile.position.y + 1)));
+                effecting.Add(Map.instance.ReturnCell((int)currentTile.position.x, (int)currentTile.position.y + 1));
             }
         }
         else if (currentTile.effect == Tile.Effect.Ef_3x3)
         {
-            for (float i = -1; i <= 1; i++)
+            for (int i = -1; i <= 1; i++)
             {
-                for (float j = -1; j <= 1; j++)
+                for (int j = -1; j <= 1; j++)
                 {
                     if (i == 0 && j == 0)
                     {
@@ -140,42 +157,23 @@ public class Cell : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
                     if (!CheckValidCell(currentTile.position.x + i, currentTile.position.y + j))
                     { continue; }
 
-                    effecting.Add(Map.instance.ReturnCell(ReturnPos((i + currentTile.position.x), j + (currentTile.position.y))));
+                    effecting.Add(Map.instance.ReturnCell((int)currentTile.position.x + i, (int) currentTile.position.y + j));
 
                 }
             }
         }
     }
 
-
     public void OnPointerEnter(PointerEventData eventData)
     {
-        throw new System.NotImplementedException();
-       
+        //Show Description
+
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
-        throw new System.NotImplementedException();
+        //Hide Description
     }
-
-
-    int ReturnPos(float x, float y)
-    {
-
-        if (x == 0 && y == 0)
-        {
-            return 0;
-        }
-        else if (x == 0 && y > 0)
-        {
-            return (int)y;
-        }
-        else
-            return (int)x * 17 + (int)y;
-
-    }
-
     bool CheckValidCell(float x, float y)
     {
         if (x < 0 || x > 16 || y < 0 || y > 11)
@@ -188,9 +186,14 @@ public class Cell : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player") && mobCount !=0)
+        if (collision.CompareTag("Player") && mobCount !=0 && currentTile.type == Tile.Type.Road)
         {
-            BattleManager.instance.StartBattle();
+            BattleManager.instance.PreperBattle(mobList);
+            Actions.StartBattle?.Invoke();
+        }
+        if (collision.CompareTag("Player") && currentTile.type == Tile.Type.Campfire)
+        {
+            BattleManager.instance.player.Heal(0.3f);
         }
     }
 }

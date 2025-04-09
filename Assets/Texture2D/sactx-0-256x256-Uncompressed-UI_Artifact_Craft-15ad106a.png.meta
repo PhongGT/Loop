@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: 123280560d5efaa4f8f66748c87c66e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 'Artifact_Button_06 '
+  - first:
+      213: 21300002
+    second: Artifact_Button_07
+  - first:
+      213: 21300004
+    second: Artifact_Icon_13b_02
+  - first:
+      213: 21300006
+    second: Artifact_Icon_09b_02
+  - first:
+      213: 21300008
+    second: Artifact_Icon_09b
+  - first:
+      213: 21300010
+    second: Artifact_Icon_12a_02
+  - first:
+      213: 21300012
+    second: Artifact_Icon_11b 02
+  - first:
+      213: 21300014
+    second: Artifact_Icon_12a
+  - first:
+      213: 21300016
+    second: Artifact_Icon_13a_02
+  - first:
+      213: 21300018
+    second: Artifact_Button_08
+  - first:
+      213: 21300020
+    second: Artifact_Icon_10a
+  - first:
+      213: 21300022
+    second: Artifact_Slot_00
+  - first:
+      213: 21300024
+    second: Artifact_Icon_04
+  - first:
+      213: 21300026
+    second: Artifact_Icon_13b_03
+  - first:
+      213: 21300028
+    second: Artifact_Icon_13b
+  - first:
+      213: 21300030
+    second: Artifact_Icon_12b
+  - first:
+      213: 21300032
+    second: Artifact_Icon_12b_03
+  - first:
+      213: 21300034
+    second: Artifact_Icon_10a_02
+  - first:
+      213: 21300036
+    second: Artifact_Icon_13a
+  - first:
+      213: 21300038
+    second: Artifact_Button_10
+  - first:
+      213: 21300040
+    second: Artifact_Slot_01
+  - first:
+      213: 21300042
+    second: Artifact_Icon_09a_02
+  - first:
+      213: 21300044
+    second: Artifact_Button_09
+  - first:
+      213: 21300046
+    second: Artifact_Icon_11b
+  - first:
+      213: 21300048
+    second: Artifact_Icon_10b_03
+  - first:
+      213: 21300050
+    second: Artifact_Icon_11b_03
+  - first:
+      213: 21300052
+    second: Artifact_Icon_10b
+  - first:
+      213: 21300054
+    second: Artifact_Icon_11a_02
+  - first:
+      213: 21300056
+    second: Artifact_Icon_11a
+  - first:
+      213: 21300058
+    second: Artifact_Icon_09a
+  - first:
+      213: 21300060
+    second: Artifact_Icon_10b_02
+  - first:
+      213: 21300062
+    second: Artifact_Icon_11b_02
+  - first:
+      213: 21300064
+    second: Artifact_Level_Icons_1
+  - first:
+      213: 21300066
+    second: Artifact_Level_Icons_2
+  - first:
+      213: 21300068
+    second: Artifact_Level_Icons_3
+  - first:
+      213: 21300070
+    second: Artifact_Level_Icons_4
+  - first:
+      213: 21300072
+    second: Artifact_Level_Icons_5
+  - first:
+      213: 21300074
+    second: Artifact_Icon_03
+  - first:
+      213: 21300076
+    second: Artifact_Icon_12b_02
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 'Artifact_Button_06 '
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.000002, y: -30.000002}
+        - {x: -30.000002, y: -30.000002}
+        - {x: -30.000002, y: 30.000002}
+        - {x: 30.000002, y: 30.000002}
+      physicsShape:
+      - - {x: -29.999998, y: 29.999998}
+        - {x: -29.999998, y: -29.999998}
+        - {x: 29.999998, y: -29.999998}
+        - {x: 29.999998, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1423c5af1d4c42e1a15411ba940de0f2
+      internalID: 21300000
+      vertices:
+      - {x: -0.0000019073486, y: 60}
+      - {x: 60, y: -0.0000019073486}
+      - {x: 60, y: 60}
+      - {x: -0.0000019073486, y: -0.0000019073486}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Button_07
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 104
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.000002, y: -30.000002}
+        - {x: -30.000002, y: -30.000002}
+        - {x: -30.000002, y: 30.000002}
+        - {x: 30.000002, y: 30.000002}
+      physicsShape:
+      - - {x: -29.999998, y: 29.999998}
+        - {x: -29.999998, y: -29.999998}
+        - {x: 29.999998, y: -29.999998}
+        - {x: 29.999998, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cdcff38b554b4c82a7345d9c4efb4b
+      internalID: 21300002
+      vertices:
+      - {x: -0.0000019073486, y: 60}
+      - {x: 60, y: -0.0000019073486}
+      - {x: 60, y: 60}
+      - {x: -0.0000019073486, y: -0.0000019073486}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_13b_02
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 200
+        width: 28
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -14, y: 6}
+        - {x: 14, y: 6}
+        - {x: 14, y: -6}
+      physicsShape:
+      - - {x: -9.999999, y: 6}
+        - {x: -14, y: 2}
+        - {x: -14, y: -6}
+        - {x: 14, y: -6}
+        - {x: 14, y: 4}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a2d60bc26f4b15a5895f44af2c2e07
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 28, y: 12}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_09b_02
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 216
+        width: 28
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -14, y: 6}
+        - {x: 14, y: 6}
+        - {x: 14, y: -6}
+      physicsShape:
+      - - {x: -11, y: 6}
+        - {x: -14, y: 3}
+        - {x: -14, y: -6}
+        - {x: 14, y: -6}
+        - {x: 14, y: 3}
+        - {x: 12, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80712668b1b2426290b6efc3e71a4ac1
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 28, y: 12}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_09b
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 182
+        width: 28
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -7}
+        - {x: -14, y: 7}
+        - {x: 14, y: 7}
+        - {x: 14, y: -7}
+      physicsShape:
+      - - {x: -11, y: 7}
+        - {x: -14, y: 4}
+        - {x: -14, y: -7}
+        - {x: 14, y: -7}
+        - {x: 14, y: 4}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c64d01831344b7ba270bc3df6e5e2fe
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 28, y: 14}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_12a_02
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 224
+        width: 14
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -3}
+        - {x: -7, y: 3}
+        - {x: 7, y: 3}
+        - {x: 7, y: -3}
+      physicsShape:
+      - - {x: 4.9999995, y: 3}
+        - {x: -4.9999995, y: 3}
+        - {x: -7, y: 2}
+        - {x: -7, y: -3}
+        - {x: 7, y: -3}
+        - {x: 7, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95738f8ab6344bc8edb7bcea5f4d618
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 14, y: 6}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_11b 02
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 208
+        width: 28
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -14, y: 6}
+        - {x: 14, y: 6}
+        - {x: 14, y: -6}
+      physicsShape:
+      - - {x: -9.999999, y: 6}
+        - {x: -14, y: 2}
+        - {x: -14, y: -6}
+        - {x: 14, y: -6}
+        - {x: 14, y: 4}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3791546f75e45b3b78ca9a494cc5563
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 28, y: 12}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_12a
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 244
+        width: 9
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -1.5}
+        - {x: -4.5, y: 1.5}
+        - {x: 4.5, y: 1.5}
+        - {x: 4.5, y: -1.5}
+      physicsShape:
+      - - {x: -4.5, y: 1.5}
+        - {x: -4.5, y: -1.5}
+        - {x: 4.5, y: -1.5}
+        - {x: 4.5, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd9981c2543456cbbf3317b9ebda3d1
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 3}
+      - {x: 9, y: 3}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_13a_02
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 232
+        width: 14
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -3}
+        - {x: -7, y: 3}
+        - {x: 7, y: 3}
+        - {x: 7, y: -3}
+      physicsShape:
+      - - {x: 4.9999995, y: 3}
+        - {x: -4.9999995, y: 3}
+        - {x: -7, y: 2}
+        - {x: -7, y: -3}
+        - {x: 7, y: -3}
+        - {x: 7, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca696d884cd4f2796b828c82cb39f45
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 14, y: 6}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Button_08
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 118
+        width: 50
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 42, y: 0, z: 6, w: 0}
+      outline:
+      - - {x: 25, y: -30.000002}
+        - {x: -25, y: -30.000002}
+        - {x: -25, y: 30.000002}
+        - {x: 25, y: 30.000002}
+      physicsShape:
+      - - {x: -25, y: 29.999998}
+        - {x: -25, y: -29.999998}
+        - {x: 25, y: -29.999998}
+        - {x: 25, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd34596fbbf47f884e8928c80b185ab
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 60}
+      - {x: 50, y: -0.0000019073486}
+      - {x: 50, y: 60}
+      - {x: 0, y: -0.0000019073486}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_10a
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 234
+        width: 9
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -1.5}
+        - {x: -4.5, y: 1.5}
+        - {x: 4.5, y: 1.5}
+        - {x: 4.5, y: -1.5}
+      physicsShape:
+      - - {x: -4.5, y: 1.5}
+        - {x: -4.5, y: -1.5}
+        - {x: 4.5, y: -1.5}
+        - {x: 4.5, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ece90903a954571ae01b302c07bf36a
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 3}
+      - {x: 9, y: 3}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Slot_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 114
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: -57}
+        - {x: -57, y: -57}
+        - {x: -57, y: 57}
+        - {x: 57, y: 57}
+      physicsShape:
+      - - {x: -57, y: 57}
+        - {x: -57, y: -57}
+        - {x: 57, y: -57}
+        - {x: 57, y: 57}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2112f997f2894bdab4fd303813d76d1d
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 114}
+      - {x: 114, y: 0}
+      - {x: 114, y: 114}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_04
+      rect:
+        serializedVersion: 2
+        x: 118.07612
+        y: 168.07613
+        width: 39.847755
+        height: 35.847755
+      alignment: 9
+      pivot: {x: 0.62356734, y: 0.30260637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.076119, y: -25.076118}
+        - {x: -20.076118, y: -7.0761185}
+        - {x: -20.076118, y: 4.9238815}
+        - {x: -14.076118, y: 10.923882}
+        - {x: 5.9238815, y: 10.923882}
+        - {x: 19.923882, y: 3.9238815}
+        - {x: 19.923882, y: -21.076118}
+        - {x: 18.923882, y: -25.076118}
+      physicsShape:
+      - - {x: -14.076118, y: 10.923882}
+        - {x: -20.076118, y: 4.9238815}
+        - {x: -20.076118, y: -7.0761185}
+        - {x: -10.0761175, y: -25.076118}
+        - {x: 18.923882, y: -25.076118}
+        - {x: 19.923882, y: -21.076118}
+        - {x: 19.923882, y: 3.9238815}
+        - {x: 5.9238815, y: 10.923882}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79bc5fa31844061856d71ecd73ea476
+      internalID: 21300024
+      vertices:
+      - {x: 34.923878, y: 28.923878}
+      - {x: 33.923878, y: -0.076122284}
+      - {x: 34.923878, y: 3.9238777}
+      - {x: 20.923878, y: 35.923878}
+      - {x: 4.923877, y: -0.076122284}
+      - {x: 0.9238777, y: 35.923878}
+      - {x: -5.0761223, y: 29.923878}
+      - {x: -5.0761223, y: 17.923878}
+      indices: 070000000600000004000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_13b_03
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -11}
+        - {x: -7, y: 11}
+        - {x: 7, y: 11}
+        - {x: 7, y: -11}
+      physicsShape:
+      - - {x: -4, y: 11}
+        - {x: -7, y: 9}
+        - {x: -7, y: -11}
+        - {x: 7, y: -11}
+        - {x: 7, y: 9.999999}
+        - {x: 4.9999995, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfe9846a35e40e3972bca853aad2f4c
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 14, y: 22}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_13b
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 200
+        width: 28
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -7}
+        - {x: -14, y: 7}
+        - {x: 14, y: 7}
+        - {x: 14, y: -7}
+      physicsShape:
+      - - {x: -9.999999, y: 7}
+        - {x: -14, y: 6}
+        - {x: -14, y: -7}
+        - {x: 14, y: -7}
+        - {x: 14, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c388d9179047e1b6db916141105b75
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 28, y: 14}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_12b
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 218
+        width: 28
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -7}
+        - {x: -14, y: 7}
+        - {x: 14, y: 7}
+        - {x: 14, y: -7}
+      physicsShape:
+      - - {x: -9.999999, y: 7}
+        - {x: -14, y: 6}
+        - {x: -14, y: -7}
+        - {x: 14, y: -7}
+        - {x: 14, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3086d3e420df48f6825f7b50a52baf4b
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 28, y: 14}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_12b_03
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 224
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -11}
+        - {x: -7, y: 11}
+        - {x: 7, y: 11}
+        - {x: 7, y: -11}
+      physicsShape:
+      - - {x: -4, y: 11}
+        - {x: -7, y: 9}
+        - {x: -7, y: -11}
+        - {x: 7, y: -11}
+        - {x: 7, y: 9.999999}
+        - {x: 4.9999995, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4386463b0d8e44d89ab3589c62182eaa
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 14, y: 22}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_10a_02
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 224
+        width: 14
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -3}
+        - {x: -7, y: 3}
+        - {x: 7, y: 3}
+        - {x: 7, y: -3}
+      physicsShape:
+      - - {x: 4.9999995, y: 3}
+        - {x: -4.9999995, y: 3}
+        - {x: -7, y: 2}
+        - {x: -7, y: -3}
+        - {x: 7, y: -3}
+        - {x: 7, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0221e79e11374e2bba43e4d1c7f58a5f
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 14, y: 6}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_13a
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 228
+        width: 9
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -1.5}
+        - {x: -4.5, y: 1.5}
+        - {x: 4.5, y: 1.5}
+        - {x: 4.5, y: -1.5}
+      physicsShape:
+      - - {x: -4.5, y: 1.5}
+        - {x: -4.5, y: -1.5}
+        - {x: 4.5, y: -1.5}
+        - {x: 4.5, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30806a0186b4c8798dd66c9d8e0e07f
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 3}
+      - {x: 9, y: 3}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Button_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 104
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 46, y: 0, z: 6, w: 0}
+      outline:
+      - - {x: 27.000002, y: -30.000002}
+        - {x: -27.000002, y: -30.000002}
+        - {x: -27.000002, y: 30.000002}
+        - {x: 27.000002, y: 30.000002}
+      physicsShape:
+      - - {x: -26.999998, y: 29.999998}
+        - {x: -26.999998, y: -29.999998}
+        - {x: 26.999998, y: -29.999998}
+        - {x: 26.999998, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf199a9a703457fa6e88114d70b658f
+      internalID: 21300038
+      vertices:
+      - {x: -0.0000019073486, y: 60}
+      - {x: 54, y: -0.0000019073486}
+      - {x: 54, y: 60}
+      - {x: -0.0000019073486, y: -0.0000019073486}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Slot_01
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: -50}
+        - {x: -50, y: -50}
+        - {x: -50, y: 50}
+        - {x: 50, y: 50}
+      physicsShape:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201a0be7986b462298968631ed8fa6da
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 100}
+      - {x: 100, y: 0}
+      - {x: 100, y: 100}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_09a_02
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 234
+        width: 14
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -3}
+        - {x: -7, y: 3}
+        - {x: 7, y: 3}
+        - {x: 7, y: -3}
+      physicsShape:
+      - - {x: -6, y: 3}
+        - {x: -7, y: 2}
+        - {x: -7, y: -3}
+        - {x: 7, y: -3}
+        - {x: 7, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b22d0d9fe4df29c8bfa26626408fb
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 14, y: 6}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Button_09
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 50
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 42, y: 0, z: 6, w: 0}
+      outline:
+      - - {x: 25, y: -30.000002}
+        - {x: -25, y: -30.000002}
+        - {x: -25, y: 30.000002}
+        - {x: 25, y: 30.000002}
+      physicsShape:
+      - - {x: -25, y: 29.999998}
+        - {x: -25, y: -29.999998}
+        - {x: 25, y: -29.999998}
+        - {x: 25, y: 29.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc658ef0c6954081a6d3b9bec14d50ae
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 60}
+      - {x: 50, y: -0.0000019073486}
+      - {x: 50, y: 60}
+      - {x: 0, y: -0.0000019073486}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_11b
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 168
+        width: 28
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -7}
+        - {x: -14, y: 7}
+        - {x: 14, y: 7}
+        - {x: 14, y: -7}
+      physicsShape:
+      - - {x: -9.999999, y: 7}
+        - {x: -14, y: 6}
+        - {x: -14, y: -7}
+        - {x: 14, y: -7}
+        - {x: 14, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e25fbdd1b38427e8462051688b130e2
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 28, y: 14}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_10b_03
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 202
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -11}
+        - {x: -7, y: 11}
+        - {x: 7, y: 11}
+        - {x: 7, y: -11}
+      physicsShape:
+      - - {x: -4, y: 11}
+        - {x: -7, y: 9}
+        - {x: -7, y: -11}
+        - {x: 7, y: -11}
+        - {x: 7, y: 9.999999}
+        - {x: 4.9999995, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354f46d494f44adca12805ea52cf5f73
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 14, y: 22}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_11b_03
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 202
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -11}
+        - {x: -7, y: 11}
+        - {x: 7, y: 11}
+        - {x: 7, y: -11}
+      physicsShape:
+      - - {x: -4, y: 11}
+        - {x: -7, y: 9}
+        - {x: -7, y: -11}
+        - {x: 7, y: -11}
+        - {x: 7, y: 9.999999}
+        - {x: 4.9999995, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a38be833004970b2133d8c7b0e124d
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 14, y: 22}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_10b
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 182
+        width: 28
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -7}
+        - {x: -14, y: 7}
+        - {x: 14, y: 7}
+        - {x: 14, y: -7}
+      physicsShape:
+      - - {x: -9.999999, y: 7}
+        - {x: -14, y: 6}
+        - {x: -14, y: -7}
+        - {x: 14, y: -7}
+        - {x: 14, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de95a2f8e7e49abb0084857faf5dd91
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 14}
+      - {x: 28, y: 14}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_11a_02
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 228
+        width: 14
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -3}
+        - {x: -7, y: 3}
+        - {x: 7, y: 3}
+        - {x: 7, y: -3}
+      physicsShape:
+      - - {x: 4.9999995, y: 3}
+        - {x: -4.9999995, y: 3}
+        - {x: -7, y: 2}
+        - {x: -7, y: -3}
+        - {x: 7, y: -3}
+        - {x: 7, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: acefd1229b394098a4dd87a640b5df88
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 6}
+      - {x: 14, y: 6}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_11a
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 78
+        width: 9
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -1.5}
+        - {x: -4.5, y: 1.5}
+        - {x: 4.5, y: 1.5}
+        - {x: 4.5, y: -1.5}
+      physicsShape:
+      - - {x: -4.5, y: 1.5}
+        - {x: -4.5, y: -1.5}
+        - {x: 4.5, y: -1.5}
+        - {x: 4.5, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5679ad894664b4db0b580935adc375b
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 3}
+      - {x: 9, y: 3}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_09a
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 85
+        width: 9
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -1.5}
+        - {x: -4.5, y: 1.5}
+        - {x: 4.5, y: 1.5}
+        - {x: 4.5, y: -1.5}
+      physicsShape:
+      - - {x: -4.5, y: 1.5}
+        - {x: -4.5, y: -1.5}
+        - {x: 4.5, y: -1.5}
+        - {x: 4.5, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f26c8ca9dd7413bafc628e10885cb72
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 3}
+      - {x: 9, y: 3}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_10b_02
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 186
+        width: 28
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -14, y: 6}
+        - {x: 14, y: 6}
+        - {x: 14, y: -6}
+      physicsShape:
+      - - {x: -9.999999, y: 6}
+        - {x: -14, y: 2}
+        - {x: -14, y: -6}
+        - {x: 14, y: -6}
+        - {x: 14, y: 4}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a39153252b41f7916e966d1d2d946c
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 28, y: 12}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_11b_02
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 236
+        width: 28
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -14, y: 6}
+        - {x: 14, y: 6}
+        - {x: 14, y: -6}
+      physicsShape:
+      - - {x: -9.999999, y: 6}
+        - {x: -14, y: 2}
+        - {x: -14, y: -6}
+        - {x: 14, y: -6}
+        - {x: 14, y: 4}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5b10e69cc24517a8ffa2ba3efcb322
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 28, y: 12}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Level_Icons_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 26
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -11}
+        - {x: -7, y: 11}
+        - {x: 7, y: 11}
+        - {x: 7, y: -11}
+      physicsShape:
+      - - {x: -4, y: 11}
+        - {x: -7, y: 9}
+        - {x: -7, y: -11}
+        - {x: 7, y: -11}
+        - {x: 7, y: 10}
+        - {x: 5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4394062afd0d4e9da57e93de24f8b303
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 14, y: 22}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Level_Icons_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 224
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -11}
+        - {x: -7, y: 11}
+        - {x: 7, y: 11}
+        - {x: 7, y: -11}
+      physicsShape:
+      - - {x: -4, y: 11}
+        - {x: -7, y: 9}
+        - {x: -7, y: -11}
+        - {x: 7, y: -11}
+        - {x: 7, y: 10}
+        - {x: 5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5736228dd65740e7b075b452087667c4
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 14, y: 22}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Level_Icons_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 168
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -11}
+        - {x: -7, y: 11}
+        - {x: 7, y: 11}
+        - {x: 7, y: -11}
+      physicsShape:
+      - - {x: -4, y: 11}
+        - {x: -7, y: 9}
+        - {x: -7, y: -11}
+        - {x: 7, y: -11}
+        - {x: 7, y: 10}
+        - {x: 5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483819747acb44eaaa43be7bba834885
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 14, y: 22}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Level_Icons_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 52
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -11}
+        - {x: -7, y: 11}
+        - {x: 7, y: 11}
+        - {x: 7, y: -11}
+      physicsShape:
+      - - {x: -4, y: 11}
+        - {x: -7, y: 9}
+        - {x: -7, y: -11}
+        - {x: 7, y: -11}
+        - {x: 7, y: 10}
+        - {x: 5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5fa36648fd4de6889f8469e537f108
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 14, y: 22}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Level_Icons_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 194
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -11}
+        - {x: -7, y: 11}
+        - {x: 7, y: 11}
+        - {x: 7, y: -11}
+      physicsShape:
+      - - {x: -4, y: 11}
+        - {x: -7, y: 9}
+        - {x: -7, y: -11}
+        - {x: 7, y: -11}
+        - {x: 7, y: 10}
+        - {x: 5, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a35dc413034179865c26ea3a708cc3
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 22}
+      - {x: 14, y: 22}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_03
+      rect:
+        serializedVersion: 2
+        x: 162.07613
+        y: 168.07613
+        width: 29.847757
+        height: 35.847755
+      alignment: 9
+      pivot: {x: 0.16241623, y: 0.30260637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.076118, y: -25.076118}
+        - {x: -25.076118, y: -21.076118}
+        - {x: -25.076118, y: 3.9238815}
+        - {x: -22.076118, y: 10.923882}
+        - {x: -3.0761185, y: 10.923882}
+        - {x: 4.9238825, y: 8.923882}
+        - {x: 4.9238825, y: -25.076118}
+      physicsShape:
+      - - {x: -22.076118, y: 10.923882}
+        - {x: -25.076118, y: 3.9238815}
+        - {x: -25.076118, y: -21.076118}
+        - {x: -24.076118, y: -25.076118}
+        - {x: 4.9238806, y: -25.076118}
+        - {x: 4.9238806, y: 8.923882}
+        - {x: -3.0761185, y: 10.923882}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98777e77845d4c02ad3fb99f32114cc8
+      internalID: 21300074
+      vertices:
+      - {x: 21.923878, y: 35.923878}
+      - {x: 29.92388, y: -0.076122284}
+      - {x: 29.92388, y: 33.923878}
+      - {x: 2.9238787, y: 35.923878}
+      - {x: 0.92387867, y: -0.076122284}
+      - {x: -0.076122284, y: 28.923878}
+      - {x: -0.076122284, y: 3.9238777}
+      indices: 060000000500000004000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artifact_Icon_12b_02
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 208
+        width: 28
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -6}
+        - {x: -14, y: 6}
+        - {x: 14, y: 6}
+        - {x: 14, y: -6}
+      physicsShape:
+      - - {x: -9.999999, y: 6}
+        - {x: -14, y: 2}
+        - {x: -14, y: -6}
+        - {x: 14, y: -6}
+        - {x: 14, y: 4}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54408161b2704d288297554eee04abd9
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 28, y: 12}
+      - {x: 0, y: 0}
+      - {x: 28, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      'Artifact_Button_06 ': 21300000
+      Artifact_Button_07: 21300002
+      Artifact_Button_08: 21300018
+      Artifact_Button_09: 21300044
+      Artifact_Button_10: 21300038
+      Artifact_Icon_03: 21300074
+      Artifact_Icon_04: 21300024
+      Artifact_Icon_09a: 21300058
+      Artifact_Icon_09a_02: 21300042
+      Artifact_Icon_09b: 21300008
+      Artifact_Icon_09b_02: 21300006
+      Artifact_Icon_10a: 21300020
+      Artifact_Icon_10a_02: 21300034
+      Artifact_Icon_10b: 21300052
+      Artifact_Icon_10b_02: 21300060
+      Artifact_Icon_10b_03: 21300048
+      Artifact_Icon_11a: 21300056
+      Artifact_Icon_11a_02: 21300054
+      Artifact_Icon_11b: 21300046
+      Artifact_Icon_11b 02: 21300012
+      Artifact_Icon_11b_02: 21300062
+      Artifact_Icon_11b_03: 21300050
+      Artifact_Icon_12a: 21300014
+      Artifact_Icon_12a_02: 21300010
+      Artifact_Icon_12b: 21300030
+      Artifact_Icon_12b_02: 21300076
+      Artifact_Icon_12b_03: 21300032
+      Artifact_Icon_13a: 21300036
+      Artifact_Icon_13a_02: 21300016
+      Artifact_Icon_13b: 21300028
+      Artifact_Icon_13b_02: 21300004
+      Artifact_Icon_13b_03: 21300026
+      Artifact_Level_Icons_1: 21300064
+      Artifact_Level_Icons_2: 21300066
+      Artifact_Level_Icons_3: 21300068
+      Artifact_Level_Icons_4: 21300070
+      Artifact_Level_Icons_5: 21300072
+      Artifact_Slot_00: 21300022
+      Artifact_Slot_01: 21300040
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

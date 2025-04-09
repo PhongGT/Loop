@@ -1,0 +1,1498 @@
+fileFormatVersion: 2
+guid: c89cf6d967f1d0e42a33cd645edb8565
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TreasureCardIllust_99999_02
+  - first:
+      213: 21300002
+    second: TreasureCardIllust_10001_02
+  - first:
+      213: 21300004
+    second: TreasureCardIllust_30019_02
+  - first:
+      213: 21300006
+    second: TreasureCardIllust_20000_02
+  - first:
+      213: 21300008
+    second: TreasureCardIllust_30001_02
+  - first:
+      213: 21300010
+    second: TreasureCardIllust_30004_02
+  - first:
+      213: 21300012
+    second: TreasureCardIllust_30003_02
+  - first:
+      213: 21300014
+    second: TreasureCardIllust_10003_02
+  - first:
+      213: 21300016
+    second: TreasureCardIllust_30007_02
+  - first:
+      213: 21300018
+    second: TreasureCardIllust_30002_02
+  - first:
+      213: 21300020
+    second: TreasureCardIllust_10002_02
+  - first:
+      213: 21300022
+    second: TreasureCardIllust_30009_02
+  - first:
+      213: 21300024
+    second: TreasureCardIllust_30016_02
+  - first:
+      213: 21300026
+    second: TreasureCardIllust_30018_02
+  - first:
+      213: 21300028
+    second: TreasureCardIllust_20007_02
+  - first:
+      213: 21300030
+    second: TreasureCardIllust_10000_02
+  - first:
+      213: 21300032
+    second: TreasureCardIllust_20002_02
+  - first:
+      213: 21300034
+    second: TreasureCardIllust_10005_02
+  - first:
+      213: 21300036
+    second: TreasureCardIllust_30000_02
+  - first:
+      213: 21300038
+    second: TreasureCardIllust_30017_02
+  - first:
+      213: 21300040
+    second: TreasureCardIllust_30013_02
+  - first:
+      213: 21300042
+    second: TreasureCardIllust_20004_02
+  - first:
+      213: 21300044
+    second: TreasureCardIllust_30014_02
+  - first:
+      213: 21300046
+    second: TreasureCardIllust_20003_02
+  - first:
+      213: 21300048
+    second: TreasureCardIllust_20006_02
+  - first:
+      213: 21300050
+    second: TreasureCardIllust_30005_02
+  - first:
+      213: 21300052
+    second: TreasureCardIllust_30012_02
+  - first:
+      213: 21300054
+    second: TreasureCardIllust_30015_02
+  - first:
+      213: 21300056
+    second: TreasureCardIllust_30006_02
+  - first:
+      213: 21300058
+    second: TreasureCardIllust_10006_02
+  - first:
+      213: 21300060
+    second: TreasureCardIllust_30011_02
+  - first:
+      213: 21300062
+    second: TreasureCardIllust_20005_02
+  - first:
+      213: 21300064
+    second: TreasureCardIllust_10004_02
+  - first:
+      213: 21300066
+    second: TreasureCardIllust_20001_02
+  - first:
+      213: 21300068
+    second: TreasureCardIllust_30010_02
+  - first:
+      213: 21300070
+    second: TreasureCardIllust_30008_02
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TreasureCardIllust_99999_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bf411ab61c4756a0e25aa4d1eb303e
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_10001_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ad4a79a89f4cf4a69ed60cb023121b
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30019_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379927e841b24116847d0a31704a0c5f
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_20000_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78690a096bd14bbaa3acfeaa42641a28
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30001_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b4d87d81c8440ca1021a5f8bb790b7
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30004_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d4895312304e158290b1fffe1a1a16
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30003_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145b161e4eac49a58247d6afb9494056
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_10003_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba8f389087c4354911f6b75de0a601a
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30007_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc00f7c00cd452fa1e92775aa33ac16
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30002_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 116
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfe17c4d858459996dd450539c359b9
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_10002_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 232
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7e40634431481c8e26cb7d4e6f587f
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30009_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 348
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6bbfdec5744c4ab622ae2208081662
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30016_02
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebf94a854cf4219a8665c924bf14fec
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30018_02
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 116
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc6bd85846a4ebd8b3c986899f0d4be
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_20007_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 464
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a211e14f5d540d4b65b5109aa3090df
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_10000_02
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 232
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3833fa53ee67438eba5296275df129cb
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_20002_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 580
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa015de0199044e9871dd769287f79d2
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_10005_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 696
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a620a7f94fa149e89d746697a24e755c
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30000_02
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 348
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18e8f3bb43745c8b72bd0f4e16492a9
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30017_02
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 464
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa47964ee7724ed3a9e2b2f7c8c628a7
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30013_02
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 580
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349e3fb8226b466da27df5fdfb3290ac
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_20004_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 812
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341d6d929d7d47fcb4347c5361e0bb18
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30014_02
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 696
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011bc5f1b3a14df2932cbe9527506e08
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_20003_02
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 812
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3e8306883643d2b1cfad22c32b8eba
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_20006_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83e5b218f494d458f1e51f2c04cc8cd
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30005_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1044
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61173459a42a4f6e90bedb354057aad8
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30012_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 928
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f039f1bde604af9b7feb053c9c7dc04
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30015_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1160
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620a0aa477064309a607057a36ce9f99
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30006_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1276
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eb6ba777964462a5d494ba55d4d1b3
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_10006_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1044
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e84134f02c4ff18c585e6d18e00501
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30011_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1160
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10900064f31d43e99846a796122615eb
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_20005_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051352aa4de74d9abef076f865665a37
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_10004_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1508
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24fc974386f4ca7a56b2bee52954b51
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_20001_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1276
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242c63e858ed4ec4929b6fea9f7ed352
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30010_02
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 928
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1a302b3d87449695bb4e3cfa4f6f60
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureCardIllust_30008_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1392
+        width: 260
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -56}
+        - {x: -130, y: -56}
+        - {x: -130, y: 56}
+        - {x: 130, y: 56}
+      physicsShape:
+      - - {x: -130, y: 56}
+        - {x: -130, y: -56}
+        - {x: 130, y: -56}
+        - {x: 130, y: 56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f801a0d13724d4b88af3ff3f62eeaf7
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 112}
+      - {x: 260, y: 0}
+      - {x: 260, y: 112}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TreasureCardIllust_10000_02: 21300030
+      TreasureCardIllust_10001_02: 21300002
+      TreasureCardIllust_10002_02: 21300020
+      TreasureCardIllust_10003_02: 21300014
+      TreasureCardIllust_10004_02: 21300064
+      TreasureCardIllust_10005_02: 21300034
+      TreasureCardIllust_10006_02: 21300058
+      TreasureCardIllust_20000_02: 21300006
+      TreasureCardIllust_20001_02: 21300066
+      TreasureCardIllust_20002_02: 21300032
+      TreasureCardIllust_20003_02: 21300046
+      TreasureCardIllust_20004_02: 21300042
+      TreasureCardIllust_20005_02: 21300062
+      TreasureCardIllust_20006_02: 21300048
+      TreasureCardIllust_20007_02: 21300028
+      TreasureCardIllust_30000_02: 21300036
+      TreasureCardIllust_30001_02: 21300008
+      TreasureCardIllust_30002_02: 21300018
+      TreasureCardIllust_30003_02: 21300012
+      TreasureCardIllust_30004_02: 21300010
+      TreasureCardIllust_30005_02: 21300050
+      TreasureCardIllust_30006_02: 21300056
+      TreasureCardIllust_30007_02: 21300016
+      TreasureCardIllust_30008_02: 21300070
+      TreasureCardIllust_30009_02: 21300022
+      TreasureCardIllust_30010_02: 21300068
+      TreasureCardIllust_30011_02: 21300060
+      TreasureCardIllust_30012_02: 21300052
+      TreasureCardIllust_30013_02: 21300040
+      TreasureCardIllust_30014_02: 21300044
+      TreasureCardIllust_30015_02: 21300054
+      TreasureCardIllust_30016_02: 21300024
+      TreasureCardIllust_30017_02: 21300038
+      TreasureCardIllust_30018_02: 21300026
+      TreasureCardIllust_30019_02: 21300004
+      TreasureCardIllust_99999_02: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

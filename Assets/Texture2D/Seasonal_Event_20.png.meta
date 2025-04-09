@@ -1,0 +1,6282 @@
+fileFormatVersion: 2
+guid: b7e3a4b55a447e34a969651a848750ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Seasonal_Event_10_83
+  - first:
+      213: 21300002
+    second: Seasonal_Event_10_135
+  - first:
+      213: 21300004
+    second: Seasonal_Event_10_120
+  - first:
+      213: 21300006
+    second: Seasonal_Event_10_62
+  - first:
+      213: 21300008
+    second: Seasonal_Event_10_137
+  - first:
+      213: 21300010
+    second: Seasonal_Event_10_5
+  - first:
+      213: 21300012
+    second: Seasonal_Event_10_147
+  - first:
+      213: 21300014
+    second: Seasonal_Event_10_148
+  - first:
+      213: 21300016
+    second: Seasonal_Event_10_47
+  - first:
+      213: 21300018
+    second: Seasonal_Event_10_74
+  - first:
+      213: 21300020
+    second: Seasonal_Event_10_85
+  - first:
+      213: 21300022
+    second: Seasonal_Event_10_45
+  - first:
+      213: 21300024
+    second: Seasonal_Event_10_88
+  - first:
+      213: 21300026
+    second: Seasonal_Event_10_16
+  - first:
+      213: 21300028
+    second: Seasonal_Event_10_0
+  - first:
+      213: 21300030
+    second: Seasonal_Event_10_44
+  - first:
+      213: 21300032
+    second: Seasonal_Event_10_55
+  - first:
+      213: 21300034
+    second: Seasonal_Event_10_97
+  - first:
+      213: 21300036
+    second: Seasonal_Event_10_104
+  - first:
+      213: 21300038
+    second: Seasonal_Event_10_4
+  - first:
+      213: 21300040
+    second: Seasonal_Event_10_41
+  - first:
+      213: 21300042
+    second: Seasonal_Event_10_42
+  - first:
+      213: 21300044
+    second: Seasonal_Event_10_60
+  - first:
+      213: 21300046
+    second: Seasonal_Event_10_110
+  - first:
+      213: 21300048
+    second: Seasonal_Event_10_25
+  - first:
+      213: 21300050
+    second: Seasonal_Event_10_9
+  - first:
+      213: 21300052
+    second: Seasonal_Event_10_76
+  - first:
+      213: 21300054
+    second: Seasonal_Event_10_123
+  - first:
+      213: 21300056
+    second: Seasonal_Event_10_117
+  - first:
+      213: 21300058
+    second: Seasonal_Event_10_92
+  - first:
+      213: 21300060
+    second: Seasonal_Event_10_124
+  - first:
+      213: 21300062
+    second: Seasonal_Event_10_144
+  - first:
+      213: 21300064
+    second: Seasonal_Event_10_114
+  - first:
+      213: 21300066
+    second: Seasonal_Event_10_128
+  - first:
+      213: 21300068
+    second: Seasonal_Event_10_96
+  - first:
+      213: 21300070
+    second: Seasonal_Event_10_138
+  - first:
+      213: 21300072
+    second: Seasonal_Event_10_32
+  - first:
+      213: 21300074
+    second: Seasonal_Event_10_39
+  - first:
+      213: 21300076
+    second: Seasonal_Event_10_107
+  - first:
+      213: 21300078
+    second: Seasonal_Event_10_35
+  - first:
+      213: 21300080
+    second: Seasonal_Event_10_66
+  - first:
+      213: 21300082
+    second: Seasonal_Event_10_10
+  - first:
+      213: 21300084
+    second: Seasonal_Event_10_99
+  - first:
+      213: 21300086
+    second: Seasonal_Event_10_115
+  - first:
+      213: 21300088
+    second: Seasonal_Event_10_122
+  - first:
+      213: 21300090
+    second: Seasonal_Event_10_65
+  - first:
+      213: 21300092
+    second: Seasonal_Event_10_72
+  - first:
+      213: 21300094
+    second: Seasonal_Event_10_46
+  - first:
+      213: 21300096
+    second: Seasonal_Event_10_70
+  - first:
+      213: 21300098
+    second: Seasonal_Event_10_40
+  - first:
+      213: 21300100
+    second: Seasonal_Event_10_81
+  - first:
+      213: 21300102
+    second: Seasonal_Event_10_7
+  - first:
+      213: 21300104
+    second: Seasonal_Event_10_77
+  - first:
+      213: 21300106
+    second: Seasonal_Event_10_6
+  - first:
+      213: 21300108
+    second: Seasonal_Event_10_103
+  - first:
+      213: 21300110
+    second: Seasonal_Event_10_14
+  - first:
+      213: 21300112
+    second: Seasonal_Event_10_91
+  - first:
+      213: 21300114
+    second: Seasonal_Event_10_75
+  - first:
+      213: 21300116
+    second: Seasonal_Event_10_61
+  - first:
+      213: 21300118
+    second: Seasonal_Event_10_68
+  - first:
+      213: 21300120
+    second: Seasonal_Event_10_19
+  - first:
+      213: 21300122
+    second: Seasonal_Event_10_64
+  - first:
+      213: 21300124
+    second: Seasonal_Event_10_59
+  - first:
+      213: 21300126
+    second: Seasonal_Event_10_50
+  - first:
+      213: 21300128
+    second: Seasonal_Event_10_29
+  - first:
+      213: 21300130
+    second: Seasonal_Event_10_28
+  - first:
+      213: 21300132
+    second: Seasonal_Event_10_141
+  - first:
+      213: 21300134
+    second: Seasonal_Event_10_146
+  - first:
+      213: 21300136
+    second: Seasonal_Event_10_13
+  - first:
+      213: 21300138
+    second: Seasonal_Event_10_1
+  - first:
+      213: 21300140
+    second: Seasonal_Event_10_2
+  - first:
+      213: 21300142
+    second: Seasonal_Event_10_127
+  - first:
+      213: 21300144
+    second: Seasonal_Event_10_31
+  - first:
+      213: 21300146
+    second: Seasonal_Event_10_43
+  - first:
+      213: 21300148
+    second: Seasonal_Event_10_23
+  - first:
+      213: 21300150
+    second: Seasonal_Event_10_84
+  - first:
+      213: 21300152
+    second: Seasonal_Event_10_86
+  - first:
+      213: 21300154
+    second: Seasonal_Event_10_69
+  - first:
+      213: 21300156
+    second: Seasonal_Event_10_129
+  - first:
+      213: 21300158
+    second: Seasonal_Event_10_58
+  - first:
+      213: 21300160
+    second: Seasonal_Event_10_121
+  - first:
+      213: 21300162
+    second: Seasonal_Event_10_51
+  - first:
+      213: 21300164
+    second: Seasonal_Event_10_67
+  - first:
+      213: 21300166
+    second: Seasonal_Event_10_11
+  - first:
+      213: 21300168
+    second: Seasonal_Event_10_116
+  - first:
+      213: 21300170
+    second: Seasonal_Event_10_18
+  - first:
+      213: 21300172
+    second: Seasonal_Event_10_106
+  - first:
+      213: 21300174
+    second: Seasonal_Event_10_126
+  - first:
+      213: 21300176
+    second: Seasonal_Event_10_20
+  - first:
+      213: 21300178
+    second: Seasonal_Event_10_125
+  - first:
+      213: 21300180
+    second: Seasonal_Event_10_71
+  - first:
+      213: 21300182
+    second: Seasonal_Event_10_15
+  - first:
+      213: 21300184
+    second: Seasonal_Event_10_63
+  - first:
+      213: 21300186
+    second: Seasonal_Event_10_12
+  - first:
+      213: 21300188
+    second: Seasonal_Event_10_27
+  - first:
+      213: 21300190
+    second: Seasonal_Event_10_34
+  - first:
+      213: 21300192
+    second: Seasonal_Event_10_119
+  - first:
+      213: 21300194
+    second: Seasonal_Event_10_8
+  - first:
+      213: 21300196
+    second: Seasonal_Event_10_78
+  - first:
+      213: 21300198
+    second: Seasonal_Event_10_22
+  - first:
+      213: 21300200
+    second: Seasonal_Event_10_143
+  - first:
+      213: 21300202
+    second: Seasonal_Event_10_54
+  - first:
+      213: 21300204
+    second: Seasonal_Event_10_101
+  - first:
+      213: 21300206
+    second: Seasonal_Event_10_130
+  - first:
+      213: 21300208
+    second: Seasonal_Event_10_133
+  - first:
+      213: 21300210
+    second: Seasonal_Event_10_142
+  - first:
+      213: 21300212
+    second: Seasonal_Event_10_26
+  - first:
+      213: 21300214
+    second: Seasonal_Event_10_109
+  - first:
+      213: 21300216
+    second: Seasonal_Event_10_49
+  - first:
+      213: 21300218
+    second: Seasonal_Event_10_17
+  - first:
+      213: 21300220
+    second: Seasonal_Event_10_36
+  - first:
+      213: 21300222
+    second: Seasonal_Event_10_105
+  - first:
+      213: 21300224
+    second: Seasonal_Event_10_89
+  - first:
+      213: 21300226
+    second: Seasonal_Event_10_37
+  - first:
+      213: 21300228
+    second: Seasonal_Event_10_52
+  - first:
+      213: 21300230
+    second: Seasonal_Event_10_108
+  - first:
+      213: 21300232
+    second: Seasonal_Event_10_139
+  - first:
+      213: 21300234
+    second: Seasonal_Event_10_33
+  - first:
+      213: 21300236
+    second: Seasonal_Event_10_93
+  - first:
+      213: 21300238
+    second: Seasonal_Event_10_112
+  - first:
+      213: 21300240
+    second: Seasonal_Event_10_80
+  - first:
+      213: 21300242
+    second: Seasonal_Event_10_95
+  - first:
+      213: 21300244
+    second: Seasonal_Event_10_132
+  - first:
+      213: 21300246
+    second: Seasonal_Event_10_134
+  - first:
+      213: 21300248
+    second: Seasonal_Event_10_24
+  - first:
+      213: 21300250
+    second: Seasonal_Event_10_94
+  - first:
+      213: 21300252
+    second: Seasonal_Event_10_82
+  - first:
+      213: 21300254
+    second: Seasonal_Event_10_53
+  - first:
+      213: 21300256
+    second: Seasonal_Event_10_3
+  - first:
+      213: 21300258
+    second: Seasonal_Event_10_38
+  - first:
+      213: 21300260
+    second: Seasonal_Event_10_57
+  - first:
+      213: 21300262
+    second: Seasonal_Event_10_140
+  - first:
+      213: 21300264
+    second: Seasonal_Event_10_131
+  - first:
+      213: 21300266
+    second: Seasonal_Event_10_118
+  - first:
+      213: 21300268
+    second: Seasonal_Event_10_111
+  - first:
+      213: 21300270
+    second: Seasonal_Event_10_21
+  - first:
+      213: 21300272
+    second: Seasonal_Event_10_48
+  - first:
+      213: 21300274
+    second: Seasonal_Event_10_145
+  - first:
+      213: 21300276
+    second: Seasonal_Event_10_30
+  - first:
+      213: 21300278
+    second: Seasonal_Event_10_100
+  - first:
+      213: 21300280
+    second: Seasonal_Event_10_98
+  - first:
+      213: 21300282
+    second: Seasonal_Event_10_102
+  - first:
+      213: 21300284
+    second: Seasonal_Event_10_90
+  - first:
+      213: 21300286
+    second: Seasonal_Event_10_87
+  - first:
+      213: 21300288
+    second: Seasonal_Event_10_149
+  - first:
+      213: 21300290
+    second: Seasonal_Event_10_56
+  - first:
+      213: 21300292
+    second: Seasonal_Event_10_113
+  - first:
+      213: 21300294
+    second: Seasonal_Event_10_73
+  - first:
+      213: 21300296
+    second: Seasonal_Event_10_136
+  - first:
+      213: 21300298
+    second: Seasonal_Event_10_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seasonal_Event_10_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b75e7a058948259846405c33299f18
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_135
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff689a4dd464b2292485659fe102ee2
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c077fa39fb47ce9ebf3048897b0b19
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688fc5cc470041de919b294c140e9fe0
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_137
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: 25.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea82fff657404ea7b1726ca0508657b9
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      - {x: 51, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf6f5558aab47ae8171d591072645f8
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_147
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: 25.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da952b82c3a41c1a7af06d0df2b16ac
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      - {x: 51, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_148
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 8.07612
+        width: 51
+        height: 42.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40592507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -13.538061}
+        - {x: -25.5, y: -13.538061}
+        - {x: -25.5, y: -2.5380611}
+        - {x: -22.5, y: -2.5380611}
+        - {x: -20.5, y: -5.538061}
+        - {x: -20.5, y: -11.538061}
+      - - {x: -22.5, y: 16.461939}
+        - {x: -25.5, y: 18.461939}
+        - {x: -25.5, y: 21.461939}
+        - {x: -18.5, y: 21.461939}
+        - {x: 25.5, y: 21.461939}
+        - {x: 25.5, y: -20.538061}
+        - {x: 8.5, y: -21.538061}
+        - {x: 6.5, y: -21.538061}
+        - {x: 2.5, y: -18.538061}
+        - {x: 0.5, y: -19.538061}
+        - {x: -6.5, y: -20.538061}
+        - {x: -9.5, y: -20.538061}
+        - {x: -15.5, y: -14.538061}
+        - {x: -18.5, y: 17.461939}
+        - {x: -18.5, y: 18.461939}
+        - {x: -20.5, y: 16.461939}
+      physicsShape:
+      - - {x: -18.5, y: 21.461939}
+        - {x: -18.5, y: 17.461939}
+        - {x: -15.5, y: -14.538061}
+        - {x: -9.5, y: -20.538061}
+        - {x: -6.5, y: -20.538061}
+        - {x: 0.5, y: -19.538061}
+        - {x: 2.5, y: -18.538061}
+        - {x: 6.5, y: -21.538061}
+        - {x: 8.5, y: -21.538061}
+        - {x: 25.5, y: -20.538061}
+        - {x: 25.5, y: 21.461939}
+      - - {x: -25.5, y: -2.5380611}
+        - {x: -25.5, y: -13.538061}
+        - {x: -21.5, y: -13.538061}
+        - {x: -20.5, y: -11.538061}
+        - {x: -20.5, y: -5.538061}
+        - {x: -22.5, y: -2.5380611}
+      - - {x: -25.5, y: 21.461939}
+        - {x: -25.5, y: 18.461939}
+        - {x: -22.5, y: 16.461939}
+        - {x: -20.5, y: 16.461939}
+        - {x: -18.5, y: 18.461939}
+        - {x: -18.5, y: 21.461939}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3899ddd72e014668b8cffddf5d82f61c
+      internalID: 21300014
+      vertices:
+      - {x: 51, y: 46.96194}
+      - {x: 34, y: 3.9619408}
+      - {x: 51, y: 4.961941}
+      - {x: 32, y: 3.9619408}
+      - {x: 28, y: 6.961941}
+      - {x: 26, y: 5.961941}
+      - {x: 19, y: 4.961941}
+      - {x: 16, y: 4.961941}
+      - {x: 10, y: 10.961941}
+      - {x: 7, y: 46.96194}
+      - {x: 7, y: 43.96194}
+      - {x: 7, y: 42.96194}
+      - {x: 5, y: 41.96194}
+      - {x: 3, y: 41.96194}
+      - {x: 0, y: 46.96194}
+      - {x: 0, y: 43.96194}
+      - {x: 5, y: 19.96194}
+      - {x: 4, y: 11.961941}
+      - {x: 5, y: 13.961941}
+      - {x: 3, y: 22.96194}
+      - {x: 0, y: 22.96194}
+      - {x: 0, y: 11.961941}
+      indices: 1500000014000000110000001300000011000000140000001000000011000000130000001200000011000000100000000f0000000e0000000d000000090000000d0000000e0000000c0000000d000000090000000a0000000c000000090000000b0000000a0000000800000009000000080000000a000000000000000800000009000000070000000800000000000000060000000700000000000000050000000600000000000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_47
+      rect:
+        serializedVersion: 2
+        x: 376.0761
+        y: 510
+        width: 31.92388
+        height: 14.821925
+      alignment: 9
+      pivot: {x: 0.2012252, y: 1.7204243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.0380507, y: -7.410963}
+        - {x: -16.038052, y: -7.410963}
+        - {x: -16.038052, y: -6.410963}
+        - {x: -12.038051, y: -2.410963}
+        - {x: -7.0380507, y: -2.410963}
+        - {x: -4.0380507, y: -5.410963}
+      - - {x: 0.96194935, y: -7.410963}
+        - {x: -3.0380507, y: -4.410963}
+        - {x: -3.0380507, y: -0.41096306}
+        - {x: 3.9619493, y: 5.589037}
+        - {x: 15.961949, y: 7.589037}
+        - {x: 15.961949, y: -7.410963}
+      physicsShape:
+      - - {x: -16.038052, y: -6.410963}
+        - {x: -16.038052, y: -7.410963}
+        - {x: -4.0380507, y: -7.410963}
+        - {x: -4.0380507, y: -5.410963}
+        - {x: -7.0380507, y: -2.410963}
+        - {x: -12.038051, y: -2.410963}
+      - - {x: -3.0380507, y: -0.41096306}
+        - {x: -3.0380507, y: -4.410963}
+        - {x: 0.96194935, y: -7.410963}
+        - {x: 15.961949, y: -7.410963}
+        - {x: 15.961949, y: 7.589037}
+        - {x: 3.9619493, y: 5.589037}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa0381d8bb94b60becb8b6511e3343b
+      internalID: 21300016
+      vertices:
+      - {x: 29.46194, y: -5.0890374}
+      - {x: 41.46194, y: -18.089037}
+      - {x: 41.46194, y: -3.0890374}
+      - {x: 26.46194, y: -18.089037}
+      - {x: 22.46194, y: -11.089037}
+      - {x: 22.46194, y: -15.089037}
+      - {x: 18.46194, y: -13.089037}
+      - {x: 21.46194, y: -18.089037}
+      - {x: 21.46194, y: -16.089037}
+      - {x: 13.46194, y: -13.089037}
+      - {x: 9.46194, y: -17.089037}
+      - {x: 9.46194, y: -18.089037}
+      indices: 0b0000000a0000000700000009000000070000000a000000060000000700000009000000080000000700000006000000050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_74
+      rect:
+        serializedVersion: 2
+        x: 210.07613
+        y: 363.02676
+        width: 36.897125
+        height: 26.925547
+      alignment: 9
+      pivot: {x: 0.5264333, y: 0.7232253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.524687, y: -13.489537}
+        - {x: -18.524687, y: -13.489537}
+        - {x: -18.524687, y: 5.5104628}
+        - {x: 0.4753132, y: 5.5104628}
+        - {x: 0.4753132, y: -2.4895372}
+      - - {x: 5.475313, y: 7.5104628}
+        - {x: 4.475313, y: 11.510463}
+        - {x: 6.475313, y: 13.510463}
+        - {x: 16.475313, y: 13.510463}
+        - {x: 18.475313, y: 12.510463}
+        - {x: 18.475313, y: 9.510463}
+        - {x: 15.475313, y: 5.5104628}
+        - {x: 8.475313, y: 5.5104628}
+      physicsShape:
+      - - {x: -18.524687, y: 5.5104628}
+        - {x: -18.524687, y: -13.489537}
+        - {x: -7.524687, y: -13.489537}
+        - {x: 0.4753132, y: -2.4895372}
+        - {x: 0.4753132, y: 5.5104628}
+      - - {x: 6.475313, y: 13.510463}
+        - {x: 4.475313, y: 11.510463}
+        - {x: 5.475313, y: 7.5104628}
+        - {x: 8.475313, y: 5.5104628}
+        - {x: 15.475313, y: 5.5104628}
+        - {x: 18.475313, y: 9.510463}
+        - {x: 18.475313, y: 12.510463}
+        - {x: 16.475313, y: 13.510463}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75dcdd0d4d744b7a4d055ce9c300c92
+      internalID: 21300018
+      vertices:
+      - {x: 33.948563, y: 20.962772}
+      - {x: 35.948563, y: 16.962772}
+      - {x: 35.948563, y: 19.962772}
+      - {x: 32.948563, y: 12.962773}
+      - {x: 25.948563, y: 12.962773}
+      - {x: 23.948563, y: 20.962772}
+      - {x: 22.948563, y: 14.962773}
+      - {x: 21.948563, y: 18.962772}
+      - {x: 17.948563, y: 12.962773}
+      - {x: 9.948563, y: -6.0372267}
+      - {x: 17.948563, y: 4.9627733}
+      - {x: -1.0514374, y: 12.962773}
+      - {x: -1.0514374, y: -6.0372267}
+      indices: 0c0000000b0000000900000008000000090000000b0000000a0000000900000008000000070000000500000006000000040000000600000005000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_85
+      rect:
+        serializedVersion: 2
+        x: 277.0761
+        y: 318.0761
+        width: 17.897127
+        height: 11.897129
+      alignment: 9
+      pivot: {x: 0.19130942, y: 1.1283301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.024674, y: -6.0246754}
+        - {x: -9.024674, y: -4.0246754}
+        - {x: -9.024674, y: -1.0246754}
+        - {x: -0.024674416, y: 5.9753246}
+        - {x: 6.9753256, y: 5.9753246}
+        - {x: 8.975326, y: 4.9753246}
+        - {x: 8.975326, y: 1.9753246}
+        - {x: 3.9753256, y: -6.0246754}
+      physicsShape:
+      - - {x: -0.024674416, y: 5.9753246}
+        - {x: -9.024674, y: -1.0246754}
+        - {x: -9.024674, y: -4.0246754}
+        - {x: -8.024674, y: -6.0246754}
+        - {x: 3.9753256, y: -6.0246754}
+        - {x: 8.975326, y: 1.9753246}
+        - {x: 8.975326, y: 4.9753246}
+        - {x: 6.9753256, y: 5.9753246}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf99f3a039e648fdbfe00c756415406e
+      internalID: 21300020
+      vertices:
+      - {x: 21.448563, y: 4.4485645}
+      - {x: 23.448563, y: 0.44856453}
+      - {x: 23.448563, y: 3.4485645}
+      - {x: 18.448563, y: -7.5514355}
+      - {x: 14.448564, y: 4.4485645}
+      - {x: 6.4485636, y: -7.5514355}
+      - {x: 5.4485636, y: -2.5514355}
+      - {x: 5.4485636, y: -5.5514355}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 510
+        width: 51
+        height: 37.923878
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6723996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -18.961939}
+        - {x: -25.5, y: -18.961939}
+        - {x: -25.5, y: 19.038061}
+        - {x: -20.5, y: 19.038061}
+        - {x: -4.5, y: 17.038061}
+        - {x: 25.5, y: 4.038061}
+      physicsShape:
+      - - {x: -20.5, y: 19.038061}
+        - {x: -25.5, y: 19.038061}
+        - {x: -25.5, y: -18.961939}
+        - {x: 25.5, y: -18.961939}
+        - {x: 25.5, y: 4.038061}
+        - {x: -4.5, y: 17.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004f602723114707a31c5a47a1492ddc
+      internalID: 21300022
+      vertices:
+      - {x: 21, y: 29.461939}
+      - {x: 51, y: -6.538061}
+      - {x: 51, y: 16.461939}
+      - {x: 5, y: 31.461939}
+      - {x: 0, y: 31.461939}
+      - {x: 0, y: -6.538061}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_88
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514c03d0b4bd42dba0bcc6a40f804177
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9e30014b6d4f08aa6dee157685c079
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9afb495833f4990ba76b824665184b3
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_44
+      rect:
+        serializedVersion: 2
+        x: 213.01291
+        y: 510
+        width: 41.987087
+        height: 39.923878
+      alignment: 9
+      pivot: {x: 0.3926705, y: 0.6387155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.993547, y: -19.961939}
+        - {x: -21.006453, y: -19.961939}
+        - {x: -21.006453, y: -3.9619389}
+        - {x: -14.006453, y: 16.038061}
+        - {x: 6.9935474, y: 20.038061}
+        - {x: 14.993547, y: 20.038061}
+        - {x: 20.993547, y: 19.038061}
+      physicsShape:
+      - - {x: 8.993547, y: 20.038061}
+        - {x: -12.006453, y: 13.038061}
+        - {x: -21.006453, y: -4.961939}
+        - {x: -21.006453, y: -19.961939}
+        - {x: 20.993547, y: -19.961939}
+        - {x: 20.993547, y: 19.038061}
+        - {x: 14.993547, y: 20.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43859e36052c4ecea10627856d2acd3e
+      internalID: 21300030
+      vertices:
+      - {x: 40.493546, y: 34.461937}
+      - {x: 46.493546, y: -5.538061}
+      - {x: 46.493546, y: 33.461937}
+      - {x: 32.493546, y: 34.461937}
+      - {x: 11.493544, y: 30.461939}
+      - {x: 4.4935436, y: 10.461939}
+      - {x: 4.4935436, y: -5.538061}
+      indices: 060000000500000001000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 478.0761
+        width: 51
+        height: 31.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2012252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -16.038052}
+        - {x: -25.5, y: -16.038052}
+        - {x: -25.5, y: 15.961949}
+        - {x: 25.5, y: 15.961949}
+        - {x: 25.5, y: 10.961949}
+      physicsShape:
+      - - {x: 25.5, y: 15.961949}
+        - {x: -25.5, y: 15.961949}
+        - {x: -25.5, y: -16.038052}
+        - {x: -20.5, y: -16.038052}
+        - {x: -15.5, y: -12.038051}
+        - {x: 16.5, y: 8.961949}
+        - {x: 25.5, y: 10.961949}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e77d4da3974c7eafcd2e0d37976ce9
+      internalID: 21300032
+      vertices:
+      - {x: 51, y: 41.46194}
+      - {x: 5, y: 9.46194}
+      - {x: 51, y: 36.46194}
+      - {x: 0, y: 41.46194}
+      - {x: 0, y: 9.46194}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_97
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fac5c35a2045d6bbf49ebbb4da2d5d
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_104
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60754870f7074ba6aeaba1ef153126ef
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2521d185361d412b9b82a2f7316acbdd
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 510
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac70f31deaf42dc881dd6b2bf78fb38
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 510
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c62bb5228674043804a82d1a40d3a2d
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e6a0cedc71468aae3cc9bb86cb4850
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1303713ca674c9f8172058596807e23
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355f91ccbc114ecebcaf2a496a6db433
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53222b8c27d544a2a9839d7641e4003b
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_76
+      rect:
+        serializedVersion: 2
+        x: 330.0761
+        y: 362.02676
+        width: 18.847757
+        height: 13.897129
+      alignment: 9
+      pivot: {x: 0.075546876, y: 1.473199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.4999895, y: -6.9753284}
+        - {x: -9.4999895, y: -3.9753284}
+        - {x: -9.4999895, y: 0.024671555}
+        - {x: -6.4999895, y: 3.0246716}
+        - {x: 3.5000105, y: 7.0246716}
+        - {x: 9.5000105, y: 7.0246716}
+        - {x: 9.5000105, y: -2.9753284}
+        - {x: 4.5000105, y: -5.9753284}
+        - {x: 1.5000105, y: -6.9753284}
+      physicsShape:
+      - - {x: 9.5000105, y: 7.0246716}
+        - {x: 3.5000105, y: 7.0246716}
+        - {x: -6.4999895, y: 3.0246716}
+        - {x: -9.4999895, y: 0.024671555}
+        - {x: -9.4999895, y: -3.9753284}
+        - {x: -4.4999895, y: -6.9753284}
+        - {x: 1.5000105, y: -6.9753284}
+        - {x: 4.5000105, y: -5.9753284}
+        - {x: 9.5000105, y: -2.9753284}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2a657d59f04bfa82f86dc24904168d
+      internalID: 21300052
+      vertices:
+      - {x: 26.923878, y: 0.44856453}
+      - {x: 21.923878, y: -12.551435}
+      - {x: 26.923878, y: -9.551435}
+      - {x: 20.923878, y: 0.44856453}
+      - {x: 18.923878, y: -13.551435}
+      - {x: 12.923879, y: -13.551435}
+      - {x: 10.923879, y: -3.5514355}
+      - {x: 7.9238787, y: -6.5514355}
+      - {x: 7.9238787, y: -10.551435}
+      indices: 080000000700000005000000060000000500000007000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_123
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd548b3e66984799b73bf8f93b22dff2
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_117
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 153
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: 25.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b0545e75f94f60bc2618567027a188
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      - {x: 51, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_92
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc4919d0b1e4efaa28727699c122794
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_124
+      rect:
+        serializedVersion: 2
+        x: 232.07613
+        y: 102
+        width: 22.92388
+        height: 51
+      alignment: 9
+      pivot: {x: -0.112377405, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.538066, y: -19.5}
+        - {x: -11.538066, y: -16.5}
+        - {x: -11.538066, y: 8.5}
+        - {x: -4.538066, y: 25.5}
+        - {x: 11.461934, y: 25.5}
+        - {x: 11.461934, y: -25.5}
+        - {x: -3.538066, y: -25.5}
+      physicsShape:
+      - - {x: -4.538066, y: 25.5}
+        - {x: -11.538066, y: 8.5}
+        - {x: -11.538066, y: -16.5}
+        - {x: -10.538066, y: -19.5}
+        - {x: -3.538066, y: -25.5}
+        - {x: 11.461934, y: -25.5}
+        - {x: 11.461934, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ebb3771d2a4b2fb2d2dd6a5c9353e4
+      internalID: 21300060
+      vertices:
+      - {x: 36.96194, y: 51}
+      - {x: 21.96194, y: 0}
+      - {x: 36.96194, y: 0}
+      - {x: 20.96194, y: 51}
+      - {x: 14.96194, y: 6}
+      - {x: 13.96194, y: 34}
+      - {x: 13.96194, y: 9}
+      indices: 060000000500000004000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_144
+      rect:
+        serializedVersion: 2
+        x: 246.14935
+        y: 15.026751
+        width: 8.850651
+        height: 35.97325
+      alignment: 9
+      pivot: {x: -1.8811445, y: 0.29113993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5746784, y: 13.986624}
+        - {x: -4.5746784, y: 14.986624}
+        - {x: -4.5746784, y: 17.986624}
+        - {x: 4.4253216, y: 17.986624}
+        - {x: 4.4253216, y: 13.986624}
+      - - {x: 1.4253216, y: -18.013376}
+        - {x: -0.5746784, y: -16.013376}
+        - {x: -0.5746784, y: -11.013376}
+        - {x: 0.42532158, y: -7.013376}
+        - {x: 4.4253216, y: -6.013376}
+        - {x: 4.4253216, y: -17.013376}
+      physicsShape:
+      - - {x: -0.5746784, y: -11.013376}
+        - {x: -0.5746784, y: -16.013376}
+        - {x: 1.4253216, y: -18.013376}
+        - {x: 4.4253216, y: -17.013376}
+        - {x: 4.4253216, y: -6.013376}
+        - {x: 0.42532158, y: -7.013376}
+      - - {x: -4.5746784, y: 17.986624}
+        - {x: -4.5746784, y: 14.986624}
+        - {x: -1.5746784, y: 13.986624}
+        - {x: 4.4253216, y: 13.986624}
+        - {x: 4.4253216, y: 17.986624}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e12458540141189525d59664538649
+      internalID: 21300062
+      vertices:
+      - {x: 29.925325, y: 19.486626}
+      - {x: 26.925325, y: 7.4866257}
+      - {x: 29.925325, y: 8.486626}
+      - {x: 25.925325, y: 18.486626}
+      - {x: 24.925325, y: 14.486626}
+      - {x: 24.925325, y: 9.486626}
+      - {x: 29.925325, y: 43.486626}
+      - {x: 23.925325, y: 39.486626}
+      - {x: 29.925325, y: 39.486626}
+      - {x: 20.925325, y: 43.486626}
+      - {x: 20.925325, y: 40.486626}
+      indices: 0a0000000900000007000000060000000700000009000000080000000700000006000000050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_114
+      rect:
+        serializedVersion: 2
+        x: 241.12979
+        y: 153
+        width: 13.870201
+        height: 20.92388
+      alignment: 9
+      pivot: {x: -0.83847314, y: 1.2187033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.935108, y: -10.46194}
+        - {x: -7.064892, y: -10.46194}
+        - {x: -7.064892, y: -2.4619398}
+        - {x: 0.9351082, y: 8.53806}
+        - {x: 2.9351082, y: 10.53806}
+        - {x: 6.935108, y: 10.53806}
+      physicsShape:
+      - - {x: 0.9351082, y: 8.53806}
+        - {x: -7.064892, y: -2.4619398}
+        - {x: -7.064892, y: -10.46194}
+        - {x: 6.935108, y: -10.46194}
+        - {x: 6.935108, y: 10.53806}
+        - {x: 2.9351082, y: 10.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642a376d98914a15a27e6cfda0ebfea3
+      internalID: 21300064
+      vertices:
+      - {x: 28.4351, y: 5.96194}
+      - {x: 32.4351, y: -15.03806}
+      - {x: 32.4351, y: 5.96194}
+      - {x: 26.4351, y: 3.9619398}
+      - {x: 18.4351, y: -7.03806}
+      - {x: 18.4351, y: -15.03806}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_128
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88029ac834b74a4ba51f3a4a0f403a99
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_96
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f8688263634e6db5d18fe5b72c16ba
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_138
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f951e208063e4cf18833f18c33bb4691
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1341fec41b4c4cf3a29e760a20c26f15
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_39
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2855c2ed5747efa7beba56d8333ecf
+      internalID: 21300074
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_107
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191906ea47dd4b2db114c567a749968a
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082449a0699047b280f7308c56c251b1
+      internalID: 21300078
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_66
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: 25.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2af33c18e194e36a08f5550c7a79e43
+      internalID: 21300080
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      - {x: 51, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6d30a587a846d7a7503536ba92c651
+      internalID: 21300082
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_99
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c68f8de0f148ffbf3a0a3334d697f5
+      internalID: 21300084
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_115
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 153
+        width: 51
+        height: 36.923878
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69061005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -18.461937}
+        - {x: -25.5, y: -18.461937}
+        - {x: -25.5, y: 8.538063}
+        - {x: -15.5, y: 18.538063}
+        - {x: -0.5, y: 18.538063}
+        - {x: 21.5, y: 11.538063}
+        - {x: 25.5, y: 10.538063}
+      physicsShape:
+      - - {x: 12.5, y: 6.538063}
+        - {x: -6.5, y: 18.538063}
+        - {x: -15.5, y: 18.538063}
+        - {x: -25.5, y: 8.538063}
+        - {x: -25.5, y: -18.461937}
+        - {x: 25.5, y: -18.461937}
+        - {x: 25.5, y: 10.538063}
+        - {x: 21.5, y: 11.538063}
+      - - {x: 12.5, y: -3.461937}
+        - {x: 12.5, y: -4.461937}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686cbe523fd840e1885b8bf9d70acd5e
+      internalID: 21300086
+      vertices:
+      - {x: 47, y: 22.961939}
+      - {x: 51, y: -7.038061}
+      - {x: 51, y: 21.961939}
+      - {x: 25, y: 29.961939}
+      - {x: 10, y: 29.961939}
+      - {x: 0, y: 19.961939}
+      - {x: 0, y: -7.038061}
+      indices: 060000000500000001000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_122
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1c38b335c240e5bc0b78f069a5d3c0
+      internalID: 21300088
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: 25.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ac6943e67f4f24a0d0b44dfcbea0c9
+      internalID: 21300090
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      - {x: 51, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d17ba7c2d864af2a91070ac4c061a37
+      internalID: 21300092
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 510
+        width: 31.92388
+        height: 14.850651
+      alignment: 9
+      pivot: {x: 0.7987751, y: 1.7170964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.03806, y: -7.4253254}
+        - {x: 4.03806, y: -7.4253254}
+        - {x: 4.03806, y: -5.4253254}
+        - {x: 7.03806, y: -2.4253254}
+        - {x: 12.03806, y: -2.4253254}
+        - {x: 16.03806, y: -6.4253254}
+      - - {x: -0.9619398, y: -7.4253254}
+        - {x: -15.96194, y: -7.4253254}
+        - {x: -15.96194, y: 7.5746746}
+        - {x: -3.9619398, y: 5.5746746}
+        - {x: 3.0380602, y: -0.4253254}
+        - {x: 3.0380602, y: -4.4253254}
+      physicsShape:
+      - - {x: -15.96194, y: 7.5746746}
+        - {x: -15.96194, y: -7.4253254}
+        - {x: -0.9619398, y: -7.4253254}
+        - {x: 3.0380602, y: -4.4253254}
+        - {x: 3.0380602, y: -0.4253254}
+        - {x: -3.9619398, y: 5.5746746}
+      - - {x: 4.03806, y: -5.4253254}
+        - {x: 4.03806, y: -7.4253254}
+        - {x: 16.03806, y: -7.4253254}
+        - {x: 16.03806, y: -6.4253254}
+        - {x: 12.03806, y: -2.4253254}
+        - {x: 7.03806, y: -2.4253254}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd141b20ff44a209fbc9ac671341796
+      internalID: 21300094
+      vertices:
+      - {x: 9.46194, y: -11.074675}
+      - {x: 5.46194, y: -18.074675}
+      - {x: 9.46194, y: -15.074675}
+      - {x: 2.4619398, y: -5.0746746}
+      - {x: -9.53806, y: -3.0746746}
+      - {x: -9.53806, y: -18.074675}
+      - {x: 18.46194, y: -13.074675}
+      - {x: 22.46194, y: -18.074675}
+      - {x: 22.46194, y: -17.074675}
+      - {x: 13.46194, y: -13.074675}
+      - {x: 10.46194, y: -16.074675}
+      - {x: 10.46194, y: -18.074675}
+      indices: 0b0000000a0000000700000009000000070000000a000000060000000700000009000000080000000700000006000000050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa6fbf07f7743578fdd5b3d22c76de6
+      internalID: 21300096
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046396dcb5e04ea0a42f9f407cca8423
+      internalID: 21300098
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_81
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2ce34c43e84d16933699b2a194d033
+      internalID: 21300100
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9110d85ac954817bb3931120bb46146
+      internalID: 21300102
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_77
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa4b7e30ce14bc5aeb915217747ed82
+      internalID: 21300104
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e3cb34e25147e6bc26b9d49b7cb310
+      internalID: 21300106
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_103
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149f22c2495f4936bb64ff6c50eff50a
+      internalID: 21300108
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bd2239e5d84bae8347aba0c922c8b4
+      internalID: 21300110
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_91
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dc5ce772bb4378bd4b65e152f12152
+      internalID: 21300112
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_75
+      rect:
+        serializedVersion: 2
+        x: 277.0761
+        y: 370.0761
+        width: 20.847757
+        height: 18.84776
+      alignment: 9
+      pivot: {x: 0.16423297, y: 0.6591706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4999895, y: 4.5000095}
+        - {x: -4.4999895, y: 3.5000095}
+        - {x: -4.4999895, y: 6.5000095}
+        - {x: 5.5000105, y: 9.50001}
+        - {x: 10.5000105, y: 9.50001}
+        - {x: 10.5000105, y: 1.5000095}
+        - {x: 9.5000105, y: -1.4999905}
+        - {x: -0.4999895, y: -1.4999905}
+        - {x: 2.5000105, y: -4.4999905}
+        - {x: 2.5000105, y: -7.4999905}
+        - {x: 1.5000105, y: -9.49999}
+        - {x: -5.4999895, y: -9.49999}
+        - {x: -10.4999895, y: -4.4999905}
+        - {x: -10.4999895, y: 2.5000095}
+        - {x: -8.4999895, y: 4.5000095}
+      physicsShape:
+      - - {x: -8.4999895, y: 4.5000095}
+        - {x: -10.4999895, y: 2.5000095}
+        - {x: -10.4999895, y: -4.4999905}
+        - {x: -5.4999895, y: -9.49999}
+        - {x: 1.5000105, y: -9.49999}
+        - {x: 2.5000105, y: -7.4999905}
+        - {x: 2.5000105, y: -4.4999905}
+        - {x: -5.4999895, y: 4.5000095}
+      - - {x: 5.5000105, y: 9.50001}
+        - {x: -4.4999895, y: 6.5000095}
+        - {x: -4.4999895, y: 2.5000095}
+        - {x: -0.4999895, y: -1.4999905}
+        - {x: 9.5000105, y: -1.4999905}
+        - {x: 10.5000105, y: 1.5000095}
+        - {x: 10.5000105, y: 9.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8bcfeaf6f840919580c667fe8f1926
+      internalID: 21300114
+      vertices:
+      - {x: 12.923879, y: 9.92388}
+      - {x: 16.923878, y: 4.9238796}
+      - {x: 16.923878, y: 4.9238796}
+      - {x: 12.923879, y: 8.92388}
+      - {x: 27.923878, y: 15.92388}
+      - {x: 26.923878, y: 4.9238796}
+      - {x: 27.923878, y: 7.9238796}
+      - {x: 22.923878, y: 15.92388}
+      - {x: 12.923879, y: 12.92388}
+      - {x: 19.923878, y: 1.9238796}
+      - {x: 18.923878, y: -3.0761204}
+      - {x: 19.923878, y: -1.0761204}
+      - {x: 11.923879, y: 10.92388}
+      - {x: 11.923879, y: -3.0761204}
+      - {x: 8.923879, y: 10.92388}
+      - {x: 6.9238787, y: 8.92388}
+      - {x: 6.9238787, y: 1.9238796}
+      indices: 030000000c00000000000000100000000f0000000d0000000e0000000d0000000f0000000c0000000d0000000e0000000a0000000d0000000c000000030000000a0000000c000000010000000a00000003000000020000000a00000001000000090000000a000000020000000b0000000a00000009000000000000000800000002000000070000000200000008000000050000000200000007000000040000000500000007000000060000000500000004000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38a6644155e4e8c84540b1753b352fe
+      internalID: 21300116
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_68
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: 25.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7280e7696702465492df1148e2778847
+      internalID: 21300118
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      - {x: 51, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d58bfe2e824329bc462e0fcc5b2df4
+      internalID: 21300120
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_64
+      rect:
+        serializedVersion: 2
+        x: 218.14935
+        y: 442.02676
+        width: 27.774529
+        height: 16.973248
+      alignment: 9
+      pivot: {x: 0.40867108, y: -0.50236493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.036617, y: 4.4866123}
+        - {x: -14.036617, y: 8.486612}
+        - {x: 6.9633827, y: 8.486612}
+        - {x: 6.9633827, y: 3.4866123}
+        - {x: 0.9633827, y: -0.5133877}
+        - {x: -6.0366173, y: -0.5133877}
+      - - {x: 13.963383, y: -8.513388}
+        - {x: 1.9633827, y: -8.513388}
+        - {x: 1.9633827, y: -2.5133877}
+        - {x: 6.9633827, y: 2.4866123}
+        - {x: 10.963383, y: 2.4866123}
+        - {x: 13.963383, y: 1.4866123}
+      physicsShape:
+      - - {x: 6.9633827, y: 2.4866123}
+        - {x: 1.9633827, y: -2.5133877}
+        - {x: 1.9633827, y: -8.513388}
+        - {x: 13.963383, y: -8.513388}
+        - {x: 13.963383, y: 1.4866123}
+        - {x: 10.963383, y: 2.4866123}
+      - - {x: -14.036617, y: 8.486612}
+        - {x: -13.036617, y: 4.4866123}
+        - {x: -6.0366173, y: -0.5133877}
+        - {x: 0.9633827, y: -0.5133877}
+        - {x: 6.9633827, y: 3.4866123}
+        - {x: 6.9633827, y: 8.486612}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b659db5273644ec8a5b9b693bcd1602f
+      internalID: 21300122
+      vertices:
+      - {x: 27.387264, y: 27.986624}
+      - {x: 30.387264, y: 16.986624}
+      - {x: 30.387264, y: 26.986624}
+      - {x: 23.387264, y: 27.986624}
+      - {x: 18.387264, y: 22.986624}
+      - {x: 18.387264, y: 16.986624}
+      - {x: 23.387264, y: 33.986626}
+      - {x: 17.387264, y: 24.986624}
+      - {x: 23.387264, y: 28.986624}
+      - {x: 10.387264, y: 24.986624}
+      - {x: 3.3872643, y: 29.986624}
+      - {x: 2.3872643, y: 33.986626}
+      indices: 0b000000060000000a000000090000000a00000006000000070000000900000006000000080000000700000006000000050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_59
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 459
+        width: 45.973248
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5546704, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.986624, y: -25.5}
+        - {x: -22.986624, y: -20.5}
+        - {x: -22.986624, y: 25.5}
+        - {x: 23.013376, y: 25.5}
+        - {x: 23.013376, y: 4.5}
+        - {x: 17.013376, y: -25.5}
+      physicsShape:
+      - - {x: 22.013376, y: 25.5}
+        - {x: -22.986624, y: 25.5}
+        - {x: -22.986624, y: -17.5}
+        - {x: -17.986624, y: -21.5}
+        - {x: -9.986624, y: -25.5}
+        - {x: 14.013376, y: -25.5}
+        - {x: 20.013376, y: 7.5}
+        - {x: 23.013376, y: 12.5}
+        - {x: 23.013376, y: 24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7cbb336cff481d9191668d1a2fb084
+      internalID: 21300124
+      vertices:
+      - {x: 43.486626, y: 51}
+      - {x: 37.486626, y: 0}
+      - {x: 43.486626, y: 30}
+      - {x: 0.48662376, y: 0}
+      - {x: -2.5133762, y: 51}
+      - {x: -2.5133762, y: 5}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0136d036a144fe88b9ff5a286438ad
+      internalID: 21300126
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_29
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde943d1b47400da0285b3933c23f4b
+      internalID: 21300128
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3f9b5fa25b4dda98e1df836b7b2559
+      internalID: 21300130
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_141
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384aca5e397649a498ee9a9d7b047460
+      internalID: 21300132
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_146
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: 25.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544b7583a49d4f8080b6623cf9ee3b7d
+      internalID: 21300134
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      - {x: 51, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072efdadb46c4319ad30f5f63c18ff00
+      internalID: 21300136
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53a000129464c98b8400f1fb5f054fe
+      internalID: 21300138
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95110b2357c843aa96a7bbf3ebcd6cd6
+      internalID: 21300140
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_127
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: 25.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4d9ffed173469e9e5c9c3c8698a70d
+      internalID: 21300142
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      - {x: 51, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf60a1a24704c2aa869d9add5850044
+      internalID: 21300144
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 510
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eeda263d104dd48c7f28af810a7867
+      internalID: 21300146
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cfccb0dc1f44619f91d1cc5002d022
+      internalID: 21300148
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_84
+      rect:
+        serializedVersion: 2
+        x: 214.02675
+        y: 314.0761
+        width: 29.897127
+        height: 21.84776
+      alignment: 9
+      pivot: {x: 0.51754975, y: 0.7975138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.9753132, y: 0.000009536743}
+        - {x: -6.975313, y: 4.0000095}
+        - {x: -6.975313, y: 9.00001}
+        - {x: -4.975313, y: 11.00001}
+        - {x: -3.9753132, y: 11.00001}
+        - {x: 4.024687, y: 3.0000095}
+        - {x: 4.024687, y: 2.0000095}
+        - {x: 2.0246868, y: 0.000009536743}
+      - - {x: 12.024687, y: -6.9999905}
+        - {x: 2.0246868, y: -6.9999905}
+        - {x: 2.0246868, y: -2.9999905}
+        - {x: 10.024687, y: 6.0000095}
+        - {x: 15.024687, y: 6.0000095}
+        - {x: 15.024687, y: -3.9999905}
+      - - {x: -9.975313, y: -10.99999}
+        - {x: -14.975313, y: -7.9999905}
+        - {x: -14.975313, y: 2.0000095}
+        - {x: -12.975313, y: 3.0000095}
+        - {x: -10.975313, y: 3.0000095}
+        - {x: -4.975313, y: -3.9999905}
+        - {x: -2.9753132, y: -8.99999}
+        - {x: -4.975313, y: -10.99999}
+      physicsShape:
+      - - {x: -12.975313, y: 3.0000095}
+        - {x: -14.975313, y: 2.0000095}
+        - {x: -14.975313, y: -7.9999905}
+        - {x: -9.975313, y: -10.99999}
+        - {x: -4.975313, y: -10.99999}
+        - {x: -2.9753132, y: -8.99999}
+        - {x: -4.975313, y: -3.9999905}
+        - {x: -10.975313, y: 3.0000095}
+      - - {x: 10.024687, y: 6.0000095}
+        - {x: 2.0246868, y: -2.9999905}
+        - {x: 2.0246868, y: -6.9999905}
+        - {x: 12.024687, y: -6.9999905}
+        - {x: 15.024687, y: -3.9999905}
+        - {x: 15.024687, y: 6.0000095}
+      - - {x: -4.975313, y: 11.00001}
+        - {x: -6.975313, y: 9.00001}
+        - {x: -6.975313, y: 4.0000095}
+        - {x: -2.9753132, y: 0.000009536743}
+        - {x: 2.0246868, y: 0.000009536743}
+        - {x: 4.024687, y: 2.0000095}
+        - {x: 4.024687, y: 3.0000095}
+        - {x: -3.9753132, y: 11.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b947d1c2fe3243f5a4eaf5213fc2c5f6
+      internalID: 21300150
+      vertices:
+      - {x: 9.448564, y: 0.42387962}
+      - {x: 9.448564, y: -6.5761204}
+      - {x: 11.448564, y: -4.5761204}
+      - {x: 4.4485636, y: -6.5761204}
+      - {x: 3.4485636, y: 7.4238796}
+      - {x: 1.4485636, y: 7.4238796}
+      - {x: -0.5514364, y: 6.4238796}
+      - {x: -0.5514364, y: -3.5761204}
+      - {x: 29.448563, y: 10.42388}
+      - {x: 26.448563, y: -2.5761204}
+      - {x: 29.448563, y: 0.42387962}
+      - {x: 24.448563, y: 10.42388}
+      - {x: 16.448563, y: 1.4238796}
+      - {x: 16.448563, y: -2.5761204}
+      - {x: 18.448563, y: 7.4238796}
+      - {x: 16.448563, y: 4.4238796}
+      - {x: 18.448563, y: 6.4238796}
+      - {x: 11.448564, y: 4.4238796}
+      - {x: 10.448564, y: 15.42388}
+      - {x: 9.448564, y: 15.42388}
+      - {x: 7.4485636, y: 13.42388}
+      - {x: 7.4485636, y: 8.42388}
+      indices: 1500000014000000110000001300000011000000140000001200000011000000130000000e00000011000000120000000f000000110000000e000000100000000f0000000e0000000d0000000c000000090000000b000000090000000c00000008000000090000000b0000000a0000000900000008000000070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_86
+      rect:
+        serializedVersion: 2
+        x: 311.02676
+        y: 307.0761
+        width: 41.960335
+        height: 45.847755
+      alignment: 9
+      pivot: {x: 0.4879188, y: 0.5327172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.006931, y: 23.000011}
+        - {x: -7.0069313, y: 12.000011}
+        - {x: -7.0069313, y: 12.000011}
+        - {x: -1.0069313, y: 14.000011}
+        - {x: 6.9930687, y: 14.000011}
+        - {x: 6.9930687, y: 9.000011}
+        - {x: -4.0069313, y: -0.99998856}
+        - {x: -6.0069313, y: -0.99998856}
+        - {x: -7.0069313, y: 1.0000114}
+        - {x: -7.0069313, y: 6.0000114}
+        - {x: -19.006931, y: 6.0000114}
+        - {x: -21.006931, y: 13.000011}
+        - {x: -21.006931, y: 19.000011}
+        - {x: -17.006931, y: 23.000011}
+      - - {x: 9.993069, y: -22.999989}
+        - {x: 8.993069, y: -21.999989}
+        - {x: 8.993069, y: -15.999989}
+        - {x: 13.993069, y: -10.999989}
+        - {x: 18.993069, y: -10.999989}
+        - {x: 20.993069, y: -11.999989}
+        - {x: 20.993069, y: -13.999989}
+        - {x: 14.993069, y: -22.999989}
+      physicsShape:
+      - - {x: 13.993069, y: -10.999989}
+        - {x: 8.993069, y: -15.999989}
+        - {x: 8.993069, y: -21.999989}
+        - {x: 9.993069, y: -22.999989}
+        - {x: 14.993069, y: -22.999989}
+        - {x: 20.993069, y: -13.999989}
+        - {x: 20.993069, y: -11.999989}
+        - {x: 18.993069, y: -10.999989}
+      - - {x: -7.0069313, y: 1.0000114}
+        - {x: -6.0069313, y: -0.99998856}
+        - {x: -4.0069313, y: -0.99998856}
+        - {x: 6.9930687, y: 9.000011}
+        - {x: 6.9930687, y: 14.000011}
+        - {x: -1.0069313, y: 14.000011}
+        - {x: -7.0069313, y: 12.000011}
+      - - {x: -17.006931, y: 23.000011}
+        - {x: -21.006931, y: 19.000011}
+        - {x: -21.006931, y: 13.000011}
+        - {x: -19.006931, y: 6.0000114}
+        - {x: -6.0069313, y: 6.0000114}
+        - {x: -6.0069313, y: 10.000011}
+        - {x: -14.006931, y: 23.000011}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a055f3202ad1437d93aa093211dbbe90
+      internalID: 21300152
+      vertices:
+      - {x: 40.480167, y: 10.423878}
+      - {x: 42.480167, y: 7.4238777}
+      - {x: 42.480167, y: 9.423878}
+      - {x: 36.480167, y: -1.5761223}
+      - {x: 35.480167, y: 10.423878}
+      - {x: 31.480167, y: -1.5761223}
+      - {x: 30.480167, y: 5.4238777}
+      - {x: 30.480167, y: -0.5761223}
+      - {x: 7.4801674, y: 44.423878}
+      - {x: 14.480167, y: 27.423878}
+      - {x: 14.480167, y: 33.423878}
+      - {x: 4.4801674, y: 44.423878}
+      - {x: 2.4801674, y: 27.423878}
+      - {x: 0.4801674, y: 40.423878}
+      - {x: 0.4801674, y: 34.423878}
+      - {x: 20.480167, y: 35.423878}
+      - {x: 28.480167, y: 30.423878}
+      - {x: 28.480167, y: 35.423878}
+      - {x: 17.480167, y: 20.423878}
+      - {x: 15.480167, y: 31.423878}
+      - {x: 14.480167, y: 33.423878}
+      - {x: 15.480167, y: 27.423878}
+      - {x: 15.480167, y: 20.423878}
+      - {x: 14.480167, y: 22.423878}
+      indices: 090000000a0000001500000013000000150000000a0000001700000009000000160000001500000016000000090000001200000016000000150000001300000012000000150000000a00000014000000130000000f000000130000001400000012000000130000000f00000010000000120000000f00000011000000100000000f0000000e0000000d0000000c0000000b0000000c0000000d000000090000000c0000000b00000008000000090000000b0000000a0000000900000008000000070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_69
+      rect:
+        serializedVersion: 2
+        x: 468.0761
+        y: 442.0363
+        width: 27.847757
+        height: 16.963715
+      alignment: 9
+      pivot: {x: 0.5897742, y: -0.5032085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.9999895, y: -0.5181427}
+        - {x: -6.9999895, y: 3.4818573}
+        - {x: -6.9999895, y: 8.481857}
+        - {x: 14.0000105, y: 8.481857}
+        - {x: 14.0000105, y: 5.4818573}
+        - {x: 9.0000105, y: 0.4818573}
+        - {x: 4.0000105, y: -0.5181427}
+      - - {x: -11.9999895, y: -8.518143}
+        - {x: -13.9999895, y: -6.5181427}
+        - {x: -13.9999895, y: -0.5181427}
+        - {x: -10.9999895, y: 2.4818573}
+        - {x: -8.9999895, y: 2.4818573}
+        - {x: -1.9999895, y: -4.5181427}
+        - {x: -1.9999895, y: -6.5181427}
+        - {x: -3.9999895, y: -8.518143}
+      physicsShape:
+      - - {x: -10.9999895, y: 2.4818573}
+        - {x: -13.9999895, y: -0.5181427}
+        - {x: -13.9999895, y: -6.5181427}
+        - {x: -11.9999895, y: -8.518143}
+        - {x: -3.9999895, y: -8.518143}
+        - {x: -1.9999895, y: -6.5181427}
+        - {x: -1.9999895, y: -4.5181427}
+        - {x: -8.9999895, y: 2.4818573}
+      - - {x: -6.9999895, y: 8.481857}
+        - {x: -6.9999895, y: 3.4818573}
+        - {x: -0.9999895, y: -0.5181427}
+        - {x: 4.0000105, y: -0.5181427}
+        - {x: 9.0000105, y: 0.4818573}
+        - {x: 14.0000105, y: 5.4818573}
+        - {x: 14.0000105, y: 8.481857}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b50aeeb260b40f29cc70b583feb4fd1
+      internalID: 21300154
+      vertices:
+      - {x: 9.423879, y: 20.981857}
+      - {x: 7.4238787, y: 16.981857}
+      - {x: 9.423879, y: 18.981857}
+      - {x: 2.4238787, y: 27.981857}
+      - {x: 0.42387867, y: 27.981857}
+      - {x: -0.57612133, y: 16.981857}
+      - {x: -2.5761213, y: 24.981857}
+      - {x: -2.5761213, y: 18.981857}
+      - {x: 25.423878, y: 33.981857}
+      - {x: 20.423878, y: 25.981857}
+      - {x: 25.423878, y: 30.981857}
+      - {x: 15.423879, y: 24.981857}
+      - {x: 10.423879, y: 24.981857}
+      - {x: 4.4238787, y: 33.981857}
+      - {x: 4.4238787, y: 28.981857}
+      indices: 0e0000000d0000000c000000080000000c0000000d0000000b0000000c00000008000000090000000b000000080000000a0000000900000008000000070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_129
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 102
+        width: 22.948683
+        height: 51
+      alignment: 9
+      pivot: {x: 1.111175, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5256605, y: -25.5}
+        - {x: -11.4743395, y: -25.5}
+        - {x: -11.4743395, y: 25.5}
+        - {x: 2.5256605, y: 25.5}
+        - {x: 9.5256605, y: 11.5}
+        - {x: 11.5256605, y: 6.5}
+        - {x: 11.5256605, y: -16.5}
+        - {x: 10.5256605, y: -19.5}
+      physicsShape:
+      - - {x: 9.5256605, y: 11.5}
+        - {x: 2.5256605, y: 25.5}
+        - {x: -11.4743395, y: 25.5}
+        - {x: -11.4743395, y: -25.5}
+        - {x: 2.5256605, y: -25.5}
+        - {x: 10.5256605, y: -19.5}
+        - {x: 11.5256605, y: -16.5}
+        - {x: 11.5256605, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcc44d6d8c34afdb4b69039cdce40dd
+      internalID: 21300156
+      vertices:
+      - {x: 8.974341, y: 32}
+      - {x: 7.9743414, y: 6}
+      - {x: 8.974341, y: 9}
+      - {x: 6.9743414, y: 37}
+      - {x: -0.025658607, y: 51}
+      - {x: -0.025658607, y: 0}
+      - {x: -14.025659, y: 51}
+      - {x: -14.025659, y: 0}
+      indices: 070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 478.0761
+        width: 51
+        height: 31.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2012252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -11.038051}
+        - {x: -25.5, y: 10.961949}
+        - {x: -25.5, y: 15.961949}
+        - {x: 25.5, y: 15.961949}
+        - {x: 25.5, y: -16.038052}
+        - {x: 22.5, y: -16.038052}
+      physicsShape:
+      - - {x: -25.5, y: 15.961949}
+        - {x: -25.5, y: 10.961949}
+        - {x: -11.5, y: 4.9619493}
+        - {x: 12.5, y: -11.038051}
+        - {x: 22.5, y: -16.038052}
+        - {x: 25.5, y: -16.038052}
+        - {x: 25.5, y: 15.961949}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c048c7f11da9447cacf88045729b1092
+      internalID: 21300158
+      vertices:
+      - {x: 51, y: 41.46194}
+      - {x: 48, y: 9.46194}
+      - {x: 51, y: 9.46194}
+      - {x: 38, y: 14.46194}
+      - {x: 0, y: 41.46194}
+      - {x: 0, y: 36.46194}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_121
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0406c9fe794f949644309ccea811eb
+      internalID: 21300160
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01b2aec833342b481fed7d0a1285c90
+      internalID: 21300162
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_67
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: 25.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60bec66fd714a568e82ab9493aaf3e1
+      internalID: 21300164
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      - {x: 51, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be5522596104595bb04ecef11a6693b
+      internalID: 21300166
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_116
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 153
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: 25.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb16e86a23254aba8e5493462b8fa0b8
+      internalID: 21300168
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      - {x: 51, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312c3f8178c64fddb53c6aacb805a1d4
+      internalID: 21300170
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_106
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e9ae6c2da44114870cc8f392ff403d
+      internalID: 21300172
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_126
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: 25.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a60b35c2c5c404f8d3e02325b8f5e71
+      internalID: 21300174
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      - {x: 51, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19252073a51448780ae3795f4093e12
+      internalID: 21300176
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_125
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 102
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861ffb8a21734e35b10d9daba5a2a2e2
+      internalID: 21300178
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_71
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3292b439f3a44479d7c46a870c95f42
+      internalID: 21300180
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13110df48244083b21788dc73f75bdd
+      internalID: 21300182
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 408
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a11f70ca2c4f2e9928170f6d26d45b
+      internalID: 21300184
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb5944d31b42b883619e423850a0c6
+      internalID: 21300186
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8379b6c65b14445ba9c51b09292c96ce
+      internalID: 21300188
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145da9b4fbe643818d60951ac53795ed
+      internalID: 21300190
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_119
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 153
+        width: 13.92388
+        height: 19.92388
+      alignment: 9
+      pivot: {x: 1.8313861, y: 1.2798712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.038059, y: -9.96194}
+        - {x: -6.961941, y: -9.96194}
+        - {x: -6.961941, y: 10.03806}
+        - {x: -2.9619408, y: 10.03806}
+        - {x: 7.038059, y: -2.9619398}
+        - {x: 7.038059, y: -7.96194}
+      physicsShape:
+      - - {x: -2.9619408, y: 10.03806}
+        - {x: -6.961941, y: 10.03806}
+        - {x: -6.961941, y: -9.96194}
+        - {x: 5.038059, y: -9.96194}
+        - {x: 7.038059, y: -7.96194}
+        - {x: 7.038059, y: -2.9619398}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4334b3f9a1a546a2b87ba1f9f95e41cb
+      internalID: 21300192
+      vertices:
+      - {x: -4.53806, y: -8.53806}
+      - {x: -6.53806, y: -15.53806}
+      - {x: -4.53806, y: -13.53806}
+      - {x: -14.53806, y: 4.46194}
+      - {x: -18.53806, y: 4.46194}
+      - {x: -18.53806, y: -15.53806}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34f5712ffdc46d2a8f206a2cc5145e0
+      internalID: 21300194
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_78
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30de4aeafa8e44e09cc1078d2887c829
+      internalID: 21300196
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2517befb48b481f81b6b548497bc970
+      internalID: 21300198
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_143
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9108102d354550a728c6ebd14100cd
+      internalID: 21300200
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_54
+      rect:
+        serializedVersion: 2
+        x: 209.02675
+        y: 459
+        width: 45.973248
+        height: 51
+      alignment: 9
+      pivot: {x: 0.44532967, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.013372, y: -25.5}
+        - {x: -23.013372, y: 5.5}
+        - {x: -23.013372, y: 25.5}
+        - {x: 22.986628, y: 25.5}
+        - {x: 22.986628, y: -18.5}
+        - {x: 20.986628, y: -24.5}
+        - {x: 16.986628, y: -25.5}
+      physicsShape:
+      - - {x: -23.013372, y: 25.5}
+        - {x: -23.013372, y: 6.5}
+        - {x: -22.013372, y: 2.5}
+        - {x: -16.013372, y: -0.5}
+        - {x: -15.013372, y: -25.5}
+        - {x: 13.986628, y: -25.5}
+        - {x: 17.986628, y: -21.5}
+        - {x: 22.986628, y: -15.5}
+        - {x: 22.986628, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00706218e08d4fa09ccca9a1f8a5648b
+      internalID: 21300202
+      vertices:
+      - {x: 48.486626, y: 51}
+      - {x: 46.486626, y: 1}
+      - {x: 48.486626, y: 7}
+      - {x: 42.486626, y: 0}
+      - {x: 6.486624, y: 0}
+      - {x: 2.4866238, y: 51}
+      - {x: 2.4866238, y: 31}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_101
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf6249c397c4f9db5f1c282bea61bad
+      internalID: 21300204
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0097c6ed8848f2b709d54105d42b26
+      internalID: 21300206
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_133
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6108d06943e04ee8996b3223e88df36a
+      internalID: 21300208
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_142
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213002152c704d159cc0fdbeed8c74ed
+      internalID: 21300210
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22b575c63474f57aff52aab492968a0
+      internalID: 21300212
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_109
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e21ba56b8648f0ac2c07b2655b19c4
+      internalID: 21300214
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_49
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 510
+        width: 41.923878
+        height: 39.923878
+      alignment: 9
+      pivot: {x: 0.60824525, y: 0.6387155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.038061, y: -19.961939}
+        - {x: -20.961939, y: -19.961939}
+        - {x: -20.961939, y: 20.038061}
+        - {x: -4.961939, y: 20.038061}
+        - {x: 13.038061, y: 14.038061}
+        - {x: 21.038061, y: -1.9619389}
+      physicsShape:
+      - - {x: 12.038061, y: 13.038061}
+        - {x: 1.0380611, y: 16.038061}
+        - {x: -6.961939, y: 20.038061}
+        - {x: -20.961939, y: 20.038061}
+        - {x: -20.961939, y: -19.961939}
+        - {x: 21.038061, y: -19.961939}
+        - {x: 21.038061, y: -1.9619389}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8043808c254f6ca06be1bddd43d32f
+      internalID: 21300216
+      vertices:
+      - {x: 29.461939, y: 28.461939}
+      - {x: 37.461937, y: -5.538061}
+      - {x: 37.461937, y: 12.461939}
+      - {x: 11.461939, y: 34.461937}
+      - {x: -4.538061, y: 34.461937}
+      - {x: -4.538061, y: -5.538061}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 663
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f499f40005a481db04b65724eca490b
+      internalID: 21300218
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcbd9265aea48f58a3734958dcbf316
+      internalID: 21300220
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_105
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b22f5525c468a948516544a346935
+      internalID: 21300222
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_89
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2f1d560fa040f5b1ab2abbaca1a539
+      internalID: 21300224
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_37
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff176597d3a4200953c3cec78c0b978
+      internalID: 21300226
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba3e9b468344dd99f5a391c296cf3e7
+      internalID: 21300228
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_108
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d177bcd503ed4728ad05c199061b1551
+      internalID: 21300230
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_139
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 51
+        width: 22.948683
+        height: 51
+      alignment: 9
+      pivot: {x: 1.111175, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5256605, y: -25.5}
+        - {x: -11.4743395, y: -25.5}
+        - {x: -11.4743395, y: 25.5}
+        - {x: 3.5256605, y: 25.5}
+        - {x: 11.5256605, y: 7.5}
+        - {x: 11.5256605, y: -15.5}
+      physicsShape:
+      - - {x: -11.4743395, y: 25.5}
+        - {x: -11.4743395, y: -25.5}
+        - {x: 3.5256605, y: -25.5}
+        - {x: 11.5256605, y: -15.5}
+        - {x: 11.5256605, y: 7.5}
+        - {x: 3.5256605, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc16508796c458ca4762104690b120e
+      internalID: 21300232
+      vertices:
+      - {x: 0.9743414, y: 51}
+      - {x: 8.974341, y: 10}
+      - {x: 8.974341, y: 33}
+      - {x: 0.9743414, y: 0}
+      - {x: -14.025659, y: 51}
+      - {x: -14.025659, y: 0}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9bead3fd784d48b32f06cd52673953
+      internalID: 21300234
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_93
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bf66ac47684d3194ee1f1281b579ae
+      internalID: 21300236
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_112
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 153
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee6592c4a2e4bd297c5aaf8330d303d
+      internalID: 21300238
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8895d7eb53f41b0a03985edeca63230
+      internalID: 21300240
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_95
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960f9a5a7f5e48fc9011f81c09d54882
+      internalID: 21300242
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_132
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07e866528a5435c9f01f4351a719d4c
+      internalID: 21300244
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_134
+      rect:
+        serializedVersion: 2
+        x: 232.07613
+        y: 51
+        width: 22.92388
+        height: 51
+      alignment: 9
+      pivot: {x: -0.112377405, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.538066, y: -25.5}
+        - {x: -11.538066, y: -17.5}
+        - {x: -11.538066, y: 7.5}
+        - {x: -2.538066, y: 25.5}
+        - {x: 11.461934, y: 25.5}
+        - {x: 11.461934, y: -25.5}
+      physicsShape:
+      - - {x: -2.538066, y: 25.5}
+        - {x: -11.538066, y: 7.5}
+        - {x: -11.538066, y: -17.5}
+        - {x: -4.538066, y: -25.5}
+        - {x: 11.461934, y: -25.5}
+        - {x: 11.461934, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c412ca72e64c54a562d49fe3b5a8fc
+      internalID: 21300246
+      vertices:
+      - {x: 22.96194, y: 51}
+      - {x: 36.96194, y: 0}
+      - {x: 36.96194, y: 51}
+      - {x: 20.96194, y: 0}
+      - {x: 13.96194, y: 33}
+      - {x: 13.96194, y: 8}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d22ca92da14d04b32791db4114f0ad
+      internalID: 21300248
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_94
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f9c2a8bcdd4ca0ba5ef6bf601f164b
+      internalID: 21300250
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_82
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1460edce8b734914a56e776133bf6678
+      internalID: 21300252
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_53
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bb83819c4d4fb38694c43db4cedbfe
+      internalID: 21300254
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 714
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b12b06b58a345ff9bf59aa1ea551785
+      internalID: 21300256
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742b277c1f434cf3b66ebe799051d71b
+      internalID: 21300258
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_57
+      rect:
+        serializedVersion: 2
+        x: 376.0761
+        y: 505.02676
+        width: 31.92388
+        height: 4.9732475
+      alignment: 9
+      pivot: {x: 0.2012252, y: -4.1274366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.9619493, y: -2.5133877}
+        - {x: 4.9619493, y: -1.5133877}
+        - {x: 4.9619493, y: 2.4866123}
+        - {x: 15.961949, y: 2.4866123}
+        - {x: 15.961949, y: -0.5133877}
+        - {x: 12.961949, y: -2.5133877}
+      - - {x: -14.038051, y: -2.5133877}
+        - {x: -16.038052, y: 0.48661232}
+        - {x: -16.038052, y: 2.4866123}
+        - {x: -6.0380507, y: 2.4866123}
+        - {x: -6.0380507, y: -1.5133877}
+        - {x: -8.038051, y: -2.5133877}
+      physicsShape:
+      - - {x: -14.038051, y: -2.5133877}
+        - {x: -8.038051, y: -2.5133877}
+        - {x: -6.0380507, y: -1.5133877}
+        - {x: -6.0380507, y: 2.4866123}
+        - {x: -16.038052, y: 2.4866123}
+        - {x: -16.038052, y: 0.48661232}
+      - - {x: 4.9619493, y: 2.4866123}
+        - {x: 4.9619493, y: -1.5133877}
+        - {x: 6.9619493, y: -2.5133877}
+        - {x: 12.961949, y: -2.5133877}
+        - {x: 15.961949, y: -0.5133877}
+        - {x: 15.961949, y: 2.4866123}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa085a043c84aa79594a8d6f7b6fd62
+      internalID: 21300260
+      vertices:
+      - {x: 19.46194, y: 27.986624}
+      - {x: 17.46194, y: 22.986624}
+      - {x: 19.46194, y: 23.986624}
+      - {x: 11.46194, y: 22.986624}
+      - {x: 9.46194, y: 27.986624}
+      - {x: 9.46194, y: 25.986624}
+      - {x: 41.46194, y: 27.986624}
+      - {x: 38.46194, y: 22.986624}
+      - {x: 41.46194, y: 24.986624}
+      - {x: 32.46194, y: 22.986624}
+      - {x: 30.46194, y: 27.986624}
+      - {x: 30.46194, y: 23.986624}
+      indices: 0b0000000a0000000900000006000000090000000a000000070000000900000006000000080000000700000006000000050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf7e1de9f3b4d19b1774f9137817f37
+      internalID: 21300262
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_131
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df65f25311f4eaa927741621cff534a
+      internalID: 21300264
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_118
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 153
+        width: 51
+        height: 36.923878
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69061005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -18.461937}
+        - {x: -25.5, y: -18.461937}
+        - {x: -25.5, y: 10.538063}
+        - {x: 2.5, y: 18.538063}
+        - {x: 11.5, y: 18.538063}
+        - {x: 25.5, y: 6.538063}
+      physicsShape:
+      - - {x: 4.5, y: 18.538063}
+        - {x: -1.5, y: 15.538063}
+        - {x: -22.5, y: 11.538063}
+        - {x: -25.5, y: 10.538063}
+        - {x: -25.5, y: -18.461937}
+        - {x: 25.5, y: -18.461937}
+        - {x: 25.5, y: 6.538063}
+        - {x: 11.5, y: 18.538063}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f0ac8bf5684db8897f8a3e2f9bc53f
+      internalID: 21300266
+      vertices:
+      - {x: 37, y: 29.961939}
+      - {x: 51, y: -7.038061}
+      - {x: 51, y: 17.961939}
+      - {x: 28, y: 29.961939}
+      - {x: 0, y: 21.961939}
+      - {x: 0, y: -7.038061}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_111
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 153
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63b3007f4d74879a0061a0cf9f8119c
+      internalID: 21300268
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 612
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bfe816ce874c7e9c70e161f03d2d59
+      internalID: 21300270
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 510
+        width: 51
+        height: 37.923878
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6723996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -18.961939}
+        - {x: -25.5, y: -18.961939}
+        - {x: -25.5, y: 1.0380611}
+        - {x: -20.5, y: 7.038061}
+        - {x: 12.5, y: 19.038061}
+        - {x: 25.5, y: 19.038061}
+      physicsShape:
+      - - {x: 12.5, y: 19.038061}
+        - {x: -20.5, y: 7.038061}
+        - {x: -25.5, y: 1.0380611}
+        - {x: -25.5, y: -18.961939}
+        - {x: 25.5, y: -18.961939}
+        - {x: 25.5, y: 19.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72388b867834db6b620a072f1be855d
+      internalID: 21300272
+      vertices:
+      - {x: 38, y: 31.461939}
+      - {x: 51, y: -6.538061}
+      - {x: 51, y: 31.461939}
+      - {x: 5, y: 19.461939}
+      - {x: 0, y: 13.461939}
+      - {x: 0, y: -6.538061}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_145
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 8.07612
+        width: 51
+        height: 42.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40592507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 18.461939}
+        - {x: 15.5, y: 21.461939}
+        - {x: 25.5, y: 21.461939}
+        - {x: 25.5, y: 17.461939}
+        - {x: 18.5, y: 17.461939}
+      - - {x: 15.5, y: -21.538061}
+        - {x: -25.5, y: -21.538061}
+        - {x: -25.5, y: 21.461939}
+        - {x: 15.5, y: 21.461939}
+      - - {x: 22.5, y: -14.538061}
+        - {x: 20.5, y: -12.538061}
+        - {x: 20.5, y: -7.538061}
+        - {x: 21.5, y: -3.5380611}
+        - {x: 25.5, y: -2.5380611}
+        - {x: 25.5, y: -13.538061}
+      physicsShape:
+      - - {x: 13.5, y: -2.5380611}
+        - {x: 6.5, y: 13.461939}
+        - {x: 15.5, y: 17.461939}
+        - {x: 15.5, y: 21.461939}
+        - {x: -25.5, y: 21.461939}
+        - {x: -25.5, y: -21.538061}
+        - {x: 4.5, y: -21.538061}
+        - {x: 9.5, y: -18.538061}
+        - {x: 15.5, y: -12.538061}
+      - - {x: 20.5, y: -7.538061}
+        - {x: 20.5, y: -12.538061}
+        - {x: 22.5, y: -14.538061}
+        - {x: 25.5, y: -13.538061}
+        - {x: 25.5, y: -2.5380611}
+        - {x: 21.5, y: -3.5380611}
+      - - {x: 15.5, y: 21.461939}
+        - {x: 16.5, y: 18.461939}
+        - {x: 18.5, y: 17.461939}
+        - {x: 25.5, y: 17.461939}
+        - {x: 25.5, y: 21.461939}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1fe2bb61aa4cd8972a7335686cfc8d
+      internalID: 21300274
+      vertices:
+      - {x: 51, y: 22.96194}
+      - {x: 48, y: 10.961941}
+      - {x: 51, y: 11.961941}
+      - {x: 47, y: 21.96194}
+      - {x: 46, y: 17.96194}
+      - {x: 46, y: 12.961941}
+      - {x: 0, y: 46.96194}
+      - {x: 41, y: 3.9619408}
+      - {x: 41, y: 46.96194}
+      - {x: 0, y: 3.9619408}
+      - {x: 51, y: 46.96194}
+      - {x: 44, y: 42.96194}
+      - {x: 51, y: 42.96194}
+      - {x: 42, y: 43.96194}
+      indices: 080000000a0000000d0000000b0000000d0000000a0000000c0000000b0000000a000000090000000600000007000000080000000700000006000000050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ca749f386b4f2ab2880d9fbc33dbe8
+      internalID: 21300276
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb794e20cc874f89a36f81021865d621
+      internalID: 21300278
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_98
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff46d92bd144aa3b72dbbf52c497b0f
+      internalID: 21300280
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_102
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 204
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22142ad91c44e39a4841cedd79326e4
+      internalID: 21300282
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e8709daef644568b32f17f24234e0c
+      internalID: 21300284
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_87
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 306
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d655ed3f5e84629a63550dc269c561b
+      internalID: 21300286
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_149
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 16.07612
+        width: 6.9238796
+        height: 34.92388
+      alignment: 9
+      pivot: {x: 3.6829064, y: 0.26984057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.46194077, y: 12.461939}
+        - {x: -3.4619408, y: 14.461939}
+        - {x: -3.4619408, y: 17.461939}
+        - {x: 3.5380592, y: 17.461939}
+        - {x: 3.5380592, y: 14.461939}
+        - {x: 1.5380592, y: 12.461939}
+      - - {x: 0.53805923, y: -17.538061}
+        - {x: -3.4619408, y: -17.538061}
+        - {x: -3.4619408, y: -6.538061}
+        - {x: -0.46194077, y: -6.538061}
+        - {x: 1.5380592, y: -9.538061}
+        - {x: 1.5380592, y: -15.538061}
+      physicsShape:
+      - - {x: -3.4619408, y: -6.538061}
+        - {x: -3.4619408, y: -17.538061}
+        - {x: 0.53805923, y: -17.538061}
+        - {x: 1.5380592, y: -15.538061}
+        - {x: 1.5380592, y: -9.538061}
+        - {x: -0.46194077, y: -6.538061}
+      - - {x: -3.4619408, y: 17.461939}
+        - {x: -3.4619408, y: 14.461939}
+        - {x: -0.46194077, y: 12.461939}
+        - {x: 1.5380592, y: 12.461939}
+        - {x: 3.5380592, y: 14.461939}
+        - {x: 3.5380592, y: 17.461939}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed211f758c614b99b6e3b858638801d2
+      internalID: 21300288
+      vertices:
+      - {x: -17.03806, y: 15.961941}
+      - {x: -18.03806, y: 7.961941}
+      - {x: -17.03806, y: 9.961941}
+      - {x: -19.03806, y: 18.96194}
+      - {x: -22.03806, y: 18.96194}
+      - {x: -22.03806, y: 7.961941}
+      - {x: -15.03806, y: 42.96194}
+      - {x: -17.03806, y: 37.96194}
+      - {x: -15.03806, y: 39.96194}
+      - {x: -19.03806, y: 37.96194}
+      - {x: -22.03806, y: 42.96194}
+      - {x: -22.03806, y: 39.96194}
+      indices: 0b0000000a0000000900000006000000090000000a000000070000000900000006000000080000000700000006000000050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_56
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 505.0429
+        width: 31.881674
+        height: 4.9570923
+      alignment: 9
+      pivot: {x: 0.7998325, y: -4.1441445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.059163, y: -2.5214539}
+        - {x: 6.059163, y: -0.52145386}
+        - {x: 6.059163, y: 2.4785461}
+        - {x: 16.059162, y: 2.4785461}
+        - {x: 16.059162, y: 0.47854614}
+        - {x: 12.059163, y: -2.5214539}
+      - - {x: -12.940837, y: -2.5214539}
+        - {x: -15.940837, y: 0.47854614}
+        - {x: -15.940837, y: 2.4785461}
+        - {x: -4.940837, y: 2.4785461}
+        - {x: -4.940837, y: 0.47854614}
+        - {x: -6.940837, y: -1.5214539}
+      physicsShape:
+      - - {x: -15.940837, y: 2.4785461}
+        - {x: -15.940837, y: 0.47854614}
+        - {x: -12.940837, y: -2.5214539}
+        - {x: -6.940837, y: -1.5214539}
+        - {x: -4.940837, y: 0.47854614}
+        - {x: -4.940837, y: 2.4785461}
+      - - {x: 6.059163, y: 2.4785461}
+        - {x: 6.059163, y: -0.52145386}
+        - {x: 8.059163, y: -2.5214539}
+        - {x: 12.059163, y: -2.5214539}
+        - {x: 16.059162, y: 0.47854614}
+        - {x: 16.059162, y: 2.4785461}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d70ae4397ed44efbfbd6d9cbde2660a
+      internalID: 21300290
+      vertices:
+      - {x: 1.4408369, y: 27.978546}
+      - {x: -0.5591631, y: 23.978546}
+      - {x: 1.4408369, y: 25.978546}
+      - {x: -6.559163, y: 22.978546}
+      - {x: -9.559163, y: 27.978546}
+      - {x: -9.559163, y: 25.978546}
+      - {x: 22.440838, y: 27.978546}
+      - {x: 18.440838, y: 22.978546}
+      - {x: 22.440838, y: 25.978546}
+      - {x: 14.440837, y: 22.978546}
+      - {x: 12.440837, y: 27.978546}
+      - {x: 12.440837, y: 24.978546}
+      indices: 0b0000000a0000000900000006000000090000000a000000070000000900000006000000080000000700000006000000050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_113
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4744510910fd4d6598b1cfb3469c2134
+      internalID: 21300292
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_73
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd58b25933d430da07ecacb121d1056
+      internalID: 21300294
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_136
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 51
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: 25.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40bd1070c684aef972b53048cca57a8
+      internalID: 21300296
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      - {x: 51, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seasonal_Event_10_79
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 357
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -25.5, y: 25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9368b0a870fb4ad7a075ee21c76eb98b
+      internalID: 21300298
+      vertices:
+      - {x: 0, y: 51}
+      - {x: 51, y: 0}
+      - {x: 51, y: 51}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Seasonal_Event_10_0: 21300028
+      Seasonal_Event_10_1: 21300138
+      Seasonal_Event_10_10: 21300082
+      Seasonal_Event_10_100: 21300278
+      Seasonal_Event_10_101: 21300204
+      Seasonal_Event_10_102: 21300282
+      Seasonal_Event_10_103: 21300108
+      Seasonal_Event_10_104: 21300036
+      Seasonal_Event_10_105: 21300222
+      Seasonal_Event_10_106: 21300172
+      Seasonal_Event_10_107: 21300076
+      Seasonal_Event_10_108: 21300230
+      Seasonal_Event_10_109: 21300214
+      Seasonal_Event_10_11: 21300166
+      Seasonal_Event_10_110: 21300046
+      Seasonal_Event_10_111: 21300268
+      Seasonal_Event_10_112: 21300238
+      Seasonal_Event_10_113: 21300292
+      Seasonal_Event_10_114: 21300064
+      Seasonal_Event_10_115: 21300086
+      Seasonal_Event_10_116: 21300168
+      Seasonal_Event_10_117: 21300056
+      Seasonal_Event_10_118: 21300266
+      Seasonal_Event_10_119: 21300192
+      Seasonal_Event_10_12: 21300186
+      Seasonal_Event_10_120: 21300004
+      Seasonal_Event_10_121: 21300160
+      Seasonal_Event_10_122: 21300088
+      Seasonal_Event_10_123: 21300054
+      Seasonal_Event_10_124: 21300060
+      Seasonal_Event_10_125: 21300178
+      Seasonal_Event_10_126: 21300174
+      Seasonal_Event_10_127: 21300142
+      Seasonal_Event_10_128: 21300066
+      Seasonal_Event_10_129: 21300156
+      Seasonal_Event_10_13: 21300136
+      Seasonal_Event_10_130: 21300206
+      Seasonal_Event_10_131: 21300264
+      Seasonal_Event_10_132: 21300244
+      Seasonal_Event_10_133: 21300208
+      Seasonal_Event_10_134: 21300246
+      Seasonal_Event_10_135: 21300002
+      Seasonal_Event_10_136: 21300296
+      Seasonal_Event_10_137: 21300008
+      Seasonal_Event_10_138: 21300070
+      Seasonal_Event_10_139: 21300232
+      Seasonal_Event_10_14: 21300110
+      Seasonal_Event_10_140: 21300262
+      Seasonal_Event_10_141: 21300132
+      Seasonal_Event_10_142: 21300210
+      Seasonal_Event_10_143: 21300200
+      Seasonal_Event_10_144: 21300062
+      Seasonal_Event_10_145: 21300274
+      Seasonal_Event_10_146: 21300134
+      Seasonal_Event_10_147: 21300012
+      Seasonal_Event_10_148: 21300014
+      Seasonal_Event_10_149: 21300288
+      Seasonal_Event_10_15: 21300182
+      Seasonal_Event_10_16: 21300026
+      Seasonal_Event_10_17: 21300218
+      Seasonal_Event_10_18: 21300170
+      Seasonal_Event_10_19: 21300120
+      Seasonal_Event_10_2: 21300140
+      Seasonal_Event_10_20: 21300176
+      Seasonal_Event_10_21: 21300270
+      Seasonal_Event_10_22: 21300198
+      Seasonal_Event_10_23: 21300148
+      Seasonal_Event_10_24: 21300248
+      Seasonal_Event_10_25: 21300048
+      Seasonal_Event_10_26: 21300212
+      Seasonal_Event_10_27: 21300188
+      Seasonal_Event_10_28: 21300130
+      Seasonal_Event_10_29: 21300128
+      Seasonal_Event_10_3: 21300256
+      Seasonal_Event_10_30: 21300276
+      Seasonal_Event_10_31: 21300144
+      Seasonal_Event_10_32: 21300072
+      Seasonal_Event_10_33: 21300234
+      Seasonal_Event_10_34: 21300190
+      Seasonal_Event_10_35: 21300078
+      Seasonal_Event_10_36: 21300220
+      Seasonal_Event_10_37: 21300226
+      Seasonal_Event_10_38: 21300258
+      Seasonal_Event_10_39: 21300074
+      Seasonal_Event_10_4: 21300038
+      Seasonal_Event_10_40: 21300098
+      Seasonal_Event_10_41: 21300040
+      Seasonal_Event_10_42: 21300042
+      Seasonal_Event_10_43: 21300146
+      Seasonal_Event_10_44: 21300030
+      Seasonal_Event_10_45: 21300022
+      Seasonal_Event_10_46: 21300094
+      Seasonal_Event_10_47: 21300016
+      Seasonal_Event_10_48: 21300272
+      Seasonal_Event_10_49: 21300216
+      Seasonal_Event_10_5: 21300010
+      Seasonal_Event_10_50: 21300126
+      Seasonal_Event_10_51: 21300162
+      Seasonal_Event_10_52: 21300228
+      Seasonal_Event_10_53: 21300254
+      Seasonal_Event_10_54: 21300202
+      Seasonal_Event_10_55: 21300032
+      Seasonal_Event_10_56: 21300290
+      Seasonal_Event_10_57: 21300260
+      Seasonal_Event_10_58: 21300158
+      Seasonal_Event_10_59: 21300124
+      Seasonal_Event_10_6: 21300106
+      Seasonal_Event_10_60: 21300044
+      Seasonal_Event_10_61: 21300116
+      Seasonal_Event_10_62: 21300006
+      Seasonal_Event_10_63: 21300184
+      Seasonal_Event_10_64: 21300122
+      Seasonal_Event_10_65: 21300090
+      Seasonal_Event_10_66: 21300080
+      Seasonal_Event_10_67: 21300164
+      Seasonal_Event_10_68: 21300118
+      Seasonal_Event_10_69: 21300154
+      Seasonal_Event_10_7: 21300102
+      Seasonal_Event_10_70: 21300096
+      Seasonal_Event_10_71: 21300180
+      Seasonal_Event_10_72: 21300092
+      Seasonal_Event_10_73: 21300294
+      Seasonal_Event_10_74: 21300018
+      Seasonal_Event_10_75: 21300114
+      Seasonal_Event_10_76: 21300052
+      Seasonal_Event_10_77: 21300104
+      Seasonal_Event_10_78: 21300196
+      Seasonal_Event_10_79: 21300298
+      Seasonal_Event_10_8: 21300194
+      Seasonal_Event_10_80: 21300240
+      Seasonal_Event_10_81: 21300100
+      Seasonal_Event_10_82: 21300252
+      Seasonal_Event_10_83: 21300000
+      Seasonal_Event_10_84: 21300150
+      Seasonal_Event_10_85: 21300020
+      Seasonal_Event_10_86: 21300152
+      Seasonal_Event_10_87: 21300286
+      Seasonal_Event_10_88: 21300024
+      Seasonal_Event_10_89: 21300224
+      Seasonal_Event_10_9: 21300050
+      Seasonal_Event_10_90: 21300284
+      Seasonal_Event_10_91: 21300112
+      Seasonal_Event_10_92: 21300058
+      Seasonal_Event_10_93: 21300236
+      Seasonal_Event_10_94: 21300250
+      Seasonal_Event_10_95: 21300242
+      Seasonal_Event_10_96: 21300068
+      Seasonal_Event_10_97: 21300034
+      Seasonal_Event_10_98: 21300280
+      Seasonal_Event_10_99: 21300084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

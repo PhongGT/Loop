@@ -8,16 +8,19 @@ public class BattleManager : MonoBehaviour
 {
     [SerializeField] public List<Character> enemys;
     [SerializeField] public List<Character> player_allys;
-    
-
     [SerializeField] protected List<LoadCharacter> player_allys_Load;
     [SerializeField] protected List<LoadCharacter> enemys_Load;
-    [SerializeField] protected GameObject characterPrefab;
+
+    [SerializeField] protected GameObject playerPrefabs;
+    public GameObject battlePanel;
+
     [SerializeField] protected GameObject player_allys_Parent;
     [SerializeField] protected GameObject enemys_Parent;
     public float dayTime = 10f;
     public int loopCount = 1;
-    public bool isNewDay = false;
+    public int dayCount = 1;
+    public int healthPotionCount = 2;
+    protected bool timerStatState = false;
     public Player player;
     public Ghoul ghoul; 
     public bool startBattle = false;
@@ -34,73 +37,60 @@ public class BattleManager : MonoBehaviour
         {
             Destroy(this);
         }
+        
     }
     void Start()
     {
-        //enemys = new List<Character>();
-        //player_allys = new List<Character>();   
-        for (int i = 0; i < 5; i++)
-        {
-            GameObject player_ally = Instantiate(characterPrefab, player_allys_Parent.transform);
-            player_allys_Load.Add(player_ally.GetComponent<LoadCharacter>());
-            player_ally.SetActive(false);
-            GameObject enemy = Instantiate(characterPrefab, enemys_Parent.transform);
-            enemys_Load.Add(enemy.GetComponent<LoadCharacter>());
-            enemy.SetActive(false);
-        }
 
-        
-
-        StartBattle();
+        Actions.StartTimer += () => timerStatState = true;
+        LoadNewCharacter(player_allys_Load[2], player);
+        Actions.StartBattle += StartBattle;
+        Actions.EndBattle += () => battlePanel.SetActive(false);
+        //StartBattle();
     }
 
-    // Update is called once per frame
+
     void Update()
     {
-        if(isNewDay)
+        if (timerStatState)
         {
-
+           dayTime -= Time.deltaTime;  
         }
+
+        if (dayTime <= 0)
+        {
+            Actions.SpawnMob?.Invoke(dayCount);
+            dayTime = 10f;
+            dayCount++;
+        }
+        
     }
+    // Input Enemy List
     public void StartBattle()
     {
-        // Every time Player Collider with Cell Collider have Enemy Battle Start
-        LoadNewCharacter(player_allys_Load[0], player);
-        LoadNewCharacter(enemys_Load[0], ghoul);
         LoadTarget();
-        //PreperBattle(ref player_allys, ref enemys);
         startBattle = true;
-        //StartCoroutine(StartBattleCoroutine());
     }
 
-    public void PreperBattle(ref List<Character> player_ally, ref List<Character> enemys)
+    public void PreperBattle( List<String> enemys)
     {
+        battlePanel.SetActive(true);
         foreach (var Char in enemys)
         {
-            LoadCharacter l = returnInactiveCharacter(enemys_Load);
+            LoadCharacter l = returnInactiveSlot(enemys_Load);
             if (l != null)
             {
-                LoadNewCharacter(l, Char, player_ally);
+                LoadNewCharacter(l, ReturnLoadChar(Char));
             }
-
         }
 
     }
-    public void LoadNewCharacter(LoadCharacter loadSlot, Character character, List<Character> enemyTarget)
-    {
-        Character Char = character;
-        Char.canAttack = true;
-        Char.Init();
-        loadSlot.Load(Char);
-        loadSlot.gameObject.SetActive(true);
-    }    
     public void LoadNewCharacter(LoadCharacter loadSlot, Character character)
     {
         Character Char = character;
-        Char.canAttack = true;
         Char.Init();
         loadSlot.Load(Char);
-        loadSlot.gameObject.SetActive(true);
+        //loadSlot.gameObject.SetActive(true);
     }
     public void LoadTarget(bool isPlayer)
     {
@@ -113,8 +103,6 @@ public class BattleManager : MonoBehaviour
                 {
                     player_allys.Add(load.ReturnCharacter);
                 }
-                
-
             }
         }
         else
@@ -129,8 +117,6 @@ public class BattleManager : MonoBehaviour
                 
             }
         }
-        
-
     }    
     public void LoadTarget()
     {
@@ -140,19 +126,22 @@ public class BattleManager : MonoBehaviour
             {
                 if (load.isLoaded)
                 {
-                    player_allys.Add(load.ReturnCharacter);
-                }
+                    Character player = load.ReturnCharacter;
+                    player.canAttack = true;
+                    player_allys.Add(player);
+            }
                 
 
             }
-        
-   
+
             enemys.Clear();
             foreach (var load in enemys_Load)
             {
                 if (load.isLoaded)
                 {
-                    enemys.Add(load.ReturnCharacter);
+                Character enemy = load.ReturnCharacter;
+                enemy.canAttack = true;
+                enemys.Add(enemy);
                 }
                 
             }
@@ -166,36 +155,62 @@ public class BattleManager : MonoBehaviour
         int index;
         if (!isPlayer)
         {
+            if(player_allys.Count == 1)
+            {
+                return player_allys[0];
+            }
             index = UnityEngine.Random.Range(0, player_allys_Load.Count);
-            return player_allys[index-1];
+            return player_allys[index];
         }
         else
         {
+            if (player_allys.Count == 1)
+            {
+                return enemys[0];
+            }
             index = UnityEngine.Random.Range(0, enemys_Load.Count);
-            return enemys[index-1];
+            return enemys[index];
         }
     }
+    protected Character ReturnLoadChar(string name)
+    {
+        switch (name)
+        {
+            case "Player":
+                return player;
+            case "Ghoul":
+                return ghoul;
+            case "Skeleton":
+                return null;
+            case "Slime":
+                return ghoul;
+            default:
+                return null;
+        }
+    }    
 
+    public bool CheckBattle()
+    {
+        if ( enemys.Count == 0)
+        {
+            return false;
+        }
+        return true;
+    }
     public void EndBattle()
     {
-        foreach (var load in player_allys_Load)
-        {
-            if (load.isLoaded)
-            {
-                load.isLoaded = false;
-                load.gameObject.SetActive(false);
-            }
-        }
+        startBattle = false;
         foreach (var load in enemys_Load)
         {
             if (load.isLoaded)
             {
                 load.isLoaded = false;
-                load.gameObject.SetActive(false);
+                
             }
         }
+        Actions.EndBattle?.Invoke();
     }
-    LoadCharacter returnInactiveCharacter(List<LoadCharacter> characters)
+    LoadCharacter returnInactiveSlot(List<LoadCharacter> characters)
     {
         foreach (var character in characters)
         {

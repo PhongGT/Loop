@@ -51,6 +51,11 @@ public static class R_Helper
         }
         return list;
     } 
+    public static Vector3 PositionBottomLeftCamera()
+    {
+        Vector3 bottomLeft = GetCamera.ScreenToWorldPoint(new Vector3(0, 0, GetCamera.nearClipPlane));
+        return bottomLeft;
+    }
     
    
 }

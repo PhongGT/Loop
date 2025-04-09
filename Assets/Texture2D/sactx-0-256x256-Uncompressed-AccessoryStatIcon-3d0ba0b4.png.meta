@@ -1,0 +1,1239 @@
+fileFormatVersion: 2
+guid: b38698e1df0632845b8f399d6fd80d8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: StatIcon_DefDen
+  - first:
+      213: 21300002
+    second: StatIcon_Atk
+  - first:
+      213: 21300004
+    second: StatIcon_MDef
+  - first:
+      213: 21300006
+    second: StatIcon_HybridDef
+  - first:
+      213: 21300008
+    second: StatIcon_SkillDamageMul
+  - first:
+      213: 21300010
+    second: StatIcon_CriticalDamageMul
+  - first:
+      213: 21300012
+    second: StatIcon_MCriticalProb
+  - first:
+      213: 21300014
+    second: StatIcon_SuperShieldAdaptability
+  - first:
+      213: 21300016
+    second: StatIcon_MCriticalDamageMul
+  - first:
+      213: 21300018
+    second: StatIcon_HybridDrain
+  - first:
+      213: 21300020
+    second: StatIcon_SpecialDamageMul
+  - first:
+      213: 21300022
+    second: StatIcon_HealEfficiency
+  - first:
+      213: 21300024
+    second: StatIcon_Guard
+  - first:
+      213: 21300026
+    second: StatIcon_MagicDrain
+  - first:
+      213: 21300028
+    second: StatIcon_AttackDamageMul
+  - first:
+      213: 21300030
+    second: StatIcon_Drain
+  - first:
+      213: 21300032
+    second: StatIcon_Execution
+  - first:
+      213: 21300034
+    second: StatIcon_MissRatio
+  - first:
+      213: 21300036
+    second: StatIcon_DefPen
+  - first:
+      213: 21300038
+    second: StatIcon_AttackSpeed
+  - first:
+      213: 21300040
+    second: StatIcon_Range
+  - first:
+      213: 21300042
+    second: StatIcon_Hp
+  - first:
+      213: 21300044
+    second: StatIcon_MoveSpeed
+  - first:
+      213: 21300046
+    second: StatIcon_CriticalProb
+  - first:
+      213: 21300048
+    second: StatIcon_Def
+  - first:
+      213: 21300050
+    second: StatIcon_MaxMana
+  - first:
+      213: 21300052
+    second: StatIcon_MAtk
+  - first:
+      213: 21300054
+    second: StatIcon_Damage
+  - first:
+      213: 21300056
+    second: StatIcon_TakeDamage
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StatIcon_DefDen
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3388f88089a4202989f8df5a5109594
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_Atk
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4bb75b8cd34fca9287cbe089b195d7
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_MDef
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd4bda0494b4bfcbe3a543683248cf6
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_HybridDef
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d6fb1de98d4ebb9a9857b1aaecf37e
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_SkillDamageMul
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb20580c102f49c19e7e7b3988cd0fb9
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_CriticalDamageMul
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b11ffc8761e4a41808cc5debd83b010
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_MCriticalProb
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 84
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491fb0eed9674a079a9491bc81b091e2
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_SuperShieldAdaptability
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 42
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0322702f3b7644d798be3648418973da
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_MCriticalDamageMul
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716de979c5e54f8bbd7603cdaee9a824
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_HybridDrain
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c376e353aff349758c02bcbcbdaa7260
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_SpecialDamageMul
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 42
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5311449652848cd8602688e41bc4ea1
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_HealEfficiency
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e08eb81831438ea4bb0482fbc85114
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_Guard
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 42
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164cb289bda6436a9c833bddf9703211
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_MagicDrain
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efc85e1d4fa4ce09b7048579dbf3366
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_AttackDamageMul
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 84
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0e14e05e99485981b1dd861e573308
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_Drain
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 42
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0294973680334cbda1134273e868677b
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_Execution
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 84
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff6c48dd5bf420fbdc0ae19f0e96573
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_MissRatio
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 84
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a810ab62bff41b1ac01e679897d0c18
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_DefPen
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9078ac03ed0f45a19aaf0771f6ede8a0
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_AttackSpeed
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 126
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f160a535274a8cae00538b0d440be3
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_Range
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa3b10977244be8a0fc0abc88a468a5
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_Hp
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 168
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a3d514ac9a48e8b281f606f94d927e
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_MoveSpeed
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 126
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926952c50d9c4283b0a2ff4debfdbf09
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_CriticalProb
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 168
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43b5803f6e44200925f628a51986de3
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_Def
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c032e697ab064ca7bd676df0790a50f4
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_MaxMana
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 126
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c113230d2b6a4ffcb257007c3bed1c65
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_MAtk
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 168
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e47a7d2dd96447ea4d5071fc8743ad3
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_Damage
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 210
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c5bc2208c34074a72529d10febb6d4
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatIcon_TakeDamage
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 126
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 19}
+        - {x: 19, y: 19}
+      physicsShape:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1a015ca0ff4d9388763a96e807a48f
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 38}
+      - {x: 38, y: 0}
+      - {x: 38, y: 38}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StatIcon_Atk: 21300002
+      StatIcon_AttackDamageMul: 21300028
+      StatIcon_AttackSpeed: 21300038
+      StatIcon_CriticalDamageMul: 21300010
+      StatIcon_CriticalProb: 21300046
+      StatIcon_Damage: 21300054
+      StatIcon_Def: 21300048
+      StatIcon_DefDen: 21300000
+      StatIcon_DefPen: 21300036
+      StatIcon_Drain: 21300030
+      StatIcon_Execution: 21300032
+      StatIcon_Guard: 21300024
+      StatIcon_HealEfficiency: 21300022
+      StatIcon_Hp: 21300042
+      StatIcon_HybridDef: 21300006
+      StatIcon_HybridDrain: 21300018
+      StatIcon_MAtk: 21300052
+      StatIcon_MCriticalDamageMul: 21300016
+      StatIcon_MCriticalProb: 21300012
+      StatIcon_MDef: 21300004
+      StatIcon_MagicDrain: 21300026
+      StatIcon_MaxMana: 21300050
+      StatIcon_MissRatio: 21300034
+      StatIcon_MoveSpeed: 21300044
+      StatIcon_Range: 21300040
+      StatIcon_SkillDamageMul: 21300008
+      StatIcon_SpecialDamageMul: 21300020
+      StatIcon_SuperShieldAdaptability: 21300014
+      StatIcon_TakeDamage: 21300056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

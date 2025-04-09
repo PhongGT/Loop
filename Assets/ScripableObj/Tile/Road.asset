@@ -18,8 +18,9 @@ MonoBehaviour:
   effect: 0
   sprite: {fileID: -366933718, guid: 6ffad07b461c82246bc63ccca8090fb8, type: 3}
   spritePreview: {fileID: 0}
-  nameMob: Slime
-  chanceToSpawn: 5
+  mobSprite: {fileID: 21300004, guid: 3b81f5ada2e6a614f8581cd6947bca14, type: 3}
+  mobName: Slime
+  chanceToSpawn: 10
   dayNeedToSpawn: 1
   cellDescription: The old road lead many Hero to Victory or Dead!
   cellEffectDescription: Has 5% spawn slime each day!

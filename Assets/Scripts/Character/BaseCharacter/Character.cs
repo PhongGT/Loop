@@ -9,8 +9,21 @@ public class Character
 {
     [Header("Stats")]
     public BaseStats baseStats;
-    protected float health { get; set; }
-    protected float shield { get; set; }
+    [SerializeField] protected float health;
+    protected float shield;
+    public float maxHealth;
+    public int healthRegen; //% health regen per Day;
+    public float damage;
+    public float attackSpeed;
+    public float magic;
+    public float evasion;
+    public float armor;
+    public float baseShield;
+    public float vamprirism; // % of damage dealt that is returned as health
+    public float counterChance; // % of ignore damege and dealt back to attacker
+    public float critChance;
+    public float critDamage; // % of damage dealt that is returned as health
+    public float pureDamage;
     // % of damage that ignores armor
     [Header("Status")]
     // Effects Bleed, Slow, 
@@ -24,25 +37,37 @@ public class Character
 
     public void Load(BaseStats baseStats)
     {
-        this.baseStats = new BaseStats(baseStats);
+        this.baseStats = baseStats;
     }
     public void Init()
     {
         this.health = baseStats.maxHealth;
         this.shield = baseStats.baseShield;
+        this.maxHealth = baseStats.maxHealth;
+        this.healthRegen = baseStats.healthRegen;
+        this.damage = baseStats.damage;
+        this.attackSpeed = baseStats.attackSpeed;
+        this.magic = baseStats.magic;
+        this.evasion = baseStats.evasion;
+        this.armor = baseStats.armor;
+        this.baseShield = baseStats.baseShield;
+        this.vamprirism = baseStats.vamprirism;
+        this.counterChance = baseStats.counterChance;
+        this.critChance = baseStats.critChance;
+        this.critDamage = baseStats.critDamage;
+        this.pureDamage = baseStats.pureDamage;
         isDead = false;
-
         // Reset Effect on Character
     }
     public int TakeDamage(float damage)
     {
         int lastDamage;
-        if (R_Helper.CheckRandom(baseStats.evasion))
+        if (R_Helper.CheckRandom(evasion))
         {
             //Degub.Log("Evasion");
             return 0;
         }
-        if (R_Helper.CheckRandom(baseStats.counterChance))
+        if (R_Helper.CheckRandom(counterChance))
         {
             
             return 0;
@@ -74,18 +99,22 @@ public class Character
     public void Heal(int heal)
     {
        
-        health = Mathf.Clamp(heal+health, 0, baseStats.maxHealth);
+        health = Mathf.Clamp(heal+health, 0, maxHealth);
+    }
+    public void Heal(float healPercent)
+    {
+        health = Mathf.Clamp(health + maxHealth * healPercent, 0, maxHealth);
     }
     public void Attack(Character target)
     {
-        int lastDamage = (int)baseStats.damage;   
-        if (R_Helper.CheckRandom(baseStats.critChance))
+        int lastDamage = (int)damage;   
+        if (R_Helper.CheckRandom(critChance))
         {
-            lastDamage = (int)(lastDamage * baseStats.critDamage);
+            lastDamage = (int)(lastDamage * critDamage);
         }
-          lastDamage = (int)(lastDamage - Mathf.Clamp(target.baseStats.armor, 0f, int.MaxValue));
+          lastDamage = (int)(Mathf.Clamp(lastDamage - target.armor, 1f, int.MaxValue));
         int vamprirismDamage = target.TakeDamage(lastDamage);
-        if (baseStats.vamprirism > 0 && vamprirismDamage != 0)
+        if (vamprirism > 0 && vamprirismDamage != 0)
         {
             Heal(vamprirismDamage);
         }
@@ -93,13 +122,13 @@ public class Character
     public void Attack(Character target, float dameBonus)
     {
         int lastDamage = Mathf.RoundToInt(dameBonus);
-        if (R_Helper.CheckRandom(baseStats.critChance))
+        if (R_Helper.CheckRandom(critChance))
         {
-            lastDamage = (int)(lastDamage * baseStats.critDamage);
+            lastDamage = (int)(lastDamage * critDamage);
         }
-        lastDamage = (int)(lastDamage - Mathf.Clamp(target.baseStats.armor, 0f, int.MaxValue));
+        lastDamage = (int)(lastDamage - Mathf.Clamp(target.armor, 0f, int.MaxValue));
         int vamprirismDamage = target.TakeDamage(lastDamage);
-        if (baseStats.vamprirism > 0 && vamprirismDamage != 0)
+        if (vamprirism > 0 && vamprirismDamage != 0)
         {
             Heal(vamprirismDamage);
         }
@@ -108,10 +137,10 @@ public class Character
     {
         //Debug.Log("Counter + target.name ");
         
-        int lastDamage = (int)baseStats.damage;
-        lastDamage = (int)(lastDamage - Mathf.Clamp(target.baseStats.armor, 0f, int.MaxValue));
+        int lastDamage = (int)damage;
+        lastDamage = (int)(lastDamage - Mathf.Clamp(target.armor, 0f, int.MaxValue));
         int vamprirismDamage = target.TakeDamage(lastDamage);
-        if (baseStats.vamprirism > 0 && vamprirismDamage != 0)
+        if (vamprirism > 0 && vamprirismDamage != 0)
         {
             Heal(vamprirismDamage);
         }
@@ -141,7 +170,7 @@ public class Character
 
     public virtual void CastSkill(Character target)
     {
-        Debug.Log(this.baseStats.name + " Attack v    " + target.baseStats.name);
+        Debug.Log(this.baseStats.nameChar + " Attack v    " + target.baseStats.nameChar);
 
     }
     public IEnumerator WaitToAttack()
@@ -149,7 +178,7 @@ public class Character
         canAttack = false;
         yield return null;
         //animator.ResetTrigger("Attack");
-        yield return new WaitForSeconds(1/baseStats.attackSpeed);
+        yield return new WaitForSeconds(1/attackSpeed);
         canAttack = true;
     }
 }

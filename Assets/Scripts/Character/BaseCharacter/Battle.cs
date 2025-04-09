@@ -9,29 +9,26 @@ public class Battle : MonoBehaviour
     public LoadCharacter loadCharacter;
     private void Start()
     {
-        loadCharacter = GetComponent<LoadCharacter>();
+        loadCharacter = GetComponentInParent<LoadCharacter>();
     }
-    // Update is called once per frame
+
     void Update()
     {
-        //if(currentChar.animator == null) {
-        //    return;
-        //}
-        
         if (BattleManager.instance.startBattle && !Dead())
         {
-           
             Attack();
         }
-        
     }
     public void Attack()
     {
         if (!currentChar.canAttack)
             return;
-
         currentChar.CastSkill(BattleManager.instance.ReturnCharacter(this.currentChar.isPlayer));
-        StartCoroutine(currentChar.WaitToAttack());
+        if(BattleManager.instance.CheckBattle())
+        {
+            StartCoroutine(currentChar.WaitToAttack());
+        }
+        
         Debug.Log("In Attack");
 
     }
@@ -44,13 +41,21 @@ public class Battle : MonoBehaviour
     {
         if (currentChar.isDead)
         {
-            //currentChar.animator.SetTrigger("Dead");
+            if(currentChar.isPlayer)
+            {
+                //Gameover
+                return true;
+            }
             currentChar.canAttack = false;
-          
-            currentChar = null;
-            //BattleManager.instance.CheckBattle();
+            loadCharacter.isLoaded = false;
             this.gameObject.SetActive(false);
             BattleManager.instance.LoadTarget(this.currentChar.isPlayer);
+
+            if(!BattleManager.instance.CheckBattle())
+            {
+                BattleManager.instance.EndBattle(); 
+                Destroy(this.gameObject, 2f);
+            }
             return true;
         }
         return false;

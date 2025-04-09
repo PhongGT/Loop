@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
-[CreateAssetMenu]
+
 [System.Serializable]
 
 public class Ghoul : Enemy, I_CastSkill

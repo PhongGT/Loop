@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Road
+  - Undefined
+  - Campfire
+  - BattlePanel
   layers:
   - Default
   - TransparentFX
@@ -40,4 +44,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 2493569387
+    locked: 0
+  - name: Character
+    uniqueID: 2636458331
+    locked: 0
+  - name: Battle
+    uniqueID: 1974981487
     locked: 0

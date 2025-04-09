@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6eb1f9a6d9c4294f91ec418c786ddea, type: 3}
   m_Name: Empty
   m_EditorClassIdentifier: 
-  position: {x: 0, y: 0, z: 0}
-  type: 20
-  placement: 3
+  position: {x: 16, y: 11, z: 0}
+  type: 21
+  placement: 2
   effect: 0
   sprite: {fileID: 0}
   spritePreview: {fileID: 0}
   nameMob: 
   chanceToSpawn: 0
   dayNeedToSpawn: 0
-  cellDescription: 
+  cellDescription: aaaa
   cellEffectDescription: 

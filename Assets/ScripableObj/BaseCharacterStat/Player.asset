@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6677a9c4c20975e498a95d53051166b4, type: 3}
   m_Name: Player
   m_EditorClassIdentifier: 
-  name: Player
-  icon: {fileID: 21300000, guid: 2343147c6e470a8428614e165354d4b9, type: 3}
+  nameChar: Shelda
+  charPrefab: {fileID: 1544449467795171, guid: accbb2ce2da1bfc4182a9906e81097b0, type: 3}
   maxHealth: 100
   healthRegen: 0
   damage: 10
   attackSpeed: 0.9
+  magic: 0
   evasion: 0
   armor: 20
   baseShield: 0

@@ -7,13 +7,12 @@ using UnityEngine.UI;
 public class CardParentManager : MonoBehaviour
 {
     [SerializeField] PlaceCardOnMap[] cards;
-    //HorizontalLayoutGroup horizontal;
-    GridLayoutGroup grid;
+    HorizontalLayoutGroup horizontal;
     CardParentManager Instant;
     private void Awake()
     {
-        //horizontal = GetComponent<HorizontalLayoutGroup>();
-        grid = GetComponent<GridLayoutGroup>();
+        horizontal = GetComponent<HorizontalLayoutGroup>();
+
         cards = FindObjectsOfType<PlaceCardOnMap>(true);
   
 
@@ -29,9 +28,9 @@ public class CardParentManager : MonoBehaviour
     }
     void Start()
     {
-        //horizontal.enabled = true;
-        grid.enabled = true;
-        
+        horizontal.enabled = true;
+
+
     }
 
     public void LoadCard(Tile tile) // Input Card

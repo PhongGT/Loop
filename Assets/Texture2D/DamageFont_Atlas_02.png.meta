@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: f5883d40164505442a0f60836c2b84c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: DamageFont_Atlas_02_54
+  - first:
+      213: 21300002
+    second: DamageFont_Atlas_02_61
+  - first:
+      213: 21300004
+    second: DamageFont_Atlas_02_62
+  - first:
+      213: 21300006
+    second: DamageFont_Atlas_02_49
+  - first:
+      213: 21300008
+    second: DamageFont_Atlas_02_55
+  - first:
+      213: 21300010
+    second: DamageFont_Atlas_02_46
+  - first:
+      213: 21300012
+    second: DamageFont_Atlas_02_57
+  - first:
+      213: 21300014
+    second: DamageFont_Atlas_02_56
+  - first:
+      213: 21300016
+    second: DamageFont_Atlas_02_43
+  - first:
+      213: 21300018
+    second: DamageFont_Atlas_02_53
+  - first:
+      213: 21300020
+    second: DamageFont_Atlas_02_58
+  - first:
+      213: 21300022
+    second: DamageFont_Atlas_02_51
+  - first:
+      213: 21300024
+    second: DamageFont_Atlas_02_50
+  - first:
+      213: 21300026
+    second: DamageFont_Atlas_02_44
+  - first:
+      213: 21300028
+    second: DamageFont_Atlas_02_52
+  - first:
+      213: 21300030
+    second: DamageFont_Atlas_02_59
+  - first:
+      213: 21300032
+    second: DamageFont_Atlas_02_47
+  - first:
+      213: 21300034
+    second: DamageFont_Atlas_02_60
+  - first:
+      213: 21300036
+    second: DamageFont_Atlas_02_48
+  - first:
+      213: 21300038
+    second: DamageFont_Atlas_02_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 118
+        width: 10
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -10.5}
+        - {x: -5, y: 10.5}
+        - {x: 5, y: 10.5}
+        - {x: 5, y: -10.5}
+      physicsShape:
+      - - {x: -5, y: 10.5}
+        - {x: -5, y: -8.5}
+        - {x: -3, y: -10.5}
+        - {x: 5, y: -10.5}
+        - {x: 5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d336134feb349a5a4d63e597218e313
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 10, y: 21}
+      - {x: 0, y: 0}
+      - {x: 10, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_61
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 118
+        width: 14
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -10.5}
+        - {x: -7, y: 10.5}
+        - {x: 7, y: 10.5}
+        - {x: 7, y: -10.5}
+      physicsShape:
+      - - {x: -7, y: 10.5}
+        - {x: -7, y: -10.5}
+        - {x: 6, y: -10.5}
+        - {x: 7, y: -8.5}
+        - {x: 7, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2816b1a5ab41bb87eb6484ac40d0be
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 14, y: 21}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_62
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 118
+        width: 14
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -10.5}
+        - {x: -7, y: 10.5}
+        - {x: 7, y: 10.5}
+        - {x: 7, y: -10.5}
+      physicsShape:
+      - - {x: -7, y: 10.5}
+        - {x: -7, y: -10.5}
+        - {x: 7, y: -10.5}
+        - {x: 7, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f131048d8e574b369855ea378d8bb58f
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 14, y: 21}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_49
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 141
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -10.5}
+        - {x: -6.5, y: 10.5}
+        - {x: 6.5, y: 10.5}
+        - {x: 6.5, y: -10.5}
+      physicsShape:
+      - - {x: -4.5, y: 10.5}
+        - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -8.5}
+        - {x: -4.5, y: -10.5}
+        - {x: 4.5, y: -10.5}
+        - {x: 6.5, y: -8.5}
+        - {x: 6.5, y: 7.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7426b531e48b4e70aa0b845657713c64
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 13, y: 21}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_55
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 118
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -10.5}
+        - {x: -6.5, y: 10.5}
+        - {x: 6.5, y: 10.5}
+        - {x: 6.5, y: -10.5}
+      physicsShape:
+      - - {x: -5.5, y: 10.5}
+        - {x: -6.5, y: 9.5}
+        - {x: -6.5, y: -10.5}
+        - {x: 6.5, y: -10.5}
+        - {x: 6.5, y: 9.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c0032240cc40c7b565737ab561ffe9
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 13, y: 21}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 141
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -10.5}
+        - {x: -6.5, y: 10.5}
+        - {x: 6.5, y: 10.5}
+        - {x: 6.5, y: -10.5}
+      physicsShape:
+      - - {x: -6.5, y: 10.5}
+        - {x: -6.5, y: -10.5}
+        - {x: 6.5, y: -10.5}
+        - {x: 6.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d33f388fb354001bb4bd8984df26904
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 13, y: 21}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 118
+        width: 15
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -10.5}
+        - {x: -7.5, y: 10.5}
+        - {x: 7.5, y: 10.5}
+        - {x: 7.5, y: -10.5}
+      physicsShape:
+      - - {x: -4.5, y: 10.5}
+        - {x: -7.5, y: 5.5}
+        - {x: -7.5, y: -7.5}
+        - {x: -3.5, y: -10.5}
+        - {x: 6.5, y: -10.5}
+        - {x: 7.5, y: -9.5}
+        - {x: 7.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c52b1eed0264bd0bb8f0d77acbf1c94
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 15, y: 21}
+      - {x: 0, y: 0}
+      - {x: 15, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_56
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 118
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -10.5}
+        - {x: -6.5, y: 10.5}
+        - {x: 6.5, y: 10.5}
+        - {x: 6.5, y: -10.5}
+      physicsShape:
+      - - {x: -6.5, y: 10.5}
+        - {x: -6.5, y: -10.5}
+        - {x: 6.5, y: -10.5}
+        - {x: 6.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce157456e8e8486f81edcc07afa81858
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 13, y: 21}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 141
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -10.5}
+        - {x: -6.5, y: 10.5}
+        - {x: 6.5, y: 10.5}
+        - {x: 6.5, y: -10.5}
+      physicsShape:
+      - - {x: -5.5, y: 10.5}
+        - {x: -6.5, y: 9.5}
+        - {x: -6.5, y: -8.5}
+        - {x: -4.5, y: -10.5}
+        - {x: 4.5, y: -10.5}
+        - {x: 6.5, y: -8.5}
+        - {x: 6.5, y: 9.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6acac7985a14ca5bed15fe421be34c4
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 13, y: 21}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 118
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -10.5}
+        - {x: -6.5, y: 10.5}
+        - {x: 6.5, y: 10.5}
+        - {x: 6.5, y: -10.5}
+      physicsShape:
+      - - {x: -5.5, y: 10.5}
+        - {x: -6.5, y: 9.5}
+        - {x: -6.5, y: -8.5}
+        - {x: -4.5, y: -10.5}
+        - {x: 4.5, y: -10.5}
+        - {x: 6.5, y: -8.5}
+        - {x: 6.5, y: 9.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db26dcf80494fa699e0029a524252b0
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 13, y: 21}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_58
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 118
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -10.5}
+        - {x: -6.5, y: 10.5}
+        - {x: 6.5, y: 10.5}
+        - {x: 6.5, y: -10.5}
+      physicsShape:
+      - - {x: -6.5, y: 10.5}
+        - {x: -6.5, y: -10.5}
+        - {x: 6.5, y: -10.5}
+        - {x: 6.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3b95d9a2a141e88a3125f13b26e114
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 13, y: 21}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_51
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 141
+        width: 14
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -10.5}
+        - {x: -7, y: 10.5}
+        - {x: 7, y: 10.5}
+        - {x: 7, y: -10.5}
+      physicsShape:
+      - - {x: -7, y: 10.5}
+        - {x: -7, y: -10.5}
+        - {x: 6, y: -10.5}
+        - {x: 7, y: -8.5}
+        - {x: 7, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8380779168394c2987ef49d79026b2ab
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 14, y: 21}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_50
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 141
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -10.5}
+        - {x: -6.5, y: 10.5}
+        - {x: 6.5, y: 10.5}
+        - {x: 6.5, y: -10.5}
+      physicsShape:
+      - - {x: -6.5, y: 10.5}
+        - {x: -6.5, y: -10.5}
+        - {x: 3.5, y: -10.5}
+        - {x: 6.5, y: -2.5}
+        - {x: 6.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4b78432661450cb5f9e1518b2859c7
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 13, y: 21}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 141
+        width: 10
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -10.5}
+        - {x: -5, y: 10.5}
+        - {x: 5, y: 10.5}
+        - {x: 5, y: -10.5}
+      physicsShape:
+      - - {x: -5, y: 10.5}
+        - {x: -5, y: -8.5}
+        - {x: -3, y: -10.5}
+        - {x: 5, y: -10.5}
+        - {x: 5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a3aadfd47543a4a2def44f0d862a7a
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 10, y: 21}
+      - {x: 0, y: 0}
+      - {x: 10, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 141
+        width: 14
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -10.5}
+        - {x: -7, y: 10.5}
+        - {x: 7, y: 10.5}
+        - {x: 7, y: -10.5}
+      physicsShape:
+      - - {x: -7, y: 10.5}
+        - {x: -7, y: -10.5}
+        - {x: 7, y: -10.5}
+        - {x: 7, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7979d761a14758902b06df1d45853d
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 14, y: 21}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_59
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 118
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -10.5}
+        - {x: -6.5, y: 10.5}
+        - {x: 6.5, y: 10.5}
+        - {x: 6.5, y: -10.5}
+      physicsShape:
+      - - {x: -4.5, y: 10.5}
+        - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -8.5}
+        - {x: -4.5, y: -10.5}
+        - {x: 4.5, y: -10.5}
+        - {x: 6.5, y: -8.5}
+        - {x: 6.5, y: 7.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b96377e86a04bd5a54bcd61dc4e4f04
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 13, y: 21}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_47
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 141
+        width: 15
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -10.5}
+        - {x: -7.5, y: 10.5}
+        - {x: 7.5, y: 10.5}
+        - {x: 7.5, y: -10.5}
+      physicsShape:
+      - - {x: -4.5, y: 10.5}
+        - {x: -7.5, y: 5.5}
+        - {x: -7.5, y: -7.5}
+        - {x: -3.5, y: -10.5}
+        - {x: 6.5, y: -10.5}
+        - {x: 7.5, y: -9.5}
+        - {x: 7.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120e1f4c627e46f9870ebced84801dfd
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 15, y: 21}
+      - {x: 0, y: 0}
+      - {x: 15, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 118
+        width: 14
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -10.5}
+        - {x: -7, y: 10.5}
+        - {x: 7, y: 10.5}
+        - {x: 7, y: -10.5}
+      physicsShape:
+      - - {x: -7, y: 10.5}
+        - {x: -7, y: -10.5}
+        - {x: 2, y: -10.5}
+        - {x: 7, y: -1.5}
+        - {x: 7, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250961cef84b4211812e4786f3d07a62
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 14, y: 21}
+      - {x: 0, y: 0}
+      - {x: 14, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_48
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 141
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -10.5}
+        - {x: -6.5, y: 10.5}
+        - {x: 6.5, y: 10.5}
+        - {x: 6.5, y: -10.5}
+      physicsShape:
+      - - {x: -6.5, y: 10.5}
+        - {x: -6.5, y: -10.5}
+        - {x: 6.5, y: -10.5}
+        - {x: 6.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6785670af46e4001b800437a11fe0f23
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 13, y: 21}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFont_Atlas_02_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 141
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -10.5}
+        - {x: -6.5, y: 10.5}
+        - {x: 6.5, y: 10.5}
+        - {x: 6.5, y: -10.5}
+      physicsShape:
+      - - {x: -5.5, y: 10.5}
+        - {x: -6.5, y: 9.5}
+        - {x: -6.5, y: -10.5}
+        - {x: 6.5, y: -10.5}
+        - {x: 6.5, y: 9.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e030344ade624d75a7c6eaa352d882ee
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 21}
+      - {x: 13, y: 21}
+      - {x: 0, y: 0}
+      - {x: 13, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DamageFont_Atlas_02_43: 21300016
+      DamageFont_Atlas_02_44: 21300026
+      DamageFont_Atlas_02_45: 21300038
+      DamageFont_Atlas_02_46: 21300010
+      DamageFont_Atlas_02_47: 21300032
+      DamageFont_Atlas_02_48: 21300036
+      DamageFont_Atlas_02_49: 21300006
+      DamageFont_Atlas_02_50: 21300024
+      DamageFont_Atlas_02_51: 21300022
+      DamageFont_Atlas_02_52: 21300028
+      DamageFont_Atlas_02_53: 21300018
+      DamageFont_Atlas_02_54: 21300000
+      DamageFont_Atlas_02_55: 21300008
+      DamageFont_Atlas_02_56: 21300014
+      DamageFont_Atlas_02_57: 21300012
+      DamageFont_Atlas_02_58: 21300020
+      DamageFont_Atlas_02_59: 21300030
+      DamageFont_Atlas_02_60: 21300034
+      DamageFont_Atlas_02_61: 21300002
+      DamageFont_Atlas_02_62: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -8,7 +8,7 @@ using UnityEngine;
 public class Tile : ScriptableObject
 {
         [Serializable]public enum Type
-    {
+        {
         //Sideroad
         Vampiermansion,
         RoadLantern,
@@ -21,6 +21,7 @@ public class Tile : ScriptableObject
         Ruins,
         Swamp,
         Village,
+        Campfire,
         //Landscape
         Rock,
         Mountain,
@@ -58,9 +59,10 @@ public class Tile : ScriptableObject
     public Effect effect;
     public Sprite sprite;
     public Sprite spritePreview;
-    public string nameMob;
+    public Sprite mobSprite;
+    public string mobName;
     public float chanceToSpawn;
-    public float dayNeedToSpawn;
+    public int dayNeedToSpawn;
     public string cellDescription;
     public string cellEffectDescription;
 
@@ -74,12 +76,27 @@ public class Tile : ScriptableObject
         this.effect = type.effect;
         this.sprite = type.sprite;
         this.spritePreview = type.spritePreview;
-        this.nameMob = type.nameMob;
+        this.mobSprite = type.mobSprite;
+        this.mobName = type.mobName;
         this.chanceToSpawn = type.chanceToSpawn;
         this.dayNeedToSpawn = type.dayNeedToSpawn;
         this.cellDescription = type.cellDescription;
         this.cellEffectDescription = type.cellEffectDescription;
         
+    }    
+    public void SetTile(Tile type)
+    {
+        this.type = type.type;
+        this.placement = type.placement;
+        this.effect = type.effect;
+        this.sprite = type.sprite;
+        this.spritePreview = type.spritePreview;
+        this.mobSprite = type.mobSprite;
+        this.mobName = type.mobName;
+        this.chanceToSpawn = type.chanceToSpawn;
+        this.dayNeedToSpawn = type.dayNeedToSpawn;
+        this.cellDescription = type.cellDescription;
+        this.cellEffectDescription = type.cellEffectDescription;
     }
     public Tile()
     {
@@ -88,11 +105,15 @@ public class Tile : ScriptableObject
         this.effect = Effect.None;
         this.sprite = null;
         this.spritePreview = null;
-        this.nameMob = "";
+        this.mobSprite = null;
         this.chanceToSpawn = 0;
         this.dayNeedToSpawn = 0;
         this.cellDescription = "";
         this.cellEffectDescription = "";
+    }
+    public void SetSideRoad()
+    {
+        this.placement = Placement.Sideroad;    
     }
 
 }
