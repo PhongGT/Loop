@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
-using TMPro.EditorUtilities;
-using Unity.VisualScripting;
+using ScripableObj.Tile;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using TMPro;
@@ -36,27 +35,34 @@ public class PlaceCardOnMap : Basic_Drag_Drop
         if (ray.collider != null)
         {
             target = ray.collider.gameObject;
-            Debug.Log(target.name);
             cardUI.SetActive(false);
             //Set preview card
-            //cardUI.SetActive(false);
-        }
-        else
-        {
             
         }
-           
-        
+
+
     }
     public override void OnEndDrag (PointerEventData eventData)
     {
-        base.OnEndDrag(eventData);
-        if( target!= null)
+
+        if (target != null)
         {
-            target.GetComponent<Cell>().SetTile(currentTile);
-            this.gameObject.SetActive(false);
-            return;
+            Cell cellTarget = target.GetComponent<Cell>();
+            if (cellTarget.currentTile.IsValid(currentTile))
+            {
+                this.gameObject.SetActive(false);
+                cellTarget.UpdateCell(currentTile);
+            }
+
         }
+        else
+            {
+                cardUI.SetActive(true);
+                target = null;
+                
+            }
+        
+        base.OnEndDrag(eventData);
     }
 
     public void SetCard(Tile tile)

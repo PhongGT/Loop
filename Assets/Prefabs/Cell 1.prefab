@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4182824239089530514}
   - component: {fileID: 3395251697435510315}
   - component: {fileID: -4236023085789255738}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cell 1
   m_TagString: Road
   m_Icon: {fileID: 0}
@@ -99,11 +99,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentTile: {fileID: 0}
-  defaultTile: {fileID: 0}
+  defaultTile: {fileID: 11400000, guid: bf86c756b6057bb44801821c24249a7c, type: 2}
   roadDefault: {fileID: 0}
   effectedBy: []
   effecting: []
-  mob: []
+  mobObject: []
   mobPrefab: {fileID: 7857295769691661420, guid: 90a9ee5ee9cddac4d949f60896e62753, type: 3}
   mobList: []
   spriteRenderer: {fileID: 0}
@@ -136,7 +136,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}

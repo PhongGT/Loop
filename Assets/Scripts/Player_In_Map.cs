@@ -19,7 +19,7 @@ public class Player_In_Map : MonoBehaviour
     }
     private void OnEnable()
     {
-        gameObject.transform.position = Map.instance.roadCells[roadIndex].transform.position;
+        gameObject.transform.position = Map.Instance.roadCells[roadIndex].transform.position;
 
     }
     private void OnDisable()
@@ -36,11 +36,11 @@ public class Player_In_Map : MonoBehaviour
     {
        
         if (playerState == PlayerState.Move)
-            gameObject.transform.position = Vector3.MoveTowards(gameObject.transform.position, Map.instance.roadCells[roadIndex +1].transform.position, 0.02f);
-        if (gameObject.transform.position == Map.instance.roadCells[roadIndex + 1].transform.position)
+            gameObject.transform.position = Vector3.MoveTowards(gameObject.transform.position, Map.Instance.roadCells[roadIndex +1].transform.position, 0.02f);
+        if (gameObject.transform.position == Map.Instance.roadCells[roadIndex + 1].transform.position)
         {
             roadIndex++;
-            if (roadIndex == Map.instance.roadCells.Count-1)
+            if (roadIndex == Map.Instance.roadCells.Count-1)
             {
                 roadIndex = 0;
             }

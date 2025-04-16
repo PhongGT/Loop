@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using ScripableObj.Tile;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
@@ -7,11 +8,11 @@ using UnityEngine.UI;
 public class CardParentManager : MonoBehaviour
 {
     [SerializeField] PlaceCardOnMap[] cards;
-    HorizontalLayoutGroup horizontal;
+    private GridLayoutGroup _gridLayoutGroup;
     CardParentManager Instant;
     private void Awake()
     {
-        horizontal = GetComponent<HorizontalLayoutGroup>();
+        _gridLayoutGroup = GetComponent<GridLayoutGroup>();
 
         cards = FindObjectsOfType<PlaceCardOnMap>(true);
   
@@ -28,7 +29,7 @@ public class CardParentManager : MonoBehaviour
     }
     void Start()
     {
-        horizontal.enabled = true;
+        
 
 
     }

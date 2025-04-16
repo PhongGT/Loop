@@ -1,28 +1,28 @@
-using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
-using UnityEditor.Tilemaps;
 using UnityEngine;
-using UnityEngine.Tilemaps;
+using UnityEngine.Serialization;
+
+using Tile = ScripableObj.Tile.Tile;
 
 public class Map : MonoBehaviour
-{
-        public GameObject Empty;
-        public GameObject Road;
+{ 
+    public GameObject empty;
+    public GameObject road;
 
-    public static Map instance;
+    public static Map Instance;
 
-    public Cell[,] cells;
+    public Cell[,] Cells;
     public List<GameObject> roadCells;
     public List<Cell> sideRoadCells;
     public Cell campFire;
-    public float Scalesize = 1.5f;
+    [FormerlySerializedAs("Scalesize")] 
+    public float scalesize = 1.5f;
     public GameObject playerInMap;
     private void Awake()
     {
-        if(instance == null)
+        if(Instance == null)
         {
-            instance = this;
+            Instance = this;
         }
         else
         {
@@ -33,7 +33,7 @@ public class Map : MonoBehaviour
     }
     private void Start()
     {
-        cells = new Cell[17, 12];
+        Cells = new Cell[17, 12];
     }
     public void Draw(Tile[,] state)
     {
@@ -57,7 +57,7 @@ public class Map : MonoBehaviour
     public void Draw(Tile tile)
     {
         GameObject draw = GetTile(tile);
-        Vector3 place = this.transform.position + tile.position * Scalesize;
+        Vector3 place = this.transform.position + tile.position * scalesize;
         if(draw !=null)
         {
             GameObject newObj = Instantiate(draw, place, transform.rotation , this.transform);
@@ -76,7 +76,7 @@ public class Map : MonoBehaviour
                 roadCells.Add(newObj);
 
             }
-            cells[(int)tile.position.x, (int)tile.position.y] = cell;
+            Cells[(int)tile.position.x, (int)tile.position.y] = cell;
              
         }
     }
@@ -84,24 +84,24 @@ public class Map : MonoBehaviour
     {
         switch (cell.type)
         {
-            case Tile.Type.Empty: return Empty;
-            case Tile.Type.Road: return Road;
-            case Tile.Type.Campfire: return Road;
+            case Tile.Type.Empty: return empty;
+            case Tile.Type.Road: return road;
+            case Tile.Type.Campfire: return road;
             default: return null;
         }
     }
     public Cell ReturnCell(int width, int height)
     {
        
-        return cells[width, height] ;
+        return Cells[width, height] ;
     }
 
     public void LoadSideRoad(int width, int height)
     {
-        Cell cell = cells[width, height];
+        Cell cell = Cells[width, height];
         sideRoadCells.Add(cell);
         cell.defaultTile.SetSideRoad();
-        cell.LoadCell();
+        cell.UpdateCell();
 
     }
 

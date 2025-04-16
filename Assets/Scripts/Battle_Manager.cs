@@ -16,7 +16,7 @@ public class BattleManager : MonoBehaviour
 
     [SerializeField] protected GameObject player_allys_Parent;
     [SerializeField] protected GameObject enemys_Parent;
-    public float dayTime = 10f;
+    public float dayTime = 7f;
     public int loopCount = 1;
     public int dayCount = 1;
     public int healthPotionCount = 2;
@@ -43,7 +43,7 @@ public class BattleManager : MonoBehaviour
     {
 
         Actions.StartTimer += () => timerStatState = true;
-        LoadNewCharacter(player_allys_Load[2], player);
+        LoadNewCharacter(player_allys_Load[0], player);
         Actions.StartBattle += StartBattle;
         Actions.EndBattle += () => battlePanel.SetActive(false);
         //StartBattle();

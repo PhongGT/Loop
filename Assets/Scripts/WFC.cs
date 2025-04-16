@@ -1,14 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using BrewedInk.WFC;
 using System;
 using Random = UnityEngine.Random;
-using static UnityEngine.EventSystems.EventTrigger;
-using UnityEditor.U2D.Animation;
-using System.Linq;
-using Unity.VisualScripting;
-using Newtonsoft.Json;
+using ScripableObj.Tile;
+
 [System.Serializable]
 public class WFC : MonoBehaviour
 {
@@ -21,14 +17,14 @@ public class WFC : MonoBehaviour
     [SerializeField] protected Tile empty;
     [SerializeField] protected Tile campfire;
     public bool[,] visited;
-    public Slot slot;
+
     int width = 17;
     int height = 12;
     public Tile[,] tiles;
     
     private void Awake()
     {
-        transform.position =  R_Helper.PositionBottomLeftCamera();
+        
     }
     void Start()
     {
@@ -192,16 +188,16 @@ public class WFC : MonoBehaviour
             if(isFirst)
             {
                 cell.SetTile(campfire);
-                Map.instance.Draw(cell);
+                Map.Instance.Draw(cell);
                 isFirst = false;
                 continue;
             }
-            Map.instance.Draw(cell);
+            Map.Instance.Draw(cell);
             yield return new WaitForSeconds(0.2f);
         }
         
         Actions.StartTimer?.Invoke();
-        Map.instance.playerInMap.SetActive(true);
+        Map.Instance.playerInMap.SetActive(true);
     }
     public void NewMap()
     {
@@ -215,11 +211,11 @@ public class WFC : MonoBehaviour
         StartCoroutine(CellularAutomata(4));
         StartCoroutine(CellularAutomata(3));
         StartCoroutine(CellularAutomata((float)8));
-        Map.instance.Draw(tiles);
+        Map.Instance.Draw(tiles);
         StartCoroutine(Road());
         foreach (SideRoad sideRoad in sideRoads)
         {
-            Map.instance.LoadSideRoad(sideRoad.x, sideRoad.y);
+            Map.Instance.LoadSideRoad(sideRoad.x, sideRoad.y);
         }
 
 
