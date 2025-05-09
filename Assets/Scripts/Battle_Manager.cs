@@ -8,24 +8,19 @@ public class BattleManager : MonoBehaviour
 {
     [SerializeField] public List<Character> enemys;
     [SerializeField] public List<Character> player_allys;
-    [SerializeField] protected List<LoadCharacter> player_allys_Load;
-    [SerializeField] protected List<LoadCharacter> enemys_Load;
 
-    [SerializeField] protected GameObject playerPrefabs;
-    public GameObject battlePanel;
-
-    [SerializeField] protected GameObject player_allys_Parent;
-    [SerializeField] protected GameObject enemys_Parent;
-    public float dayTime = 7f;
+    
+    
+    //[SerializeField] protected GameObject player_allys_Parent;
+    //[SerializeField] protected GameObject enemys_Parent;
+    public float dayTime = 6f;
     public int loopCount = 1;
     public int dayCount = 1;
     public int healthPotionCount = 2;
     protected bool timerStatState = false;
-    public Player player;
-    public Ghoul ghoul; 
     public bool startBattle = false;
-
-
+    public GameObject battlePanel;
+    public Player player;
     public static BattleManager instance;
     private void Awake()
     {
@@ -43,9 +38,9 @@ public class BattleManager : MonoBehaviour
     {
 
         Actions.StartTimer += () => timerStatState = true;
-        LoadNewCharacter(player_allys_Load[0], player);
         Actions.StartBattle += StartBattle;
-        Actions.EndBattle += () => battlePanel.SetActive(false);
+        Actions.EndBattle  += EndBattle;
+        battlePanel.SetActive(false);
         //StartBattle();
     }
 
@@ -65,91 +60,59 @@ public class BattleManager : MonoBehaviour
         }
         
     }
-    // Input Enemy List
+   
     public void StartBattle()
     {
-        LoadTarget();
         startBattle = true;
-    }
 
+    }
+    // Input Enemy String List to Load
     public void PreperBattle( List<String> enemys)
     {
         battlePanel.SetActive(true);
-        foreach (var Char in enemys)
+        for (int i = 0; i < enemys.Count; i++)
         {
-            LoadCharacter l = returnInactiveSlot(enemys_Load);
-            if (l != null)
-            {
-                LoadNewCharacter(l, ReturnLoadChar(Char));
-            }
+            print(enemys[i]);
+            Spawner.instance.SpawnCharacter(enemys[i] , false ,loopCount);
         }
+        
 
     }
-    public void LoadNewCharacter(LoadCharacter loadSlot, Character character)
-    {
-        Character Char = character;
-        Char.Init();
-        loadSlot.Load(Char);
-        //loadSlot.gameObject.SetActive(true);
-    }
-    public void LoadTarget(bool isPlayer)
+
+
+    // Load Character when Battle Start
+    public void LoadTarget(bool isPlayer, Character character)
     {
         if(isPlayer)
         {
-            player_allys.Clear();
-            foreach (var load in player_allys_Load)
-            {
-                if (load.isLoaded)
-                {
-                    player_allys.Add(load.ReturnCharacter);
-                }
-            }
+            player_allys.Add(character);
+            player = character as Player;
         }
         else
         {
-            enemys.Clear();
-            foreach (var load in enemys_Load)
-            {
-                if (load.isLoaded)
-                {
-                    enemys.Add(load.ReturnCharacter);
-                }
-                
-            }
+            enemys.Add(character);
         }
-    }    
-    public void LoadTarget()
+    }
+
+    // Update Target when Character Dead
+    public void UpdateTarget(bool isPlayer)
     {
-
-            player_allys.Clear();
-            foreach (var load in player_allys_Load)
-            {
-                if (load.isLoaded)
-                {
-                    Character player = load.ReturnCharacter;
-                    player.canAttack = true;
-                    player_allys.Add(player);
-            }
-                
-
-            }
-
-            enemys.Clear();
-            foreach (var load in enemys_Load)
-            {
-                if (load.isLoaded)
-                {
-                Character enemy = load.ReturnCharacter;
-                enemy.canAttack = true;
-                enemys.Add(enemy);
-                }
-                
-            }
+        if (isPlayer)
+        {
+            enemys.RemoveAll(x => x.isDead);
+        }
+        else
+        {
+            player_allys.RemoveAll(x => x.isDead);
+        }
         
+        
+
+
     }    
 
     
-
+    // Return Character alive
     public Character ReturnCharacter(bool isPlayer)
     {
         int index;
@@ -159,7 +122,7 @@ public class BattleManager : MonoBehaviour
             {
                 return player_allys[0];
             }
-            index = UnityEngine.Random.Range(0, player_allys_Load.Count);
+            index = UnityEngine.Random.Range(0, player_allys.Count);
             return player_allys[index];
         }
         else
@@ -168,62 +131,22 @@ public class BattleManager : MonoBehaviour
             {
                 return enemys[0];
             }
-            index = UnityEngine.Random.Range(0, enemys_Load.Count);
+            index = UnityEngine.Random.Range(0, enemys.Count);
             return enemys[index];
         }
     }
-    protected Character ReturnLoadChar(string name)
-    {
-        switch (name)
-        {
-            case "Player":
-                return player;
-            case "Ghoul":
-                return ghoul;
-            case "Skeleton":
-                return null;
-            case "Slime":
-                return ghoul;
-            default:
-                return null;
-        }
-    }    
+  
 
     public bool CheckBattle()
     {
-        if ( enemys.Count == 0)
-        {
-            return false;
-        }
         return true;
     }
     public void EndBattle()
     {
-        startBattle = false;
-        foreach (var load in enemys_Load)
-        {
-            if (load.isLoaded)
-            {
-                load.isLoaded = false;
-                
-            }
-        }
-        Actions.EndBattle?.Invoke();
+       
+        battlePanel.SetActive(false);
+
     }
-    LoadCharacter returnInactiveSlot(List<LoadCharacter> characters)
-    {
-        foreach (var character in characters)
-        {
-            if (!character.isLoaded)
-            {
-                return character;
-            }
-        }
-        return null;
-    }
-    IEnumerator Wait(float time)
-    {
-        yield return new WaitForSeconds(time);
-    }
+
 
 }

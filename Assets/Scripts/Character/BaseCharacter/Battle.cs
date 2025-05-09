@@ -7,60 +7,117 @@ public class Battle : MonoBehaviour
 {
     public Character currentChar;
     public LoadCharacter loadCharacter;
+    public HealthBar healthBar;
+
+
+    [Header("Trigger")]
+    
+    public bool canAttack;
+    public bool triggerSkill;
+
+    public Animator animator;
     private void Start()
     {
         loadCharacter = GetComponentInParent<LoadCharacter>();
+        healthBar = GetComponent<HealthBar>();
+        animator = GetComponent<Animator>();
+        
+        if (healthBar != null)
+        {
+            healthBar.SpawnHealthBar();
+            healthBar.healthBar.gameObject.SetActive(true);
+        }
+        else
+        {
+            Debug.LogError("Health bar not found");
+        }
+
     }
 
     void Update()
     {
-        if (BattleManager.instance.startBattle && !Dead())
+        healthBar.UpdateHealthBar(currentChar.health, currentChar.maxHealth);
+
+        if (BattleManager.instance.startBattle && currentChar.isDead)
         {
             Attack();
+
+        }
+        if(currentChar.isDead)
+        {
+            Dead();
         }
     }
     public void Attack()
     {
-        if (!currentChar.canAttack)
+        if (!canAttack)
             return;
         currentChar.CastSkill(BattleManager.instance.ReturnCharacter(this.currentChar.isPlayer));
         if(BattleManager.instance.CheckBattle())
         {
-            StartCoroutine(currentChar.WaitToAttack());
+            StartCoroutine(WaitToAttack());
         }
         
         Debug.Log("In Attack");
 
     }
-    public void LoadHealth()
+    protected void SetTrigger(string name)
     {
-        
+        if (animator != null)
+        {
+            animator.SetTrigger(name);
+        }
+        else
+        {
+            Debug.LogError("Animator not found");
+        }
+    }
+    protected void ResetTrigger(string name)
+    {
+        if (animator != null)
+        {
+            animator.ResetTrigger(name);
+        }
+        else
+        {
+            Debug.LogError("Animator not found");
+        }
     }
 
-    public bool  Dead()
+    protected void  Dead()
     {
         if (currentChar.isDead)
         {
             if(currentChar.isPlayer)
             {
                 //Gameover
-                return true;
+                return;
             }
-            currentChar.canAttack = false;
-            loadCharacter.isLoaded = false;
-            this.gameObject.SetActive(false);
-            BattleManager.instance.LoadTarget(this.currentChar.isPlayer);
+            canAttack = false;
+            loadCharacter.Clear();
+            
+            BattleManager.instance.UpdateTarget(this.currentChar.isPlayer);
 
-            if(!BattleManager.instance.CheckBattle())
+            Drop_Manager.instance.DropOnEnemyDead();
+
+            if (!BattleManager.instance.CheckBattle())
             {
                 BattleManager.instance.EndBattle(); 
-                Destroy(this.gameObject, 2f);
+                Destroy(this.gameObject);
             }
-            return true;
+            
         }
-        return false;
+        
         
 
+    }
+    public IEnumerator WaitToAttack()
+    {
+        canAttack = false;
+        yield return null;
+        //animator.ResetTrigger("Attack");
+        yield return new WaitForSeconds(1 / currentChar.attackSpeed);
+        canAttack = true;
     }
 
 

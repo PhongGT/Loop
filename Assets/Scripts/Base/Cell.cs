@@ -68,7 +68,7 @@ public class Cell : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     public void SetTile(Tile tile)
     {
 
-        if(tile.chanceToSpawn != 0 && currentTile.chanceToSpawn == 0)
+        if(tile.chanceToSpawn != 0 )
         {
             Actions.SpawnMob += SpawnMob;
         }

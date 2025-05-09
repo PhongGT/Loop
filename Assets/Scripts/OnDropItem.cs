@@ -28,16 +28,18 @@ public class OnDropItem : MonoBehaviour, IDropHandler
     {
         if( eventData.pointerDrag != null) 
         {
-            Item item = eventData.pointerDrag.GetComponent<ItemUI>().item;
-            if(item.baseItem.itemName.ToString() == itemType.ToString())
+            ItemUI itemUI = eventData.pointerDrag.GetComponent<ItemUI>();
+            Item item = itemUI.curItem; 
+            if (item.baseItem.itemName.ToString() == itemType.ToString())
             {
-                Debug.Log("a");
                 BattleManager.instance.player.EquipItem(item, itemEqiuped, itemType.ToString());
                 itemEqiuped = item;
                 image.sprite = item.GetSprite();
                 Color color = image.color;
                 color.a = 1f;
                 image.color = color;
+                itemUI.DeleteItem();
+
             }
             
 

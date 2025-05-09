@@ -79,7 +79,6 @@ public class Item
         statBaseNames = new List<string> { "Damage", "Health", "PureDamage", "Magic", "Shield"};
         subStatBaseNames = new List<string> { "AttackSpeed", "Vamprirism", "CritChance", "CritDamage", "Counter", "Evasion", "HealthRegen" };
         List<string> subStatBaseNames1 = new List<string> { "AttackSpeed", "Vamprirism", "CritChance", "CritDamage", "Counter", "Evasion", "HealthRegen" };
-        itemRarity = Random.Range(1, 4);
         mainStat = GetStat(Level, baseItem.itemName.ToString());
         for (int i = 0; i < itemRarity; i++)
         {

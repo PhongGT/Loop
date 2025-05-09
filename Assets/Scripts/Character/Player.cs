@@ -7,8 +7,8 @@ public class Player : Character , I_CastSkill
 {
     bool SunBlazeBladeLearn = false;
     int potionCount = 3;
-   
 
+    public Player(BaseStats data) : base(data) { }
 
 
     public override void CastSkill(Character target)

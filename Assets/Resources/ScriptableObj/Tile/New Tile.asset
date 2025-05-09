@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: New Tile
   m_EditorClassIdentifier: 
   position: {x: 0, y: 0, z: 0}
-  type: 21
-  placement: 3
+  type: 11
+  placement: 2
   effect: 0
-  sprite: {fileID: 0}
+  sprite: {fileID: 1881151095, guid: 6ffad07b461c82246bc63ccca8090fb8, type: 3}
   spritePreview: {fileID: 0}
   mobSprite: {fileID: 0}
+  mobName: 
   chanceToSpawn: 0
   dayNeedToSpawn: 0
   cellDescription: 

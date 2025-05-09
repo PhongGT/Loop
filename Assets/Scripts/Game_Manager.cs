@@ -6,6 +6,7 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
 
+    public bool isPause;
     [Header("Resource")]
     public int gold;
 
@@ -35,6 +36,15 @@ public class GameManager : MonoBehaviour
     {
         // Show Game Over Screen
         Debug.Log("Game Over");
+    }
+
+    public void ResetSceen()
+    {
+
+    }
+    public void UpgradeScene()
+    {
+
     }
 
 }

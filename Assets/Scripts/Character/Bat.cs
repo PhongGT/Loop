@@ -5,10 +5,10 @@ using UnityEngine;
 
 [System.Serializable]
 
-public class Ghoul : Enemy, I_CastSkill
+public class Bat : Enemy, I_CastSkill
 {
-    
 
+    public Bat(BaseStats data) : base(data) { }
 
     public override void CastSkill(Character target)
     {

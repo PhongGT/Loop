@@ -9,8 +9,9 @@ public class Character
 {
     [Header("Stats")]
     public BaseStats baseStats;
-    [SerializeField] protected float health;
-    protected float shield;
+
+    [SerializeField] public float health;
+    public float shield;
     public float maxHealth;
     public int healthRegen; //% health regen per Day;
     public float damage;
@@ -30,16 +31,15 @@ public class Character
     public bool isPlayer;
 
     [Header("Trigger")]
-    public bool canAttack = false;
-    
-    public Animator animator;
+
     public bool isDead;
 
-    public void Load(BaseStats baseStats)
+    public Character (BaseStats Stats)
     {
-        this.baseStats = baseStats;
+        this.baseStats = Stats;
+        Init();
     }
-    public void Init()
+    public virtual void Init()
     {
         this.health = baseStats.maxHealth;
         this.shield = baseStats.baseShield;
@@ -163,6 +163,7 @@ public class Character
             else
             {
                 isDead = true;
+                
             }
         }
 
@@ -173,12 +174,5 @@ public class Character
         Debug.Log(this.baseStats.nameChar + " Attack v    " + target.baseStats.nameChar);
 
     }
-    public IEnumerator WaitToAttack()
-    {
-        canAttack = false;
-        yield return null;
-        //animator.ResetTrigger("Attack");
-        yield return new WaitForSeconds(1/attackSpeed);
-        canAttack = true;
-    }
+
 }

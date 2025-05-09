@@ -22,9 +22,16 @@ public class Drop_Manager : MonoBehaviour
         }
 
     }
-    
+    public enum itemRarity
+    {
+        Common,
+        Rare,
+        Epic,
+        Legendary,
+    }
 
-    public void Start()
+
+    private void Start()
     {
         listCardTiles = Resources.LoadAll<Tile>("ScriptableObj/Tile");
         listItems = Resources.LoadAll<BaseItem>("ScriptableObj/Item");
@@ -42,16 +49,37 @@ public class Drop_Manager : MonoBehaviour
         return listCardTiles[index];
     }
 
-    public void DropOnEnemyDead(int ChanceToDropItem)
+    private int ItemRarity()
     {
-        if(R_Helper.CheckRandom(ChanceToDropItem))
+        int index = Random.Range(0, 100);
+        if (index < 50)
         {
-              UI_Manager.instance.AddItemToBag(Drop_Item());
+            return (int)itemRarity.Common;
+        }
+        else if (index < 75)
+        {
+            return (int)itemRarity.Rare;
+        }
+        else if (index < 90)
+        {
+            return (int)itemRarity.Epic;
         }
         else
         {
-            UI_Manager.instance.AddCard(Drop_Tile());
+            return (int)itemRarity.Legendary;
         }
+    }
+    [ContextMenu("Increase Fun Level")]
+    public void DropOnEnemyDead()
+    {
+        //if(R_Helper.CheckRandom(ChanceToDropItem))
+        //{
+              UI_Manager.instance.AddItemToBag(Drop_Item(), ItemRarity());
+        //}
+        //else
+        //{
+        //    UI_Manager.instance.AddCard(Drop_Tile());
+        //}
 
     }
 }

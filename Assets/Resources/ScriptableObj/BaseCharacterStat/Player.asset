@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6677a9c4c20975e498a95d53051166b4, type: 3}
   m_Name: Player
   m_EditorClassIdentifier: 
-  nameChar: Shelda
+  nameChar: Player
   charPrefab: {fileID: 1544449467795171, guid: accbb2ce2da1bfc4182a9906e81097b0, type: 3}
   maxHealth: 100
   healthRegen: 0
@@ -27,3 +27,4 @@ MonoBehaviour:
   critChance: 0
   critDamage: 0
   pureDamage: 0
+  changeToDropItem: 0

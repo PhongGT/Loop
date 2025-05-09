@@ -102,12 +102,12 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 2
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -126,10 +126,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -778,10 +778,10 @@ TextureImporter:
       name: Unit_10000_2
       rect:
         serializedVersion: 2
-        x: 232.02675
-        y: 308.0761
-        width: 62.89713
-        height: 61.876175
+        x: 232
+        y: 308
+        width: 63
+        height: 62
       alignment: 9
       pivot: {x: 0.28575632, y: 0.09573781}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -835,10 +835,10 @@ TextureImporter:
       name: Unit_10000_11
       rect:
         serializedVersion: 2
-        x: 133.07613
-        y: 108.07612
-        width: 38.84776
-        height: 74.84776
+        x: 133
+        y: 109
+        width: 39
+        height: 75
       alignment: 9
       pivot: {x: 0.4356461, y: 0.07914574}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -949,7 +949,7 @@ TextureImporter:
         width: 66.880974
         height: 80.84776
       alignment: 9
-      pivot: {x: 0.25354135, y: 0.048534106}
+      pivot: {x: 0.3166965, y: 0.048533916}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -22.483395, y: -18.500008}
@@ -1003,10 +1003,10 @@ TextureImporter:
       name: Unit_10000_9
       rect:
         serializedVersion: 2
-        x: 428.0429
-        y: 210.07613
-        width: 41.914185
-        height: 73.84776
+        x: 428
+        y: 211
+        width: 42
+        height: 74
       alignment: 9
       pivot: {x: 0.52385825, y: 0.053134635}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1054,10 +1054,10 @@ TextureImporter:
       name: Unit_10000_8
       rect:
         serializedVersion: 2
-        x: 328.0429
-        y: 207.07613
-        width: 44.880974
-        height: 82.84776
+        x: 328
+        y: 208
+        width: 45
+        height: 83
       alignment: 9
       pivot: {x: 0.4892294, y: 0.08357345}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1110,10 +1110,10 @@ TextureImporter:
       name: Unit_10000_5
       rect:
         serializedVersion: 2
-        x: 29.042908
-        y: 210.07613
-        width: 39.880974
-        height: 75.84776
+        x: 29
+        y: 210
+        width: 40
+        height: 76
       alignment: 9
       pivot: {x: 0.525491, y: 0.05173355}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1171,10 +1171,10 @@ TextureImporter:
       name: Unit_10000_10
       rect:
         serializedVersion: 2
-        x: 31.07612
-        y: 108.07612
-        width: 40.847763
-        height: 73.84776
+        x: 31
+        y: 108
+        width: 41
+        height: 74
       alignment: 9
       pivot: {x: 0.46327823, y: 0.08021748}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1227,7 +1227,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 43fb7c49425f53c4f9e39fbe47683690
     internalID: 0
     vertices: []
     indices: 

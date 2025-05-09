@@ -8,24 +8,19 @@ public class ItemUI : MonoBehaviour
     [SerializeField] protected Image imageS_B_S;
     [SerializeField] protected Image imageB_A;
 
-    public Item item;
-    public Item item1;
+    public Item curItem;
+    
 
+    public bool hasItem;
     private void Awake()
     {
         imageS_B_S = transform.GetChild(0).GetComponent<Image>();
         imageB_A = transform.GetChild(1).GetComponent<Image>();
-        if(item1.baseItem != null)
-        {
-            item = item1;
-            item.itemRarity = 2;
-            item.GenStat(1);
-            SetItem(item);
-        }
+        hasItem = false;
     }
     public void SetItem(Item item)
     {
-        this.item = item;
+        this.curItem = item;
         if (item.baseItem.itemName == BaseItem.ItemName.Sword || item.baseItem.itemName == BaseItem.ItemName.Staff || item.baseItem.itemName == BaseItem.ItemName.Bow)
         {
             imageS_B_S.sprite = item.GetSprite();
@@ -36,7 +31,8 @@ public class ItemUI : MonoBehaviour
             imageB_A.sprite = item.GetSprite();
             imageB_A.gameObject.SetActive(true);
         }
-            
+        hasItem = true;
+
     }
     public void DeleteItem()
     {

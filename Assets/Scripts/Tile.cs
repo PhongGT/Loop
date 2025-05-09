@@ -60,11 +60,11 @@ namespace ScripableObj.Tile
         public Sprite sprite;
         public Sprite spritePreview;
         public Sprite mobSprite;
-        public string mobName;
+        public String mobName;
         public float chanceToSpawn;
         public int dayNeedToSpawn;
-        public string cellDescription;
-        public string cellEffectDescription;
+        public String cellDescription;
+        public String cellEffectDescription;
 
 
         //Mob can Spawn

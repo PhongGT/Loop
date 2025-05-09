@@ -21,7 +21,7 @@ public class BaseStats : ScriptableObject
     public float critChance ;
     public float critDamage ; // % of damage dealt that is returned as health
     public float pureDamage ;
-
+    public int changeToDropItem;
 
 
 
