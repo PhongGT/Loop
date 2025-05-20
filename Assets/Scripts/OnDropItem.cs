@@ -7,7 +7,6 @@ using UnityEngine.UI;
 
 public class OnDropItem : MonoBehaviour, IDropHandler
 {
-
     public enum ItemType
     {
         Sword,
@@ -39,6 +38,7 @@ public class OnDropItem : MonoBehaviour, IDropHandler
                 color.a = 1f;
                 image.color = color;
                 itemUI.DeleteItem();
+                UI_Manager.instance.UpdatePlayerInfo();
 
             }
             

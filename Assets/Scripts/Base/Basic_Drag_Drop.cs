@@ -22,7 +22,6 @@ public class Basic_Drag_Drop : MonoBehaviour, IPointerDownHandler, IBeginDragHan
     public void OnBeginDrag(PointerEventData eventData)
     {
 
-        Debug.Log("Drag");
     }
 
 
@@ -33,7 +32,6 @@ public class Basic_Drag_Drop : MonoBehaviour, IPointerDownHandler, IBeginDragHan
 
     public virtual void OnEndDrag(PointerEventData eventData)
     {
-        Debug.Log("EndDrag");
         if (target == null)
         {
             m_RectTransform.localPosition = Vector3.zero;
@@ -43,7 +41,7 @@ public class Basic_Drag_Drop : MonoBehaviour, IPointerDownHandler, IBeginDragHan
 
     public void OnPointerDown(PointerEventData eventData)
     {
-        Debug.Log("Click");
+        
     }
 
     // Hover UI

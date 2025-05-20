@@ -17,10 +17,11 @@ public class ItemUI : MonoBehaviour
         imageS_B_S = transform.GetChild(0).GetComponent<Image>();
         imageB_A = transform.GetChild(1).GetComponent<Image>();
         hasItem = false;
+        
     }
     public void SetItem(Item item)
     {
-        this.curItem = item;
+        this.curItem = new Item(item);
         if (item.baseItem.itemName == BaseItem.ItemName.Sword || item.baseItem.itemName == BaseItem.ItemName.Staff || item.baseItem.itemName == BaseItem.ItemName.Bow)
         {
             imageS_B_S.sprite = item.GetSprite();
@@ -38,5 +39,6 @@ public class ItemUI : MonoBehaviour
     {
         imageB_A.gameObject.SetActive(false);
         imageS_B_S.gameObject.SetActive(false);
+        hasItem = false;
     }
 }

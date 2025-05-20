@@ -63,8 +63,8 @@ namespace ScripableObj.Tile
         public String mobName;
         public float chanceToSpawn;
         public int dayNeedToSpawn;
-        public String cellDescription;
-        public String cellEffectDescription;
+        public String tileDescription;
+        public String tileEffectDescription;
 
 
         //Mob can Spawn
@@ -80,8 +80,8 @@ namespace ScripableObj.Tile
             this.mobName = type.mobName;
             this.chanceToSpawn = type.chanceToSpawn;
             this.dayNeedToSpawn = type.dayNeedToSpawn;
-            this.cellDescription = type.cellDescription;
-            this.cellEffectDescription = type.cellEffectDescription;
+            this.tileDescription = type.tileDescription;
+            this.tileEffectDescription = type.tileEffectDescription;
         
         }    
         public void SetTile(Tile tile)
@@ -95,8 +95,8 @@ namespace ScripableObj.Tile
             this.mobName = tile.mobName;
             this.chanceToSpawn = tile.chanceToSpawn;
             this.dayNeedToSpawn = tile.dayNeedToSpawn;
-            this.cellDescription = tile.cellDescription;
-            this.cellEffectDescription = tile.cellEffectDescription;
+            this.tileDescription = tile.tileDescription;
+            this.tileEffectDescription = tile.tileEffectDescription;
         }
         public Tile()
         {
@@ -108,8 +108,8 @@ namespace ScripableObj.Tile
             this.mobSprite = null;
             this.chanceToSpawn = 0;
             this.dayNeedToSpawn = 0;
-            this.cellDescription = "";
-            this.cellEffectDescription = "";
+            this.tileDescription = "";
+            this.tileEffectDescription = "";
         }
         public void SetSideRoad()
         {

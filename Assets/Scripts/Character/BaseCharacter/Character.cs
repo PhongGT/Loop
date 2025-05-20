@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
@@ -174,5 +175,35 @@ public class Character
         Debug.Log(this.baseStats.nameChar + " Attack v    " + target.baseStats.nameChar);
 
     }
+    public string DisplayStats()
+    {
+        string tempString = "";
+        Dictionary<string, float> stats = new Dictionary<string, float> {
+            {"Shield", shield},
+            {"Max Health", maxHealth},
+            {"Health Regen", healthRegen},
+            {"Damage", damage},
+            {"Attack Speed", attackSpeed},
+            {"Evasion", evasion},
+            {"Armor", armor},
+            {"Vampirism", vamprirism},
+            {"Counter Chance", counterChance},
+            {"Crit Chance", critChance},
+            {"Crit Damage", critDamage},
+            {"Pure Damage", pureDamage}
+        };
+
+        foreach (var stat in stats)
+        {
+            if (stat.Value > 0)
+            {
+                tempString += stat.Key + ": " + stat.Value.ToString() + "\n";
+            }
+        }
+
+        return tempString;
+    }
+
+
 
 }

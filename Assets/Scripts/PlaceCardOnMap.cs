@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using TMPro;
 using UnityEngine.UI;
+using static UnityEditor.Progress;
 public class PlaceCardOnMap : Basic_Drag_Drop
 {
    [SerializeField] private Canvas canvas;
@@ -65,9 +66,18 @@ public class PlaceCardOnMap : Basic_Drag_Drop
         base.OnEndDrag(eventData);
     }
 
+    public override void OnPointerEnter(PointerEventData eventData)
+    {
+        base.OnPointerEnter(eventData);
+        UI_Manager.instance.ShowTileInfo(currentTile);
+    }
+    public override void OnPointerExit(PointerEventData eventData)
+    {
+        base.OnPointerExit(eventData);
+        UI_Manager.instance.DisableInfo();
+    }
     public void SetCard(Tile tile)
     {
         currentTile = tile;
     }
-
 }

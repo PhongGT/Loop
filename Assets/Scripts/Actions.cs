@@ -7,11 +7,13 @@ public static class Actions
 {
     public static Action<int> SpawnMob;
 
-    public static Action StartTimer;
+    public static Action StartTimer; //Start Game
 
-    public static Action StartBattle;
+    public static Action StartBattle; // Start Combat with Enemy
 
-    public static Action EndBattle;
+    public static Action EndBattle; // End Combat with Enemy
+
+    public static Action PauseTimer; // Pause Game
 
 
 }

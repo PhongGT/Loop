@@ -7,7 +7,7 @@ public class Item
     public BaseItem baseItem;
     public int itemRarity;
     public StatData mainStat;
-    public List<StatData> subStats;
+    public List<StatData> subStats = new List<StatData>();
     protected List<string> statBaseNames ;
     protected List<string> subStatBaseNames;
 
@@ -89,8 +89,20 @@ public class Item
             subStats.Add(stat);
         }
     }
-    [System.Serializable]
-
+   
+    public Item(Item item)
+    {
+        this.baseItem = item.baseItem;
+        this.itemRarity =item.itemRarity;
+        this.mainStat = item.mainStat;
+        this.subStats = item.subStats;
+    }   
+    public Item()
+    {
+        this.itemRarity = 0;
+        this.mainStat = new StatData();
+        this.subStats = new List<StatData>();
+    }
     public struct StatData
     {
         public string statName;

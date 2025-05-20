@@ -5,15 +5,16 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 public class Item_Drag_Drop : Basic_Drag_Drop
 {
-    [SerializeField] private Canvas canvas;
-    [SerializeField] private CanvasGroup canvasGroup;
-    
+    private Canvas canvas;
+    private CanvasGroup canvasGroup;
+    private ItemUI itemUI;
 
     private void Awake()
     {
         m_RectTransform = GetComponent<RectTransform>();
         canvas = GetComponentInParent<Canvas>();
         canvasGroup = GetComponent<CanvasGroup>();
+        itemUI = GetComponent<ItemUI>();
 
     }
     private void Start()
@@ -42,10 +43,12 @@ public class Item_Drag_Drop : Basic_Drag_Drop
     public override void OnPointerEnter(PointerEventData eventData)
     {
         base.OnPointerEnter(eventData);
+        UI_Manager.instance.ShowItemInfo(itemUI.curItem);
     }
     public override void OnPointerExit(PointerEventData eventData)
     {
         base.OnPointerExit(eventData);
+        UI_Manager.instance.DisableInfo();
     }
 
 }
