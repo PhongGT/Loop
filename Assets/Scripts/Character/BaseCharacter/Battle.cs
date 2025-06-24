@@ -8,6 +8,7 @@ public class Battle : MonoBehaviour
     public Character currentChar;
     public LoadCharacter loadCharacter;
     public HealthBar healthBar;
+    [SerializeField] public Transform healthBarTF;
 
 
     [Header("Trigger")]
@@ -24,8 +25,8 @@ public class Battle : MonoBehaviour
         
         if (healthBar != null)
         {
-            healthBar.SpawnHealthBar();
-            healthBar.healthBar.gameObject.SetActive(true);
+            healthBar.SpawnHealthBar(healthBarTF);
+            healthBar.healthBarSpawn.gameObject.SetActive(true);
         }
         else
         {

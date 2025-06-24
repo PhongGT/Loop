@@ -359,6 +359,7 @@ GameObject:
   - component: {fileID: 4331058742726682}
   - component: {fileID: 95376972023895738}
   - component: {fileID: 4858426287416507990}
+  - component: {fileID: 7259649583041694685}
   m_Layer: 0
   m_Name: Unit_10000
   m_TagString: Untagged
@@ -419,6 +420,7 @@ MonoBehaviour:
   currentChar:
     baseStats: {fileID: 0}
     health: 0
+    shield: 0
     maxHealth: 0
     healthRegen: 0
     damage: 0
@@ -433,10 +435,26 @@ MonoBehaviour:
     critDamage: 0
     pureDamage: 0
     isPlayer: 0
-    canAttack: 0
-    animator: {fileID: 0}
     isDead: 0
   loadCharacter: {fileID: 0}
+  healthBar: {fileID: 7259649583041694685}
+  canAttack: 0
+  triggerSkill: 0
+  animator: {fileID: 0}
+--- !u!114 &7259649583041694685
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1544449467795171}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c79a5690a2bdc24f85f888e298b0f72, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthBarSpawn: {fileID: 0}
+  healthBarPrefab: {fileID: 8064015920481215555, guid: 8f5398a145fb4f24585f558845c5acb6, type: 3}
 --- !u!1 &1576693968319789
 GameObject:
   m_ObjectHideFlags: 0

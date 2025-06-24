@@ -8,17 +8,18 @@ public class LoadCharacter : MonoBehaviour
 
     
     protected GameObject statusBar;
-    [SerializeField] protected GameObject healthBarPrefab;
+    [SerializeField] protected Transform healthBarTF;
     public bool isLoaded = false;
     protected Battle battle;
 
     // Load HealthBar
     public void Load(Character character)
-    {
+    {   
         GameObject a =  Instantiate(character.baseStats.charPrefab, this.transform.position, Quaternion.identity, this.transform);
         a.name = character.baseStats.charPrefab.name;   
         battle = GetComponentInChildren<Battle>();
         battle.currentChar =  character;
+        battle.healthBarTF = healthBarTF;
         battle.canAttack = true;
         isLoaded = true;   
         

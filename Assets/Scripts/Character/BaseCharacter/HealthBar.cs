@@ -5,45 +5,32 @@ using UnityEngine.UI;
 
 public class HealthBar : MonoBehaviour
 {
-    Slider healthSlider;
-    public Transform healthBar;
+    [SerializeField] Slider healthSlider;
+    public GameObject healthBarSpawn;
     public GameObject healthBarPrefab;
-    [SerializeField] private Transform healthPosition;
-
-
     private void OnEnable()
     {
-        if (healthBar != null)
+        if (healthBarSpawn != null)
         {
-            healthBar.gameObject.SetActive(true);
+            healthBarSpawn.gameObject.SetActive(true);
         }
         else return;
     }
     private void OnDisable()
     {
-        if (healthBar != null)
+        if (healthBarSpawn != null)
         {
-            healthBar.gameObject.SetActive(false);
+            healthBarSpawn.gameObject.SetActive(false);
         }
         else return;
 
     }
 
-    public void SpawnHealthBar()
+    public void SpawnHealthBar(Transform healthBarTransform)
     {
-        Canvas[] canvas = FindObjectsOfType<Canvas>();
-        foreach (var item in canvas)
-        {
-            if (item.renderMode == RenderMode.WorldSpace)
-            {
-                canvas = new Canvas[1];
-                canvas[0] = item;
-                break;
-            }
-        }
-        healthBar = Instantiate(healthBarPrefab, canvas[0].transform).transform;
-        healthSlider = healthBar.gameObject.GetComponent<Slider>();
-        healthBar.gameObject.SetActive(false);
+        healthBarSpawn = Instantiate(healthBarPrefab, healthBarTransform);
+        healthSlider = healthBarSpawn.GetComponent<Slider>();
+        healthBarSpawn.gameObject.SetActive(false);
 
     }
 

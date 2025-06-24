@@ -147,9 +147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2df31947c9f032b428d424cf0020d188, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthBar: {fileID: 0}
-  healthPosition: {fileID: 8728124844483083873}
-  healthBarPrefab: {fileID: 8064015920481215555, guid: 8f5398a145fb4f24585f558845c5acb6, type: 3}
+  healthBarTF: {fileID: 8728124844483083873}
   isLoaded: 0
 --- !u!1 &6559485705159354131
 GameObject:
@@ -183,6 +181,6 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: -1}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 5, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
