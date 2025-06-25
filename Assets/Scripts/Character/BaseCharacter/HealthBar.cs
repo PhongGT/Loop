@@ -26,11 +26,12 @@ public class HealthBar : MonoBehaviour
 
     }
 
-    public void SpawnHealthBar(Transform healthBarTransform)
+    public void SpawnHealthBar(Transform healthBarTransform , float maxHealth)
     {
         healthBarSpawn = Instantiate(healthBarPrefab, healthBarTransform);
         healthSlider = healthBarSpawn.GetComponent<Slider>();
         healthBarSpawn.gameObject.SetActive(false);
+        healthSlider.maxValue = maxHealth; // Set max value to 1 for percentage
 
     }
 
@@ -38,8 +39,7 @@ public class HealthBar : MonoBehaviour
     {
         if (healthSlider != null)
         {
-            float healthPercent = currentHealth / maxHealth;
-            healthSlider.value = healthPercent;
+            healthSlider.value = currentHealth;
         }
     }
 

@@ -22,10 +22,11 @@ public class Battle : MonoBehaviour
         loadCharacter = GetComponentInParent<LoadCharacter>();
         healthBar = GetComponent<HealthBar>();
         animator = GetComponent<Animator>();
-        
+        canAttack = true;
+
         if (healthBar != null)
         {
-            healthBar.SpawnHealthBar(healthBarTF);
+            healthBar.SpawnHealthBar(healthBarTF, currentChar.maxHealth);
             healthBar.healthBarSpawn.gameObject.SetActive(true);
         }
         else
@@ -37,14 +38,16 @@ public class Battle : MonoBehaviour
 
     void Update()
     {
+        
         healthBar.UpdateHealthBar(currentChar.health, currentChar.maxHealth);
 
-        if (BattleManager.instance.startBattle && currentChar.isDead)
+        if (BattleManager.instance.startBattle && !currentChar.isDead)
         {
+            
             Attack();
 
         }
-        if(currentChar.isDead)
+        else if(currentChar.isDead)
         {
             Dead();
         }
@@ -89,18 +92,16 @@ public class Battle : MonoBehaviour
     {
         if (currentChar.isDead)
         {
-            if(currentChar.isPlayer)
+            Debug.Log("Character Dead " + currentChar.baseStats.name);
+            if (currentChar.isPlayer)
             {
                 //Gameover
                 return;
             }
             canAttack = false;
             loadCharacter.Clear();
-            
-            BattleManager.instance.UpdateTarget(this.currentChar.isPlayer);
-
             Drop_Manager.instance.DropOnEnemyDead();
-
+            BattleManager.instance.UpdateTarget(this.currentChar.isPlayer);
             if (!BattleManager.instance.CheckBattle())
             {
                 BattleManager.instance.EndBattle(); 

@@ -13,7 +13,8 @@ public class BattleManager : MonoBehaviour
     
     //[SerializeField] protected GameObject player_allys_Parent;
     //[SerializeField] protected GameObject enemys_Parent;
-    public float dayTime = 6f;
+    [SerializeField] float dayTime = 6f;
+    float timer = 0f;
     public int loopCount = 1;
     public int dayCount = 1;
     public int healthPotionCount = 2;
@@ -41,21 +42,20 @@ public class BattleManager : MonoBehaviour
         Actions.StartBattle += StartBattle;
         Actions.EndBattle  += EndBattle;
         battlePanel.SetActive(false);
+        timer = dayTime;
         //StartBattle();
     }
-
-
     void Update()
     {
         if (timerStatState)
         {
-           dayTime -= Time.deltaTime;  
+           timer -= Time.deltaTime;  
         }
 
-        if (dayTime <= 0)
+        if (timer <= 0)
         {
             Actions.SpawnMob?.Invoke(dayCount);
-            dayTime = 10f;
+            timer = dayTime;
             dayCount++;
         }
         
@@ -63,8 +63,7 @@ public class BattleManager : MonoBehaviour
    
     public void StartBattle()
     {
-        startBattle = true;
-
+        startBattle = true;  
     }
     // Input Enemy String List to Load
     public void PreperBattle( List<String> enemys)
@@ -72,14 +71,11 @@ public class BattleManager : MonoBehaviour
         battlePanel.SetActive(true);
         for (int i = 0; i < enemys.Count; i++)
         {
-            print(enemys[i]);
             Spawner.instance.SpawnCharacter(enemys[i] , false ,loopCount);
         }
         
 
     }
-
-
     // Load Character when Battle Start
     public void LoadTarget(bool isPlayer, Character character)
     {
@@ -87,13 +83,13 @@ public class BattleManager : MonoBehaviour
         {
             player_allys.Add(character);
             player = character as Player;
+            player.isPlayer = true;
         }
         else
         {
             enemys.Add(character);
         }
     }
-
     // Update Target when Character Dead
     public void UpdateTarget(bool isPlayer)
     {
@@ -105,13 +101,7 @@ public class BattleManager : MonoBehaviour
         {
             player_allys.RemoveAll(x => x.isDead);
         }
-        
-        
-
-
     }    
-
-    
     // Return Character alive
     public Character ReturnCharacter(bool isPlayer)
     {
@@ -139,6 +129,13 @@ public class BattleManager : MonoBehaviour
 
     public bool CheckBattle()
     {
+        if (enemys.Count == 0)
+        {
+            Debug.Log("Battle End");
+            startBattle = false;
+            Actions.EndBattle?.Invoke();
+            return false;
+        }
         return true;
     }
     public void EndBattle()

@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2056,6 +2055,14 @@ PrefabInstance:
     - target: {fileID: 2788781895935270374, guid: 872f8be47b9f0594a8bc286c313db101, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3656421109332524259, guid: 872f8be47b9f0594a8bc286c313db101, type: 3}
+      propertyPath: dayTime
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3656421109332524259, guid: 872f8be47b9f0594a8bc286c313db101, type: 3}
+      propertyPath: loopCount
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3656421109332524259, guid: 872f8be47b9f0594a8bc286c313db101, type: 3}
       propertyPath: battlePanel
@@ -6803,6 +6810,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1959845280}
   m_CullTransparentMesh: 1
+--- !u!224 &2002645555 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 1906872207452973192, guid: b1981a9fdd02f9442b4768d650048663, type: 3}
+  m_PrefabInstance: {fileID: 3605418920214845518}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2005284909
 GameObject:
   m_ObjectHideFlags: 0
@@ -6840,7 +6852,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -242.81543, y: 12.659973}
+  m_AnchoredPosition: {x: -242.81543, y: 12.659912}
   m_SizeDelta: {x: 485.631, y: 55.556}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2005284911
@@ -7606,6 +7618,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8538352884828973363, guid: b1981a9fdd02f9442b4768d650048663, type: 3}
+      propertyPath: healthBarTF
+      value: 
+      objectReference: {fileID: 2002645555}
     - target: {fileID: 8890098262058552112, guid: b1981a9fdd02f9442b4768d650048663, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
