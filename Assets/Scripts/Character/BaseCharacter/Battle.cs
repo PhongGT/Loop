@@ -47,7 +47,7 @@ public class Battle : MonoBehaviour
             Attack();
 
         }
-        else if(currentChar.isDead)
+        if(currentChar.isDead)
         {
             Dead();
         }
@@ -57,13 +57,7 @@ public class Battle : MonoBehaviour
         if (!canAttack)
             return;
         currentChar.CastSkill(BattleManager.instance.ReturnCharacter(this.currentChar.isPlayer));
-        if(BattleManager.instance.CheckBattle())
-        {
-            StartCoroutine(WaitToAttack());
-        }
-        
-        Debug.Log("In Attack");
-
+        StartCoroutine(WaitToAttack());
     }
     protected void SetTrigger(string name)
     {
@@ -102,9 +96,8 @@ public class Battle : MonoBehaviour
             loadCharacter.Clear();
             Drop_Manager.instance.DropOnEnemyDead();
             BattleManager.instance.UpdateTarget(this.currentChar.isPlayer);
-            if (!BattleManager.instance.CheckBattle())
+            if (BattleManager.instance.CheckBattleEnd())
             {
-                BattleManager.instance.EndBattle(); 
                 Destroy(this.gameObject);
             }
             
@@ -117,7 +110,6 @@ public class Battle : MonoBehaviour
     {
         canAttack = false;
         yield return null;
-        //animator.ResetTrigger("Attack");
         yield return new WaitForSeconds(1 / currentChar.attackSpeed);
         canAttack = true;
     }

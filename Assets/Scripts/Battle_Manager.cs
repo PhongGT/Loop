@@ -127,22 +127,28 @@ public class BattleManager : MonoBehaviour
     }
   
 
-    public bool CheckBattle()
+    public bool CheckBattleEnd()
     {
-        if (enemys.Count == 0)
+        if (enemys.Count == 0 )
         {
             Debug.Log("Battle End");
             startBattle = false;
             Actions.EndBattle?.Invoke();
-            return false;
+            return true;
         }
-        return true;
+        return false;
     }
     public void EndBattle()
     {
        
         battlePanel.SetActive(false);
 
+    }
+    public void OnDisable()
+    {
+        Actions.StartTimer -= () => timerStatState = true;
+        Actions.StartBattle -= StartBattle;
+        Actions.EndBattle -= EndBattle;
     }
 
 
